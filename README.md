@@ -1,4 +1,4 @@
-**_	_****_Basic Calamity Boss Guide_**
+	***_Basic Calamity Boss Guide_**
 
 **_1.3.4.103 version, probably._**
 
