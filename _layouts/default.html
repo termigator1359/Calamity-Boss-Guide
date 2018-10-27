@@ -14,6 +14,11 @@
     <!--[if lt IE 8]>
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
+    <link rel="stylesheet" href="/sevtech/assets/css/jquery.tocible.css" />
+    <script data-rocketsrc="/sevtech/assets/js/jquery.tocible.js" type="text/rocketscript"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
@@ -30,20 +35,24 @@
       </div><!-- end header -->
 
     <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
-
+	<section>
+		<article>
         {{ content }}
-
-      </section>
-
+		</article>
+    </section>
+      <script type="text/rocketscript">
+        $(document).ready(function(e) {
+          //call tocible():
+          $('.wrapper').tocible({
+            heading: 'h1',
+            subheading: 'h2', 
+            reference:'.ref', title:'Contents',
+            collapsible: true,
+            offsetTop: 0 
+          });
+          $('#collapse').click()
+        });
+       </script>
     </div>
 
     {% if site.google_analytics %}
