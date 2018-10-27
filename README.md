@@ -1,11 +1,3 @@
----
-title: Basic Calamity Boss Guide
-layout: post
-author: drh
-permalink: /Calamity-Boss-Guide/
-source-id: 1eFXCRe4VhoqIw9cu9NNpQ-sbqq_c10ESPxxrub7iM7w
-published: true
----
 **_	_****_Basic Calamity Boss Guide_**
 
 **_1.3.4.103 version, probably._**
@@ -408,7 +400,8 @@ King Slime has a memorable pattern of doing small jumps and then a big jump afte
 
     * **Melee: **Boomerang, Starfury and Claws are there for the same reason (and claws do share the same drawback of being non-viable in Death - DS deals ~360 damage with his head).
 
-    * **Mage: **all of those should be self-explanatory (actually not smh).If using Coral Sprout shoot ahead of him since the projectiles actually bounce before resting on the ground
+    * **Mage: **all of those should be self-explanatory (actually not smh).
+If using Coral Sprout shoot ahead of him since the projectiles actually bounce before resting on the ground
 
     * **Summoner: **slimes can eat him within mere seconds.
 
@@ -2432,23 +2425,30 @@ Try to not stay too close to the walls, as you might get stuck in between all th
 
 Brothers Phase
 
-    * The brothers are not very dangerous, as their only attack is to fire a single brimstone blast down at you. Though do be careful as they can snipe you if you're moving diagonally upward.Dodge by moving mostly vertically.
+    * The brothers are not very dangerous, as their only attack is to fire a single brimstone blast down at you. Though do be careful as they can snipe you if you're moving diagonally upward.
+Dodge by moving mostly vertically.
 
 		
 
 Fourth Bullet Hell Phase
 
-    * Try to begin this phase at the upper half of the arena. This phase is basically the same as the 3rd bullet hell, but when you see a brimstone monster![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_87.png)spawn from the top of the screen slowly move downward. As you progress in the fight more and more of them will appear, but you can stack them on top of each other effectively mitigating the extra numbers completely.**Note:** From this phase onward you should circle around the arena for the rest of the fight. Try to not turn around and circle the other way unless you get blocked by a brimstone monster or SCal and her projectiles.It's recommended to try to keep circling in a clockwise direction, as it will make the final bullet hell phase a bit easier to manage.
+    * Try to begin this phase at the upper half of the arena. This phase is basically the same as the 3rd bullet hell, but when you see a brimstone monster![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_87.png)spawn from the top of the screen slowly move downward. As you progress in the fight more and more of them will appear, but you can stack them on top of each other effectively mitigating the extra numbers completely.
 
-Soul Seeker Phase	
+**Note:** From this phase onward you should circle around the arena for the rest of the fight. Try to not turn around and circle the other way unless you get blocked by a brimstone monster or SCal and her projectiles.
+It's recommended to try to keep circling in a clockwise direction, as it will make the final bullet hell phase a bit easier to manage.
 
-    * In this phase nothing changes, but you'll be using different weapons (except Throwing) to clear out the Soul Seeker ring.Do watch out for the abyssal souls![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_88.gif)that the Soul Seekers fire, as they can snipe you from unexpected and awkward angles.
+Soul Seeker Phase
+	
+
+    * In this phase nothing changes, but you'll be using different weapons (except Throwing) to clear out the Soul Seeker ring.
+Do watch out for the abyssal souls![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_88.gif)that the Soul Seekers fire, as they can snipe you from unexpected and awkward angles.
 
 		Final Bullet Hell Phase
 
     * In this phase you will be circling the arena in a preferably clockwise motion. 
 
-A counter-clockwise circle will still work, but it'll be a bit harder to manage. This is because moving up in this bullet hell is very dangerous, and the Brimstone Flame Skulls![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_89.gif)will always spawn from the right side of the screen.Moving counter-clockwise means you’ll be flying up at the right side, which means you’ll be both at risk of getting sniped by projectiles from above, and you’ll be dangerously close to the Brimstone Flame Skulls![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_90.gif)spawn point.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_91.png)
+A counter-clockwise circle will still work, but it'll be a bit harder to manage. This is because moving up in this bullet hell is very dangerous, and the Brimstone Flame Skulls![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_89.gif)will always spawn from the right side of the screen.
+Moving counter-clockwise means you’ll be flying up at the right side, which means you’ll be both at risk of getting sniped by projectiles from above, and you’ll be dangerously close to the Brimstone Flame Skulls![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_90.gif)spawn point.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_91.png)
 
 ### Second Sepulcher Phase
 
@@ -2460,7 +2460,9 @@ A counter-clockwise circle will still work, but it'll be a bit harder to manage.
 
 ### Dying Phase
 
-    * During this phase, SCal will be monologuing while staying in place, not attacking. The only threats in this phase are the brimstone monsters![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_93.png)(which gain a speed boost during this phase), and any leftover projectiles prior to this phase. However, none of the threats here are actually dangerous at all (aside from brimstone monsters, but if you have stacked them they're completely harmless since you can go in a circle).Simply circle around the arena while waiting for SCal to finish her monologue. When she finishes, she’ll be vulnerable again. Attack her until her HP reaches zero.
+    * During this phase, SCal will be monologuing while staying in place, not attacking. The only threats in this phase are the brimstone monsters![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_93.png)(which gain a speed boost during this phase), and any leftover projectiles prior to this phase. However, none of the threats here are actually dangerous at all (aside from brimstone monsters, but if you have stacked them they're completely harmless since you can go in a circle).
+Simply circle around the arena while waiting for SCal to finish her monologue. When she finishes, she’ll be vulnerable again. Attack her until her HP reaches zero.
+
 
 
 
