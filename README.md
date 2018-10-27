@@ -22,9 +22,7 @@
 
 *Something that says (optional) means "this is dependent on preference" over “this is recommended”*
 
-*Mostly worked on by drh (Village Idiot) and LompL Allimath*
-
-*(drh actually had the idea to do this so it was mostly him tbh, I was just the strategy boi)*
+*Mostly worked on by drh and whoever's left alive in the team*
 
 *If you got any improvements then send them over to drh#1109.*
 
