@@ -387,6 +387,7 @@ Sargassum, the bringer of bol's big brother.
 
 N30N014.
 
+Diamenciory, Luigi% runner, if you're looking for "Luigi kills bosses while doing nothing" -> [here](https://www.youtube.com/channel/UCcIQUqtBnwuaPZW143zb40g)
 LordMetarex, pinning this in #help_and_advice. Thanks Meta, we appreciate it and also we lub u bb.
 
 Special thanks to some of the people on leviathan's discord, namely Amelia Faye, Sygilin, Astral Lasers Lad, and I prolly missed a few others so sorrrryyyyy ;-;
