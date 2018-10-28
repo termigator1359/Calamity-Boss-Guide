@@ -2,7 +2,7 @@
 
 *"The lord of all things slimy."*
 
-![KS](/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
+![KS](./public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
 
 * **Armor sets:**
 
@@ -54,11 +54,11 @@
 
     * **Strategy 1 - Cheesing/Luigi%:**
 
-![Incomprehensible.](/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
+![Incomprehensible.](./public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
 
 What you wanna do here is sit on top of this rope (approximately 20-25 tiles high) and just shoot at him until he dies. Summoners don't even do anything other than sitting at the top. Obviously doesn’t work if you have no ranged attacks because you won’t be able to deal damage.
 
-![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
+![image alt text](./public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
 
 * **Strategy 2 - Running away on platforms:**
 
