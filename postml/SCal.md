@@ -15,10 +15,10 @@
     * **Melee**: Ark of the Cosmos, Scourge of the Cosmos, Burning Sky.
 
     * **Mage**: *Voltaic Climax*, Yharim's Crystal, Phoenix Flame Barrage.
+    
+    * **Throwing**: Celestus, *Scourge of the Cosmos*.
 
     * **Summoner**: *Yharon's Kindle Staff*, *Cosmic Immaterializer*, Staff of the Mechworm.
-
-    * **Throwing**: Celestus, *Scourge of the Cosmos*.
 
 * **General Accessories:**
 
@@ -63,30 +63,38 @@
      * Yharim's crystal has enough dps to be viable but is generally harder to use than Voltaic Climax.
 
      * Phoenix Flame Barrage, much like Burning Sky and Chicken Cannon, is specifically for the soul seeker ring due to its bigger AoE.
-
-    * **Summoner**:
-Optimal setups are this:
-
-1. 1 Cosmic Immaterializer + 1 Yharon son, with the rest mechworm.
-
-2. 1 Cosmic Immaterializer + 2 Yharon sons, with the rest mechworm.
-
-3. 1 Cosmic Immaterializer + 1 Yharon son + Godly Soul Artifact, with the rest mechworm.
-
-Do note that Mechworm that has <5 segments is worthless.
-
+     
     * **Throwing**:
   
    * Celestus will be your main damage weapon. You'll also have to use this for the soul seeker ring, as sadly throwing don’t have any other options. Try to guess/watch where the soul seekers are, and aim as best as you can.
 
    * Scourge of the Cosmos (Throwing): like melee, use this one during the first bullet hell, then switch to Celestus when sepulcher spawns. The eaters from this weapon will help kills the brimstone hearts and makes the 1st sepulcher phase go by very quickly. Do this on every bullet hell.
 
+    * **Summoner**:
+Optimal setups are this:
+
+      1. 1 Cosmic Immaterializer + 1 Yharon son, with the rest mechworm.
+
+      2. 1 Cosmic Immaterializer + 2 Yharon sons, with the rest mechworm.
+
+      3. 1 Cosmic Immaterializer + 1 Yharon son + Godly Soul Artifact, with the rest mechworm.
+
+Do note that Mechworm that has <5 segments is worthless.
+
+    
+
 * **Strategy:**
 
-    * Supreme Calamitas DOES have a set pattern of attacks, she will do the same thing every time. The only variance is that when she says "Don't worry, I still have plenty of tricks left" she will always fly above you while firing attacks before falling back into place in her pattern loop. I will leave a picture for her pattern below this. Try to stay near the ceiling at all times during her bullet hell phases to make the exploding projectiles spawn outside of the arena and break against the arena walls. If you can surround your Scal arena in walls, they can explode farther out and give you bigger gaps to dodge through.
+   * Supreme Calamitas DOES have a set pattern of attacks, she will do the same thing every time. The only variance is that when she says "Don't worry, I still have plenty of tricks left" she will always fly above you while firing attacks before falling back into place in her pattern loop. I will leave a picture for her pattern below this. Try to stay near the ceiling at all times during her bullet hell phases to make the exploding projectiles spawn outside of the arena and break against the arena walls. If you can surround your Scal arena in walls, they can explode farther out and give you bigger gaps to dodge through. 
+   
+   
+   
+   
+   
+   
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_82.png)
 
-    * In her mobile phase, where she doesn't stick to your sides and flies around, she will choose her attacks randomly. The safest thing to do here is to try and move to one side of the arena, and back to the other side back and forth in a half circle in shape of a "U". Move decently quickly but carefully; you don’t want to get sniped by any of her projectiles. In her 2nd phase, she charges at you about twice as often as the 1st phase, so always be on your guard, and be prepared to dodge her charges when she turns black.
+   * In her mobile phase, where she doesn't stick to your sides and flies around, she will choose her attacks randomly. The safest thing to do here is to try and move to one side of the arena, and back to the other side back and forth in a half circle in shape of a "U". Move decently quickly but carefully; you don’t want to get sniped by any of her projectiles. In her 2nd phase, she charges at you about twice as often as the 1st phase, so always be on your guard, and be prepared to dodge her charges when she turns black.
 
 ### First Bullet Hell Phase
 
