@@ -36,7 +36,7 @@ The Community, Siren's Heart.
 
     * **Mage**: Sorcerer Emblem.
 
-    * **Summoner: Statis' Blessing.
+    * **Summoner**: Statis' Blessing.
 
     * **Throwing**: Statis' Ninja Belt.
 
