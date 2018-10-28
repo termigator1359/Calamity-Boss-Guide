@@ -1,0 +1,41 @@
+## Bumblebirb
+
+*"A failed Yharon clone is bumbling about in the jungle…"*
+
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_77.png)
+
+* **Armor Sets:**
+
+    * **Any class**: Tarragon, Bloodflare, God Slayer.
+
+* **Weapon Loadouts:**
+
+    * **Ranger**: *Phangasm*, SDFMG, Minigun. Vanquisher Arrows. Holy Fire Bullets.
+
+    * **Melee**: Galaxia, Enforcer.
+
+    * **Mage**: *Magnetic Meltdown*, *Alpha Ray*, Venusian Trident.
+
+    * **Summoner**: Staff of the Mechworm, Calamari's Lament, Ethereal Subjugator.
+
+    * **Throwing**: Valediction, Executioner's Blade.
+
+* **General Accessories:**
+
+    * Seraph Tracers/Elysian Tracers, Asgardian Aegis, Core of the Blood God, The Community, Reaper Tooth Necklace, The Sponge, Rampart of Deities, Dimensional Soul Artifact.
+
+* **Class Specific Accessories:**
+
+    * **Ranged**: Elemental Quiver.
+
+    * **Melee**: Elemental Gauntlet.
+
+    * **Mage**: Ethereal Talisman, Eldritch Soul Artifact.
+
+    * **Summoner**: Statis' Blessing, Statis’ Curse, Statis’ Belt of Curses.
+
+    * **Throwing**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech.
+
+* **Strategy:**
+
+    * The entire fight is just butchering a steroided Mothron, so do what you would usually do while farming eclipses. He bumbles.

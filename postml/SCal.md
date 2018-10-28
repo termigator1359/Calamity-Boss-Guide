@@ -1,0 +1,149 @@
+## Supreme Calamitas
+
+*"Do you enjoy going through hell?"*
+
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_81.png)
+
+* **Armor Sets**:
+
+    * **All classes**: Auric Tesla.
+
+* **Weapon Loadouts:**
+
+    * **Ranger**: Heavenly Gale, Chicken Cannon, Vanquisher Arrows.
+
+    * **Melee**: Ark of the Cosmos, Scourge of the Cosmos, Burning Sky.
+
+    * **Mage**: *Voltaic Climax*, Yharim's Crystal, Phoenix Flame Barrage.
+
+    * **Summoner**: *Yharon's Kindle Staff*, *Cosmic Immaterializer*, Staff of the Mechworm.
+
+    * **Throwing**: Celestus, *Scourge of the Cosmos*.
+
+* **General Accessories:**
+
+    * Seraph Tracers/Elysian Tracers/Celestial Tracers, Asgardian Aegis, Core of the Blood God, The Community, Affliction?, Dark Sun Ring, Dimensional Soul Artifact.
+
+* **Class Specific Accessories:**
+
+    * **Ranged**: Elemental Quiver.
+
+    * **Melee**: Elemental Gauntlet.
+
+    * **Mage**: Ethereal Talisman, Eldritch Soul Artifact.
+
+    * **Summoner**: Statis' Blessing, Statis’ Curse, Statis’ Belt of Curses, Godly Soul Artifact.
+
+    * **Throwing**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech.
+
+* **Special combination**: Mage armor, Statis' Blessing and Statis’ Curse(+3 minion slots each), Dark Sun Ring(+1 slot)/Eldritch Soul Artifact (+2 slots), Voltaic Climax, Cosmic Immaterializer. Having specifically those 3 accessories should bring you to 10 minion slots, allowing you to use Immaterializer while also using Voltaic as your main weapon. This combination has been banned from Untouchable/Dead Inside challenges.
+
+* **Weapon explanations:**
+
+    * **Ranger**:
+
+     * Heavenly Gale is pretty much the only ranged weapon at its tier that can do decent damage against SCal.
+
+     * Chicken Cannon is specifically for killing the soul seeker ring as its explosions have massive range.
+
+    * **Melee**:
+
+     * Ark of the Cosmos will be your main damage dealer.
+
+     * Scourge of the Cosmos (Melee) helps kill the brimstone hearts and makes the 1st sepulcher phase go by very quickly. It should also always be used when SCal is invulnerable (except for the soul seeker part and the final bullet hell). 
+
+     * Burning Sky is specifically for killing the soul seeker ring. This weapon's projectiles cover a large portion of the screen, and as such it is very good for killing off the soul seeker ring that often goes offscreen.
+
+     * Exoblade can be an alternative heart killer if you don't want to bother with Scourge.
+
+    * **Mage**:
+
+     * Voltaic Climax will be your main damage weapon. Used for pretty much almost everything in the fight.
+
+     * Yharim's crystal has enough dps to be viable but is generally harder to use than Voltaic Climax.
+
+     * Phoenix Flame Barrage, much like Burning Sky and Chicken Cannon, is specifically for the soul seeker ring due to its bigger AoE.
+
+    * **Summoner**:
+Optimal setups are this:
+
+1. 1 Cosmic Immaterializer + 1 Yharon son, with the rest mechworm.
+
+2. 1 Cosmic Immaterializer + 2 Yharon sons, with the rest mechworm.
+
+3. 1 Cosmic Immaterializer + 1 Yharon son + Godly Soul Artifact, with the rest mechworm.
+
+Do note that Mechworm that has <5 segments is worthless.
+
+  * **Throwing:
+  
+   * Celestus will be your main damage weapon. You'll also have to use this for the soul seeker ring, as sadly throwing don’t have any other options. Try to guess/watch where the soul seekers are, and aim as best as you can.
+
+   * Scourge of the Cosmos (Throwing): like melee, use this one during the first bullet hell, then switch to Celestus when sepulcher spawns. The eaters from this weapon will help kills the brimstone hearts and makes the 1st sepulcher phase go by very quickly. Do this on every bullet hell.
+
+* **Strategy:**
+
+    * Supreme Calamitas DOES have a set pattern of attacks, she will do the same thing every time. The only variance is that when she says "Don't worry, I still have plenty of tricks left" she will always fly above you while firing attacks before falling back into place in her pattern loop. I will leave a picture for her pattern below this. Try to stay near the ceiling at all times during her bullet hell phases to make the exploding projectiles spawn outside of the arena and break against the arena walls. If you can surround your Scal arena in walls, they can explode farther out and give you bigger gaps to dodge through.
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_82.png)
+
+    * In her mobile phase, where she doesn't stick to your sides and flies around, she will choose her attacks randomly. The safest thing to do here is to try and move to one side of the arena, and back to the other side back and forth in a half circle in shape of a "U". Move decently quickly but carefully; you don’t want to get sniped by any of her projectiles. In her 2nd phase, she charges at you about twice as often as the 1st phase, so always be on your guard, and be prepared to dodge her charges when she turns black.
+
+### First Bullet Hell Phase
+
+   * Use horizontal movement for the first 5 seconds, mostly vertical movement for the following 5 seconds, and slowly move horizontally to the left for the last 5 seconds.
+
+   * If you're Melee or Throwing, use Scourge of the Cosmos to pile up the eaters during this phase. Then switch to your main weapon after this phase ends. This will speeds up the next phase considerably.	
+
+   * This tactic also works with other classes, though a bit less effective. If you're Mage, use Voltaic Climax to create a couple rings of orbs at the places the brimhearts will spawn in advance during the last few seconds of this phase.
+
+### Second Bullet Hell Phase
+
+   * Stay at the top right corner of the arena. The gigablasts ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_83.png) will spawn from either the top or from the right side of the screen. 
+
+Try to not stay too close to the walls, as you might get stuck in between all the brimstone blasts.
+
+### Third Bullet Hell Phase
+
+   * Stay in the upper half of the arena, both the gigablasts ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_84.png) and abyssal fireblasts ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_85.png) spawn from only the top of the screen. Watch out for the abyssal souls rings ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_86.gif) that may overlap each other.
+
+### Brothers Phase
+
+   * The brothers are not very dangerous, as their only attack is to fire a single brimstone blast down at you. Though do be careful as they can snipe you if you're moving diagonally upward.
+Dodge by moving mostly vertically.
+
+		
+
+### Fourth Bullet Hell Phase
+
+   * Try to begin this phase at the upper half of the arena. This phase is basically the same as the 3rd bullet hell, but when you see a brimstone monster ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_87.png) spawn from the top of the screen slowly move downward. As you progress in the fight more and more of them will appear, but you can stack them on top of each other effectively mitigating the extra numbers completely.
+
+**Note:** From this phase onward you should circle around the arena for the rest of the fight. Try to not turn around and circle the other way unless you get blocked by a brimstone monster or SCal and her projectiles.
+It's recommended to try to keep circling in a clockwise direction, as it will make the final bullet hell phase a bit easier to manage.
+
+### Soul Seeker Phase
+	
+
+   * In this phase nothing changes, but you'll be using different weapons (except Throwing) to clear out the Soul Seeker ring. Do watch out for the abyssal souls ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_88.gif) that the Soul Seekers fire, as they can snipe you from unexpected and awkward angles.
+
+### Final Bullet Hell Phase
+
+   * In this phase you will be circling the arena in a preferably clockwise motion. 
+
+A counter-clockwise circle will still work, but it'll be a bit harder to manage. This is because moving up in this bullet hell is very dangerous, and the Brimstone Flame Skulls ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_89.gif) will always spawn from the right side of the screen.
+
+Moving counter-clockwise means you’ll be flying up at the right side, which means you’ll be both at risk of getting sniped by projectiles from above, and you’ll be dangerously close to the Brimstone Flame Skulls ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_90.gif) spawn point. 
+
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_91.png)
+
+### Second Sepulcher Phase
+
+   * For this phase you'll be still be circling like normal, you will however need to go slower in order to attack the Brimstone Hearts, it’s risky but necessary to progress the fight
+
+   * Summoners don't have to focus on attacking the hearts at all since the minions will do so for them.
+
+   * If you're unlucky, Sepulcher can spawn in particularly bad spots, possibly getting cheap shots on you with its abyssal souls ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_92.gif) . Sadly, nothing much can be done about it other than try your best to dodge it as well as everything else SCal is throwing at you.
+
+### Dying Phase
+
+   * During this phase, SCal will be monologuing while staying in place, not attacking. The only threats in this phase are the brimstone monsters ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_93.png) (which gain a speed boost during this phase), and any leftover projectiles prior to this phase. However, none of the threats here are actually dangerous at all (aside from brimstone monsters, but if you have stacked them they're completely harmless since you can go in a circle).
+Simply circle around the arena while waiting for SCal to finish her monologue. When she finishes, she’ll be vulnerable again. Attack her until her HP reaches zero.
