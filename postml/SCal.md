@@ -31,10 +31,10 @@
     * **Melee**: Elemental Gauntlet.
 
     * **Mage**: Ethereal Talisman, Eldritch Soul Artifact.
+    
+    * **Throwing**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech.
 
     * **Summoner**: Statis' Blessing, Statis’ Curse, Statis’ Belt of Curses, Godly Soul Artifact.
-
-    * **Throwing**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech.
 
 * **Special combination**: Mage armor, Statis' Blessing and Statis’ Curse(+3 minion slots each), Dark Sun Ring(+1 slot)/Eldritch Soul Artifact (+2 slots), Voltaic Climax, Cosmic Immaterializer. Having specifically those 3 accessories should bring you to 10 minion slots, allowing you to use Immaterializer while also using Voltaic as your main weapon. This combination has been banned from Untouchable/Dead Inside challenges.
 
@@ -87,12 +87,7 @@ Do note that Mechworm that has <5 segments is worthless.
 
    * Supreme Calamitas DOES have a set pattern of attacks, she will do the same thing every time. The only variance is that when she says "Don't worry, I still have plenty of tricks left" she will always fly above you while firing attacks before falling back into place in her pattern loop. I will leave a picture for her pattern below this. Try to stay near the ceiling at all times during her bullet hell phases to make the exploding projectiles spawn outside of the arena and break against the arena walls. If you can surround your Scal arena in walls, they can explode farther out and give you bigger gaps to dodge through. 
    
-   
-   
-   
-   
-   
-![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_82.png)
+                ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_82.png)
 
    * In her mobile phase, where she doesn't stick to your sides and flies around, she will choose her attacks randomly. The safest thing to do here is to try and move to one side of the arena, and back to the other side back and forth in a half circle in shape of a "U". Move decently quickly but carefully; you don’t want to get sniped by any of her projectiles. In her 2nd phase, she charges at you about twice as often as the 1st phase, so always be on your guard, and be prepared to dodge her charges when she turns black.
 
