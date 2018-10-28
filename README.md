@@ -234,31 +234,31 @@ Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
 
 ### Pre-Hardmode
 
-#### [King Slime](/prehm/KS.md)
+#### [King Slime](prehm/KS.md)
 
-#### [Desert Scourge](/prehm/DS.md)
+#### [Desert Scourge](prehm/DS.md)
 
-#### [Eye of Cthulhu](/prehm/EoC.md)
+#### [Eye of Cthulhu](prehm/EoC.md)
 
-#### [Crabulon](/prehm/Crab.md)
+#### [Crabulon](prehm/Crab.md)
 
-#### [Eater of Worlds](/prehm/EoW.md)
+#### [Eater of Worlds](prehm/EoW.md)
 
-#### [Brain of Cthulhu](/prehm/BoC.md)
+#### [Brain of Cthulhu](prehm/BoC.md)
 
-#### [Queen Bee](/prehm/QB.md)
+#### [Queen Bee](prehm/QB.md)
 
-#### [Hive Mind](/prehm/HM.md)
+#### [Hive Mind](prehm/HM.md)
 
-#### [Perforators](/prehm/Perfs.md)
+#### [Perforators](prehm/Perfs.md)
 
-#### [Skeletron](/prehm/Skele.md)
+#### [Skeletron](prehm/Skele.md)
 
-#### [First trip to Abyss](/unrelated/abyss1.md)
+#### [First trip to Abyss](unrelated/abyss1.md)
 
-#### [Slime God](/prehm/SG.md)
+#### [Slime God](prehm/SG.md)
 
-#### [Wall of Flesh](/prehm/WoF.md)
+#### [Wall of Flesh](prehm/WoF.md)
 
 
 ## Cryogen
