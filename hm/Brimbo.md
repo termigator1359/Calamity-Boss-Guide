@@ -1,6 +1,6 @@
 ## Brimstone Elemental
 
-*"**A fallen deity resides in the depths of hell..."*
+*"A fallen deity resides in the depths of hell..."*
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_31.png)
 
@@ -42,6 +42,6 @@
 
     * Move away from her during her charging phases. Do circles around her during her projectile-spam phase. When she enters her shell, move in a circle/semicircle and don't move too far away from her. Use RoD to avoid her shell phase barrage attacks in case you get stuck in a corner. Also avoid killing Brimlings on Revengeance+ because if you kill one - another spawns in and ruins your day.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_32.png)
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_32.png)
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_33.png)
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_33.png)
