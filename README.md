@@ -1,81 +1,56 @@
-	**_Basic Calamity Boss Guide_**
+#*Basic Calamity Boss Guide*
 
-**_1.3.4.103 version, probably._**
+_**Version: 1.3.4.103**_
 
-*Disclaimer: you can get some hardmode accessories pre-everything.*
+Bosses are listed in old progression order, we're not taking non-linearity into account.
 
-*Bosses are listed in old progression order, we're not taking non-linearity into account.*
+Also check out [wiki guide](https://calamitymod.gamepedia.com/Guide:Class_setups).
 
-*Also check out **[wiki guid*e](https://calamitymod.gamepedia.com/Guide:Class_setups)*.*
+**Subjectively all-around best weapons are marked with cursive.**
 
-**_Subjectively _***all-around***_ _***best weapons are marked with cursive.*
-
-*Color codings:*
-
-*Expert *
-
-*Revengeance*
-
-*Anything with a + on it means "or subsequent upgrades" *
-
-*Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
+*Anything with a + on it means "or subsequent upgrades"
+Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
 
 *Something that says (optional) means "this is dependent on preference" over “this is recommended”*
 
-*Mostly worked on by drh and whoever's left alive in the team*
-
+*Mostly worked on by drh and whoever's left alive in the team.*
 *If you got any improvements then send them over to drh#1109.*
-
-*Or plop them over to **[discor*d](https://discord.gg/8hwAmgb)*.*
+*Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 ## Tips and class viability
 
 ### General
 
 * How to use accessory lists: first you grab a mobility accessory (wings/boots), then you grab your class accessories, fill the rest with overall good items (like straight damage increases).
-
 * Halibut Cannon isn't accounted for everything, because once you get it - your run is over, might as well just stop trying.
-
 * Yes, you are supposed to use buffs on every boss. Too hard to farm? Blood Orbs. Too lazy to do it? Don't complain about things being hard, I guess.
-
 * Rage and Adrenaline only take base damage into calculations, so Lucky is the preferred modifier if you plan on using them often.
-
 * Half of the bosses, at the very least, are vulnerable to circling. Other half is vulnerable to running away from them.
-
 * When farming money off bosses, turn defiled on for extra profit when opening bags.
+* You can still get treasure bags through Armageddon, but I don't know why you'd do that.
 
 ### Pre-HM
 
 * **All classes**
 
     * If you get an early Blood Moon and gather enough blood orbs you can get abyss weapons way before you're supposed to - make a Zen potion on Alchemy Table up on the main planetoids, venture into the dungeon (Zen should block Dungeon Guardians) and hope for some golden keys in wooden chests so that you can keep praying for shadow key.
-
     * Boots are mandatory for 90% of the fights.
-
     * Warding isn't too bad at this stage, although more damage would be preferred.
-
     * If in Revengeance or above consider farming King Slime/Desert Scourge for Laudanum/Stress Pills (Laud's much better), gives too many stats packed into one accessory.
-
     * Goblins are pre-boss, so go ahead and knock yourself out with all those upgraded accessories.
-
     * Abyss weapons are kings of pre-HM, get them as soon as you kill Skele.
-
     * Money farms: Crabulon and Queen Bee.
 
 * **Ranged**
 
     * Worm bosses die to piercing damage real fast (Jester arrows).
-
     * After EoC you can get Pumpler, which is generally better than Minishark.
-
     * Conversely, if you want to use Minishark consider using Shark Tooth Necklace, it will increase your damage up quite nicely.
 
 * **Melee**
 
     * Invest in Seashell Boomerang early, it could easily be your main damage source for the entire stage.
-
     * Bladecrest Oathsword is also an ok option for "ranged" combat.
-
     * Claws are iffy to use now, so don't bother (unless it’s Mycelial Claws).
 
 * **Mage**
@@ -85,15 +60,12 @@
 * **Summoner**
 
     * AI tends to be extremely stupid, so don't neglect cancelling the buff and resummoning them on enemy’s face.
-
     * Hive Mind/Perfs summons are somewhat bad due to the fact that they pierce.
-
     * Hornets and Imps can also go :gun: themselves.
 
 * **Thrower**
 
     * Grenades are an extremely cheap source of major damage.
-
     * The sooner you get Raider's Talisman - the better, it’s practically a class emblem that compensates for the fact that you don’t get one on WoF.
 
 ### HM
@@ -101,41 +73,26 @@
 * **All classes**
 
     * If you're not using wings - you’re doing something wrong.
-
-    * Leaf Wings are the first ones you can get, and you should do that.
-
+    * Leaf Wings are the first ones you can get, and you should do that. Or don't, Soul of Cryogen exists.
     * Blood Pact is bad. Yes, that fucking bad. Don't ever use it.
-
     * So is Heart of the Elements.
-
     * Hallowed armor is also bad.
-
     * Right after Clonelamitas dies most classes can skidaddle to the Abyss and get better weapons. Except melee. Typhon's Greed is a meme.
-
     * Everyone can ignore GSS, the only "good" weapon is Duststorm in a Bottle, and it's pretty much outclassed by any throwing weapon you can get at that point.
-
     * Money farms: Queen Bee and Ravager (only if you're used to him, he’s quite a pain to nohit, even with post-ML gear otherwise it’s better to armageddon Queens).
-
-        * If you stock up 30-40 Ravager bags for post-Providence you can get 3000 platinum just for opening them.
-
+    * If you stock up 30-40 Ravager bags for post-Providence you can get 3000 platinum just for opening them.
     * If you have free accessory slots you can always toss in an emblem.
-
     * Universal support weapons: Golden Shower and it's upgrade - Everglade Spray.
 
 * **Ranged**
 
     * If you want to have a much easier time with half the bosses - use Daedalus Stormbow. It's not on any boss because it’s stupid and works until Golem.
-
     * Verium Bullets are the first bullets that are going to home, feel free to make a bunch of them.
-
     * Terra Bullets are also really good,
-
 * **Melee**
 
-    * **OATHBLADE **(it's a post-mech weapon that kills Plantera in 24 seconds)
-
+    * **OATHBLADE** (it's a post-mech weapon that kills Plantera in 24 seconds)
     * Terra Blade is the offensive option, Terra Edge is the defensive, pick whatever suits you most.
-
     * If going for true melee you should stack Violent reforges and grab armors that increase your melee speed (Old One's Army works).
 
 * **Mage**
@@ -145,45 +102,34 @@
 * **Summoner**
 
     * You'll be stuck with Claspers until Optic Staff, which promptly will be upgraded (read: replaced) into Entropy’s Vigil.
-
     * "Stupid AI" tip still works, but at this point you might have a lot of slots, so that would overpower the dumbassery of the most neglected class (after the sexually confused melee-ranged hybrid).
 
 * **Thrower**
 
     * Throwing sucks.
-
-    * No, seriously, your options are going to be HM ore consumables before Cryogen, Ice Stars after Cryogen, Ballistic Poison Bomb after Clone, Bracklish Flask after Levi. That's about as much upgrades as you can get.
+    * No, seriously, your options are going to be HM ore consumables before Cryogen, Ice Stars after Cryogen, Brimblade if you go according to this progression, Ballistic Poison Bomb after Clone, Bracklish Flask after Levi. That's about as much upgrades as you can get.
 
 ### Post-ML
 
 * **All classes**
 
-    * ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
-
+    * ![Yes.](/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
     * At this point having Warding prefix on anything is equivalent to giving yourself -4% damage/crit chance.
-
-    * Remember the HotE and Blood Pact tip from one page above? Draedon's Heart joins them.
-
+    * Remember the HotE and Blood Pact tip from above? Draedon's Heart joins them.
     * After Polter everyone except ranged and melee should go into the abyss and farm their respective weapons.
-
     * Before you kill Provi go back to Ravager and farm him for some bags (open them after Provi), that would net you a shitton of bloodstone without you having to suffer through the fattest HM boss.
-
     * Money farms: Profaned Guardians, Ravager, DoG.
-
     * Keep Everglade Spray, it's hard to overestimate 20 seconds of Ichor.
 
 * **Ranged**
 
     * Clockwork Bow is an early "stupid" choice, because it has immense damage output, but doesn't often hit things. It’s the equivalent of random(360). On Providence it should do quite nicely however.
-
     * Terra Bullets are now bad, don't use them, grab Holy Fire.
-
     * Post-DoG guns are shit, use bows.
 
 * **Melee**
 
     * Stick to Ataxia until DoG dies.
-
     * Once Polter ceases to exist - grab Banshee Hook, this is gonna be your best weapon for some time.
 
 * **Mage**
@@ -193,14 +139,11 @@
 * **Summoner**
 
     * Don't go for Eldritch artifact unless you’re planning on multiclassing with mage.
-
     * However please do go for Godly, 8 extra minion slots is nothing to laugh about.
 
 * **Thrower**
 
-    * Honestly, there isn't that much to say about throwing, you’re gonna go from Pitchforks to Amputator to Valediction to Executioner’s Blade to Celestus.
-
-* Generally most bosses require you to make an arena of some sort, but you can get away with some rows of platforms, 3-5 rows at most.
+    * Honestly, there isn't that much to say about throwing, you’re gonna go from Pitchforks to Amputator to Valediction to Executioner’s Blade to Celestus or Scourge of the Cosmos.
 
 **Class viability**:
 
@@ -265,9 +208,9 @@
     <td>Viable</td>
     <td>Viable</td>
     <td>Viable</td>
-    <td>Kinda Viable</td>
+    <td>Kinda viable</td>
     <td>Viable</td>
-    <td>Kinda Suffers</td>
+    <td>Kinda suffers</td>
     <td>Subpar to other classes</td>
   </tr>
   <tr>
@@ -290,63 +233,63 @@
 
 *"The lord of all things slimy."*
 
-**                                               **![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
+				![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
 
 * **Armor sets:**
 
-    * **Any class: **Wulfrum,** **Victide.
+    * **Any class**: Wulfrum, Victide.
 
-    * **Mage: **Jungle, Meteor, Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants.
+    * **Mage**: Jungle, Meteor, Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants.
 
-    * **Throwing: **Fossil.
+    * **Throwing**: Fossil.
 
 * **Weapon Loadouts:**
 
-    * **Ranger: ***Wulfrum Bow* or *Seabow* w/ Jester Arrows/Frostburn arrows Firestorm Cannon.
+    * **Ranger**: Wulfrum Bow or *Seabow* w/ Jester Arrows/Frostburn arrows, Firestorm Cannon.
 
-    * **Melee: **Seashell Boomerang, Mandible Claws, Starfury.
+    * **Melee**: Seashell Boomerang, Mandible Claws, Starfury.
 
-    * **Mage: **Plasma Rod, Wulfrum Staff, Water/Frost Bolt, Space Gun, Mana Rose.
+    * **Mage**: Plasma Rod, Wulfrum Staff, Water/Frost Bolt, Space Gun, Mana Rose.
 
-    * **Summoner: **Slime Staff, Sun Spirit Staff.
+    * **Summoner**: Slime Staff, Sun Spirit Staff.
 
-    * **Throwing: **Crystalline, Seashell Boomerang, Grenades, Spiky Balls, Urchin Stinger.
+    * **Throwing**: Crystalline, Seashell Boomerang, Grenades, Spiky Balls, Urchin Stinger.
 
 * **General Accessories:**
 
-    * Hermes Boots+, Magic Carpet, *X *In a Bottle, Shiny Red Balloon+, Band of Regeneration, Sun Stone.
+    * Hermes Boots+, Magic Carpet, X In a Bottle, Shiny Red Balloon+, Band of Regeneration, Sun Stone.
 
 * **Class Specific Accessories:**
 
-    * **Mage: **Magic Cuffs, Mana Flower (optional)
+    * **Mage**: Magic Cuffs, Mana Flower (optional)
 
-    * **Summoner: **Papyrus Scarab, Spirit Generator.
+    * **Summoner**: Papyrus Scarab, Spirit Generator.
 
-    * **Melee: **Cross Necklace/Star Veil, Amidias' Spark.
+    * **Melee**: Cross Necklace/Star Veil, Amidias' Spark.
 
-    * **Throwing: **Raider's Talisman.
+    * **Throwing**: Raider's Talisman.
 
-* **Weapon explanations (if required):**
+* **Weapon explanations (if required):
 
-    * **Ranger: **all of those weapons are piercing, which is what you want to deal with smaller slimes.
+    * **Ranger**: all of those weapons are piercing, which is what you want to deal with smaller slimes.
 
-    * **Melee: **Boomerang and Starfury are quite easy to get, both are ranged, solid choice for keeping your distance. Mandible Claws are much trickier due to them being claw weapons, so you want Cross Necklace and Amidias Spark (since naturally you're going to be tanking damage). Warning: claws aren’t so viable in Revengeance, and are absolutely non-viable in Death.
+    * **Melee**: Boomerang and Starfury are quite easy to get, both are ranged, solid choice for keeping your distance. Mandible Claws are much trickier due to them being claw weapons, so you want Cross Necklace and Amidias Spark (since naturally you're going to be tanking damage). Warning: claws aren’t so viable in Revengeance, and are absolutely non-viable in Death.
 
-    * **Mage: **all of those should be self-explanatory, Mana Rose however is the king of those.
+    * **Mage**: all of those should be self-explanatory, Mana Rose however is the king of those.
 
-    * **Summoner: **slimes have great damage, they are possibly your best summon in early game until EoC; Sun Spirits are okay-ish, so you should stick with slimes for the most parts.
+    * **Summoner**: slimes have great damage, they are possibly your best summon in early game until EoC; Sun Spirits are okay-ish, so you should stick with slimes for the most parts.
 
-    * **Throwing: **Grenades are the best weapon on the list, followed up by Spiky Balls (which require you to have boss walking over them), rest of them are pretty consistent in damage.
+    * **Throwing**: Grenades are the best weapon on the list, followed up by Spiky Balls (which require you to have boss walking over them), rest of them are pretty consistent in damage.
 
 * **Strategies:**
 
     * **Strategy 1 - Cheesing/Luigi%:**
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
+![Incomprehensible.](/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
 
 What you wanna do here is sit on top of this rope (approximately 20-25 tiles high) and just shoot at him until he dies. Summoners don't even do anything other than sitting at the top. Obviously doesn’t work if you have no ranged attacks because you won’t be able to deal damage.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
+![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
 
 * **Strategy 2 - Running away on platforms:**
 
@@ -356,7 +299,7 @@ King Slime has a memorable pattern of doing small jumps and then a big jump afte
 
 *"The desert sand stirs..."*
 
-##         ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_4.png)
+			        ![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_4.png)
 
 * **Armor sets:**
 
