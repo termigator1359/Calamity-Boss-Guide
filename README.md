@@ -235,7 +235,7 @@ Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
 
 *"The lord of all things slimy."*
 
-\				![KS](/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
+\n				![KS](/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
 
 * **Armor sets:**
 
