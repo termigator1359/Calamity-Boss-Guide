@@ -6,7 +6,7 @@ Bosses are listed in old progression order, we're not taking non-linearity into 
 
 Also check out [wiki guide](https://calamitymod.gamepedia.com/Guide:Class_setups).
 
-**Subjectively all-around best weapons are marked with cursive.**
+**Subjectively all-around best weapons are SOMETIMES marked with cursive.**
 
 *Anything with a + on it means "or subsequent upgrades"*
 
