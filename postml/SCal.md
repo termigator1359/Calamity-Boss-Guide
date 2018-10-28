@@ -89,15 +89,15 @@ Do note that Mechworm that has <5 segments is worthless.
 
 ### First Bullet Hell Phase
 
-    * Use horizontal movement for the first 5 seconds, mostly vertical movement for the following 5 seconds, and slowly move horizontally to the left for the last 5 seconds.
+   * Use horizontal movement for the first 5 seconds, mostly vertical movement for the following 5 seconds, and slowly move horizontally to the left for the last 5 seconds.
 
-    * If you're Melee or Throwing, use Scourge of the Cosmos to pile up the eaters during this phase. Then switch to your main weapon after this phase ends. This will speeds up the next phase considerably.	
+   * If you're Melee or Throwing, use Scourge of the Cosmos to pile up the eaters during this phase. Then switch to your main weapon after this phase ends. This will speeds up the next phase considerably.	
 
-     * This tactic also works with other classes, though a bit less effective. If you're Mage, use Voltaic Climax to create a couple rings of orbs at the places the brimhearts will spawn in advance during the last few seconds of this phase.
+   * This tactic also works with other classes, though a bit less effective. If you're Mage, use Voltaic Climax to create a couple rings of orbs at the places the brimhearts will spawn in advance during the last few seconds of this phase.
 
 ### Second Bullet Hell Phase
 
-    * Stay at the top right corner of the arena. The gigablasts ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_83.png) will spawn from either the top or from the right side of the screen. 
+   * Stay at the top right corner of the arena. The gigablasts ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_83.png) will spawn from either the top or from the right side of the screen. 
 
 Try to not stay too close to the walls, as you might get stuck in between all the brimstone blasts.
 
