@@ -42,33 +42,33 @@
 
     * **Ranger**:
 
-     * Heavenly Gale is pretty much the only ranged weapon at its tier that can do decent damage against SCal.
+       * Heavenly Gale is pretty much the only ranged weapon at its tier that can do decent damage against SCal.
 
-     * Chicken Cannon is specifically for killing the soul seeker ring as its explosions have massive range.
+       * Chicken Cannon is specifically for killing the soul seeker ring as its explosions have massive range.
 
     * **Melee**:
 
-     * Ark of the Cosmos will be your main damage dealer.
+       * Ark of the Cosmos will be your main damage dealer.
 
-     * Scourge of the Cosmos (Melee) helps kill the brimstone hearts and makes the 1st sepulcher phase go by very quickly. It should also always be used when SCal is invulnerable (except for the soul seeker phase and the final bullet hell). 
+       * Scourge of the Cosmos (Melee) helps kill the brimstone hearts and makes the 1st sepulcher phase go by very quickly. It should also always be used when SCal is invulnerable (except for the soul seeker phase and the final bullet hell). 
 
-     * Burning Sky is specifically for killing the soul seeker ring. This weapon’s projectiles cover a large portion of the screen, and        as such it is very good for killing off the soul seeker ring that often goes offscreen.
+       * Burning Sky is specifically for killing the soul seeker ring. This weapon’s projectiles cover a large portion of the screen, and        as such it is very good for killing off the soul seeker ring that often goes offscreen.
 
-     * Exoblade can be an alternative heart killer if you don't want to bother with Scourge.
+       * Exoblade can be an alternative heart killer if you don't want to bother with Scourge.
 
     * **Mage**:
 
-     * Voltaic Climax will be your main damage weapon. Used for pretty much almost everything in the fight.
+       * Voltaic Climax will be your main damage weapon. Used for pretty much almost everything in the fight.
 
-     * Yharim's crystal has enough dps to be viable but is generally harder to use than Voltaic Climax.
+       * Yharim's crystal has enough dps to be viable but is generally harder to use than Voltaic Climax.
 
-     * Phoenix Flame Barrage, much like Burning Sky and Chicken Cannon, is specifically for the soul seeker ring due to its bigger AoE.
+       * Phoenix Flame Barrage, much like Burning Sky and Chicken Cannon, is specifically for the soul seeker ring due to its bigger AoE.
      
     * **Throwing**:
   
-   * Celestus will be your main damage weapon. You’ll have to use this for the soul seeker ring, sadly throwing doesn’t have any other options. Try to guess/watch where the soul seekers are, and aim as best as you can.
+       * Celestus will be your main damage weapon. You’ll have to use this for the soul seeker ring, sadly throwing doesn’t have any other options. Try to guess/watch where the soul seekers are, and aim as best as you can.
 
-   * Scourge of the Cosmos (Throwing): like melee, use this one during the first bullet hell, then switch to Celestus when sepulcher spawns. The eaters from this weapon will help kills the brimstone hearts and makes the 1st sepulcher phase go by very quickly. Do this on every bullet hell.
+       * Scourge of the Cosmos (Throwing): like melee, use this one during the first bullet hell, then switch to Celestus when sepulcher spawns. The eaters from this weapon will help kills the brimstone hearts and makes the 1st sepulcher phase go by very quickly. Do this on every bullet hell.
 
     * **Summoner**:
 Optimal setups are the following:
