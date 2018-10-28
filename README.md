@@ -17,7 +17,7 @@ Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
 *Mostly worked on by drh and whoever's left alive in the team.*
 *If you got any improvements then send them over to drh#1109.*
 
-*Or plop them over to [discord](https://discord.gg/8hwAmgb).
+Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 ## Tips and class viability
 
