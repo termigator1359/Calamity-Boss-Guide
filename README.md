@@ -385,7 +385,7 @@ Aloe, big meme gif.
 
 Sargassum, the bringer of bol's big brother.
 
-N30N014.
+RIZ30N014.
 
 LordMetarex, pinning this in #help_and_advice. Thanks Meta, we appreciate it and also we lub u bb.
 
