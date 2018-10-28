@@ -75,7 +75,7 @@ Optimal setups are this:
 
 Do note that Mechworm that has <5 segments is worthless.
 
-  * **Throwing:
+    * **Throwing**:
   
    * Celestus will be your main damage weapon. You'll also have to use this for the soul seeker ring, as sadly throwing don’t have any other options. Try to guess/watch where the soul seekers are, and aim as best as you can.
 
