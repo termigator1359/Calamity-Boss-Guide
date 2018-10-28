@@ -1,4 +1,4 @@
-#*Basic Calamity Boss Guide*
+# *Basic Calamity Boss Guide*
 
 _**Version: 1.3.4.103**_
 
@@ -9,12 +9,14 @@ Also check out [wiki guide](https://calamitymod.gamepedia.com/Guide:Class_setups
 **Subjectively all-around best weapons are marked with cursive.**
 
 *Anything with a + on it means "or subsequent upgrades"
+
 Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
 
 *Something that says (optional) means "this is dependent on preference" over “this is recommended”*
 
 *Mostly worked on by drh and whoever's left alive in the team.*
 *If you got any improvements then send them over to drh#1109.*
+
 *Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 ## Tips and class viability
@@ -232,7 +234,6 @@ Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
 ## King Slime
 
 *"The lord of all things slimy."*
-
 				![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
 
 * **Armor sets:**
