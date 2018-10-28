@@ -1,6 +1,6 @@
-## The Perforators
+ï»¿## The Perforators
 
-*"Bloody cysts are erupting from the crimson's flesh…"*
+*"Bloody cysts are erupting from the crimson's fleshâ€¦"*
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_15.png)
 
@@ -26,7 +26,7 @@
 
 * **Weapon explanations:**
 
-    * **All classes**: since this is pretty much EoW that splits into 3 different worms instead of 234512 then whatever would’ve been good on him remains good on them => any piercing is good.
+    * **All classes**: since this is pretty much EoW that splits into 3 different worms instead of 234512 then whatever wouldâ€™ve been good on him remains good on them => any piercing is good.
 
 * **General Accessories:**
 

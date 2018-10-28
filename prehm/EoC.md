@@ -1,6 +1,6 @@
-## Eye of Cthulhu
+ï»¿## Eye of Cthulhu
 
-*"You feel an evil presence watching you…"*
+*"You feel an evil presence watching you.."*
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_6.png)
 
@@ -40,4 +40,4 @@
 
 * **Strategy:**
 
-    * Make a big platform and run while he tags along. Second layer of platforms would be beneficial for turning around - hook to them and jump off while you're flying. If you’re afraid of him hitting you with one of his mad dashes - don’t worry, AI tries to predict where you’re gonna go next and always misses if you have Hermes Boots at the very least. Facetanking is discouraged on Rev+.
+    * Make a big platform and run while he tags along. Second layer of platforms would be beneficial for turning around - hook to them and jump off while you're flying. If you're afraid of him hitting you with one of his mad dashes - don't worry, AI tries to predict where you're gonna go next and always misses if you have Hermes Boots at the very least. Facetanking is discouraged on Rev+.

@@ -1,4 +1,4 @@
-## Crabulon
+ï»¿## Crabulon
 
 *"The Perfect One…"*
 
@@ -48,16 +48,16 @@
 
     * **Summoner**: those are your only 3 options as of now.
 
-    * **Throwing**: avoid grenades if you're gonna stand next to him, spiky balls are good since he doesn’t move too often and you can keep him in one area.
+    * **Throwing**: avoid grenades if you're gonna stand next to him, spiky balls are good since he doesn't move too often and you can keep him in one area.
 
 * **Strategies:**
 
    * **General tips**: fight him in a flat and open area, and make sure you have room to jump above him. Either dash below him when he jumps or jump over him throughout the fight to move away from the flying mushroom projectiles. Be careful, he shoots mushrooms occasionally in an attempt to cut you off, either stay close enough to him where they don't effect you or keep your distance.
 
-   * **Strategy 1 - Overground mushroom biome and hold A/D**: do exactly that, keep him at the very edge of your screen and he won't be able to do much if you just walk away from him. No, he doesn’t enrage out of his biome, you merely need it to summon him.
+   * **Strategy 1 - Overground mushroom biome and hold A/D**: do exactly that, keep him at the very edge of your screen and he won't be able to do much if you just walk away from him. No, he doesn't enrage out of his biome, you merely need it to summon him.
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_8.png)
 
-   * __Strategy 2 - "Crabs can't process such advanced avoidance maneuvers"__: stand right next to him and all attacks, but one will miss you (which is the vertical spam). If he tries to land on you - dash in his direction and stand on the other side, occasionally shooting upwards to get rid of flying minions. Naturally this strat discourages using any weapons that might indirectly hurt you (such as Grenades) since you’re going to be hugging the poor Crabbo all the time.
+   * __Strategy 2 - "Crabs can't process such advanced avoidance maneuvers"__: stand right next to him and all attacks, but one will miss you (which is the vertical spam). If he tries to land on you - dash in his direction and stand on the other side, occasionally shooting upwards to get rid of flying minions. Naturally this strat discourages using any weapons that might indirectly hurt you (such as Grenades) since you're going to be hugging the poor Crabbo all the time.
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)

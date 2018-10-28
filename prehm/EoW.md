@@ -1,6 +1,6 @@
-## Eater of Worlds
+ï»¿## Eater of Worlds
 
-*"Screams echo around you…"*
+*"Screams echo around you..."*
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_10.png)
 
@@ -16,7 +16,7 @@
 
     * **Ranger**: Opal Striker, Pumpler/Minishark, Firestorm Cannon. Seabow. Jester Arrows/Any Bullets.
 
-    * **Melee**: Seashell Boomerang, Ball'o’Hurt, Mycelial Claws.
+    * **Melee**: Seashell Boomerang, Ball'o'Hurt, Mycelial Claws.
 
     * **Mage**: Water/Frost Bolt, Gem Staves, Space Gun, Coral Sprout.
 
@@ -42,11 +42,11 @@
 
     * **Ranger**: Firestorm Cannon pierces, Opal Striker just deals a lot of damage for 1 bullet cost, Minishark is better than Pumpler if you use Shark Tooth Necklace.
 
-    * **Melee**: Boomerang pierces, Ball'o’Hurt also can pierce in some cases, Claws are just claws.
+    * **Melee**: Boomerang pierces, Ball'o'Hurt also can pierce in some cases, Claws are just claws.
 
     * **Mage**: piercing? Piercing.
 
-    * **Summoner**: Sun Spirits aren't here because crits aren’t worth the lack of constant piercing damage.
+    * **Summoner**: Sun Spirits aren't here because crits aren't worth the lack of constant piercing damage.
 
     * **Throwing**: same as everything else, you want as much piercing as you can get.
 

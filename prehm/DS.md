@@ -1,7 +1,6 @@
-## Desert Scourge
+﻿## Desert Scourge
 
 *"The desert sand stirs..."*
-
 ![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_4.png)
 
 * **Armor sets:**
@@ -55,7 +54,7 @@ If using Coral Sprout shoot ahead of him since the projectiles actually bounce b
 
    * **General tips**: watch the minimap carefully, be prepared to move before he breaches the surface. On Rev+ difficulties he spawns two additional mini scourges, deal with them first. 
 
-   * **Strategy 1 - Platform layer above the desert**: self-explanatory, you make one or two layers of platforms ~20 tiles above the desert's surface and abuse Worm AI that can’t go through air. Second layer of platforms helps with dodging smaller worms, if they ever manage to reach you. If for some reason DS refuses to stay underneath - drop down, wait for him to come at you and then quickly hook back up.
+   * **Strategy 1 - Platform layer above the desert**: self-explanatory, you make one or two layers of platforms ~20 tiles above the desert's surface and abuse Worm AI that can't go through air. Second layer of platforms helps with dodging smaller worms, if they ever manage to reach you. If for some reason DS refuses to stay underneath - drop down, wait for him to come at you and then quickly hook back up.
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_5.png)
 

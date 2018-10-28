@@ -1,6 +1,6 @@
-## Skeletron
+ï»¿## Skeletron
 
-*"The cursed guardian of the dungeon…"*
+*"The cursed guardian of the dungeonâ€¦"*
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_17.png)
 
@@ -46,7 +46,7 @@
 
     * **Melee**: Seashell is the better choice.
 
-    * **Mage**: Bolts pierce and you can surround your arena with walls so they keep bouncing, rain staves are an extremely good choice since you will only need to circle and point at the boss, Scythe's the same as bolts except it doesn’t bounce.
+    * **Mage**: Bolts pierce and you can surround your arena with walls so they keep bouncing, rain staves are an extremely good choice since you will only need to circle and point at the boss, Scythe's the same as bolts except it doesnâ€™t bounce.
 
     * **Summoner**: clots are somewhat bad because of the fact that they pierce, but you don't have that many choices.
 
