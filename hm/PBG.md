@@ -2,7 +2,7 @@
 
 *"The metallic smell of rusted iron and decay fills the air…"*
 
-![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_53.png)
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_53.png)
 
 * **Armor Sets:**
 
@@ -40,4 +40,4 @@
 
     * Similar movement to Queen Bee. Hope for PBG charging you, it's the best time you really ever get to deal damage. When she’s firing missiles from her charges don’t move much (they’re too slow to be a real threat and you’ll have an easier time aiming at the boss). PBG despawns really easily so avoid abusing vertical movement if fighting on the surface. 
 
-![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_54.png)
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_54.png)
