@@ -274,7 +274,7 @@ Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
 
     * **Throwing**: Raider's Talisman.
 
-* **Weapon explanations (if required):
+* **Weapon explanations (if required)**:
 
     * **Ranger**: all of those weapons are piercing, which is what you want to deal with smaller slimes.
 
