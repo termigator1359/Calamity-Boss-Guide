@@ -8,9 +8,9 @@ Also check out [wiki guide](https://calamitymod.gamepedia.com/Guide:Class_setups
 
 **Subjectively all-around best weapons are marked with cursive.**
 
-*Anything with a + on it means "or subsequent upgrades"
+*Anything with a + on it means "or subsequent upgrades"*
 
-Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
+*Ex: Hermes Boots+ means you could also use things like spectre boots, etc.*
 
 *Something that says (optional) means "this is dependent on preference" over “this is recommended”*
 
