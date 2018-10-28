@@ -6,11 +6,11 @@
 
 * **Armor Sets:**
 
-    * **Any class: Ataxia.
+    * **Any class**: Ataxia.
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Conclave Crossfire, Helstorm, *Malevolence. Hyperius /Terra Ammo.
+    * **Ranger**: *Conclave Crossfire, Helstorm*, Malevolence. Hyperius/Terra Ammo.
 
     * **Melee**: Omniblade, Terra Edge, Terra Lance, Hellfire Flamberge.
 
