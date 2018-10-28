@@ -290,7 +290,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 #### [Plaguebringer Goliath](hm/PBG.md)
 
-#### [Ravager](hm/Rav.md)
+#### [Ravager](hm/Ravager.md)
 
 #### [Doucheron](hm/Fishron.md)
 
