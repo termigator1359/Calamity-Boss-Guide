@@ -22,7 +22,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers/Elysian Tracers/Celestial Tracers, Asgardian Aegis, Core of the Blood God, The Community, Affliction?, Dark Sun Ring, Dimensional Soul Artifact.
+    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Affliction?, Dark Sun Ring, Dimensional Soul Artifact.
 
 * **Class Specific Accessories:**
 
@@ -36,7 +36,9 @@
 
     * **Summoner**: Statis' Blessing, Statis’ Curse, Statis’ Belt of Curses, Godly Soul Artifact.
 
-* **Special combination**: Mage armor, Statis' Blessing and Statis’ Curse(+3 minion slots each), Dark Sun Ring(+1 slot)/Eldritch Soul Artifact (+2 slots), Voltaic Climax, Cosmic Immaterializer. Having specifically those 3 accessories should bring you to 10 minion slots, allowing you to use Immaterializer while also using Voltaic as your main weapon. This combination has been banned from Untouchable/Dead Inside challenges.
+    * **Special combination**: Mage armor, Statis' Blessing and Statis’ Curse (+3 minion slots each), Dark Sun Ring (+1 minion slot)/Eldritch Soul Artifact (+2 minion slots), Voltaic Climax, Cosmic Immaterializer.  
+Having specifically those 3 accessories should bring you to 10 minion slots, allowing you to use Immaterializer while also using Voltaic as your main weapon.  
+**Note:** This combination has been banned from Untouchable/Dead Inside challenges.
 
 * **Weapon explanations:**
 
@@ -44,15 +46,15 @@
 
        * Heavenly Gale is pretty much the only ranged weapon at its tier that can do decent damage against SCal.
 
-       * Chicken Cannon is specifically for killing the soul seeker ring as its explosions have massive range.
+       * Chicken Cannon is specifically for killing the Soul Seeker ring as its explosions have massive range.
 
     * **Melee**:
 
        * Ark of the Cosmos will be your main damage dealer.
 
-       * Scourge of the Cosmos (Melee) helps kill the brimstone hearts and makes the 1st sepulcher phase go by very quickly. It should also always be used when SCal is invulnerable (except for the soul seeker phase and the final bullet hell). 
+       * Scourge of the Cosmos (Melee) helps kill the Brimstone Hearts and makes the 1st Sepulcher phase go by very quickly. It should also always be used when SCal is invulnerable (except for the Soul Seeker phase and the final bullet hell). 
 
-       * Burning Sky is specifically for killing the soul seeker ring. This weapon’s projectiles cover a large portion of the screen, and        as such it is very good for killing off the soul seeker ring that often goes offscreen.
+       * Burning Sky is specifically for killing the Soul Seeker ring. This weapon’s projectiles cover a large portion of the screen, and        as such it is very good for killing off the Soul Seeker ring that often goes offscreen.
 
        * Exoblade can be an alternative heart killer if you don't want to bother with Scourge.
 
@@ -62,24 +64,24 @@
 
        * Yharim's crystal has enough dps to be viable but is generally harder to use than Voltaic Climax.
 
-       * Phoenix Flame Barrage, much like Burning Sky and Chicken Cannon, is specifically for the soul seeker ring due to its bigger AoE.
+       * Phoenix Flame Barrage, much like Burning Sky and Chicken Cannon, is specifically for the Soul Seeker ring due to its big AoE.
      
     * **Throwing**:
   
-       * Celestus will be your main damage weapon. You’ll have to use this for the soul seeker ring, sadly throwing doesn’t have any other options. Try to guess/watch where the soul seekers are, and aim as best as you can.
+       * Celestus will be your main damage weapon. You’ll have to use this for the Soul Seeker ring, sadly throwing doesn’t have any other options. Try to guess/watch where the Soul Seekers are, and aim as best as you can.
 
-       * Scourge of the Cosmos (Throwing): like melee, use this one during the first bullet hell, then switch to Celestus when sepulcher spawns. The eaters from this weapon will help kills the brimstone hearts and makes the 1st sepulcher phase go by very quickly. Do this on every bullet hell.
+       * Scourge of the Cosmos (Throwing): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the brimstone hearts and make the 1st sepulcher phase go by very quickly. Do this on every bullet hell.
 
     * **Summoner**:
 Optimal setups are the following:
 
-      1. 1 Cosmic Immaterializer + 1 Yharon son, with the rest Mechworms.
+       1. 1 Cosmic Immaterializer + 1 Yharon son, with the rest Mechworms.
 
-      2. 1 Cosmic Immaterializer + 2 Yharon sons, with the rest Mechworms.
+       2. 1 Cosmic Immaterializer + 2 Yharon sons, with the rest Mechworms.
 
-      3. 1 Cosmic Immaterializer + 1 Yharon son + Godly Soul Artifact, with the rest Mechworms.
+       3. 1 Cosmic Immaterializer + 1 Yharon son + Godly Soul Artifact, with the rest Mechworms.
 
-Do note that Mechworm that has <5 segments is worthless.
+**Note:** Mechworms with less than 5 segments are worthless.
 
     
 
@@ -166,4 +168,5 @@ Moving counter-clockwise means you’ll be flying up at the right side, which me
    * During this phase, SCal will be monologuing while staying in place, not attacking. 
 The only threats in this phase are the Brimstone Monsters
  ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_93.png) (which gain a speed boost during this phase) and any leftover projectiles prior to this phase; however, none of the threats here are actually dangerous at all (aside from Brimstone Monsters, but if you have stacked them they’re completely harmless since you can go in a circle).
+ 
    * Simply circle around the arena while waiting for SCal to finish her monologue. When she finishes, she’ll be vulnerable again. Attack her until her HP reaches zero.
