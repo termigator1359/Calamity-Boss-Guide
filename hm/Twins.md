@@ -41,3 +41,5 @@
 * **Strategy:**
 
     * I dunno tbh, the entire boss consists of you flipping gravity non-stop and shooting it like pew-pew. Kill either of the eyes first, both of them are annoying to dodge in second phase. Retinazer's lasers can be dodged by gently tapping your jump button with wings (you're gonna reuse that on SCal or Clone eventually).
+
+![image alt text](../public/Twins.png)
