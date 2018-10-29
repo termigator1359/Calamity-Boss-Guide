@@ -99,7 +99,7 @@ Optimal setups are the following:
 
    * If you're Melee or Throwing, use Scourge of the Cosmos to pile up the eaters during this phase. Then switch to your main weapon after this phase ends. This will speeds up the next phase considerably.	
 
-   * This tactic also works with other classes, though a bit less effectively. If you’re Mage, use Voltaic Climax to create in advance during the last few seconds of this phase a couple orb rings in the spots where the brimstone hearts will spawn.
+   * This tactic also works with other classes, though a bit less effectively. If you’re Mage, use Voltaic Climax to create in advance during the last few seconds of this phase a couple orb rings in the spots where the Brimstone Hearts will spawn.
    
 ### First Sepulcher Phase
    * Focus on the brimstone hearts: the longer Sepulcher stays alive the more unnecessary hits you will take. 
