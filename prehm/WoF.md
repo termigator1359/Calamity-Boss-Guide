@@ -51,3 +51,5 @@
     * **Strategy 3 - "Melee"**: only works in Revengeance or higher, you wait for adrenaline and then jump into eyes with Bloody Edge or Night's Stabber effectively reducing boss’ health to 0.
 
     * Staying semi-close to the wall and walking away slowly can make the lasers have a very hard time hitting you, but you're risking a beating from hungries.
+
+![image alt text](../public/WoF.png)
