@@ -53,3 +53,5 @@
    * **Strategy 2 - Luigi%**: build this, get into honey, hook yourself to the floor so you don't get warped off the ground, kill the boss (you might fail since this is an old and unstable strat).
    
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
+
+![image alt text](../public/SG.png)
