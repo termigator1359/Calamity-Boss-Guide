@@ -14,7 +14,7 @@
 
     * **Melee**: Trinity,* Icebreaker*, Forbidden Oathblade, Dao of Pow.
 
-    * **Mage**: Golden Shower, Meteor Staff, *Death Valley Duster*, Gleaming Magnolia, SHPC.
+    * **Mage**: Golden Shower, Meteor Staff, *Death Valley Duster*, Gleaming Magnolia, SHPC, Magical Harp, Relic of Ruin.
 
     * **Summoner**: Ancient Ice Chunk, Optic Staff.
 
