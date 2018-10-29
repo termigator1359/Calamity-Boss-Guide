@@ -6,7 +6,7 @@
 
 * **Armor Sets:**
 
-    * **Any class: **Daedalus, Titanium, Frost.
+    * **Any class**: Daedalus, Titanium, Frost.
 
 * **Weapon Loadouts:**
 
