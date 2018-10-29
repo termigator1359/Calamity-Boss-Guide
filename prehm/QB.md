@@ -1,6 +1,6 @@
 ##  [Queen Bee](https://www.youtube.com/watch?v=8CvqmD0CZao)
 
-*"The matriarch of jungle hives…"
+*"The matriarch of jungle hives…"*
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)
 
