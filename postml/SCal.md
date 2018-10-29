@@ -70,7 +70,7 @@ Having specifically those 3 accessories should bring you to 10 minion slots, all
   
        * Celestus will be your main damage weapon. You’ll have to use this for the Soul Seeker ring, sadly throwing doesn’t have any other options. Try to guess/watch where the Soul Seekers are, and aim as best as you can.
 
-       * Scourge of the Cosmos (Throwing): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the brimstone hearts and make the 1st Sepulcher phase go by very quickly. Do this on every bullet hell.
+       * Scourge of the Cosmos (Throwing): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the Brimstone Hearts and make the 1st Sepulcher phase go by very quickly. Do this on every bullet hell.
 
     * **Summoner**:
 Optimal setups are the following:
