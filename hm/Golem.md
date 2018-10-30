@@ -43,3 +43,5 @@ The Community, Siren's Heart.
 * **Strategies:**
 
     * By using actuators, you can displace the blocks under the altar to take it without having previously killing Golem. This may need to be done if you have a small temple arena. Move left and right above Golem and try to time your direction changes with his fists retracting.
+
+![image alt text](../public/golem.png)
