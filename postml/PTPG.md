@@ -46,4 +46,3 @@
 
     * Taking down the extra guardians should be your main priority.
 
-<video src="https://www.youtube.com/embed/GxVQvBlsm9c" width="560" height="315" controls preload></video>
