@@ -46,3 +46,8 @@
 
     * Taking down the extra guardians should be your main priority.
 
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/GxVQvBlsm9c">
+    </iframe>
+</div>
