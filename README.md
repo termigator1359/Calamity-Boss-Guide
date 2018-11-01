@@ -79,6 +79,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * Blood Pact is bad. Yes, that fucking bad. Don't ever use it.
     * So is Heart of the Elements.
     * Hallowed armor is also bad.
+    * Ambrosial Ampoule is only useful for exploration, so don't even think about using it on bosses. Unless you really wanna tank.
     * Right after Clonelamitas dies most classes can skidaddle to the Abyss and get better weapons. Except melee. Typhon's Greed is a meme.
     * Everyone can ignore GSS, the only "good" weapon is Duststorm in a Bottle, and it's pretty much outclassed by any throwing weapon you can get at that point.
     * Money farms: Queen Bee and Ravager (only if you're used to him, he’s quite a pain to nohit, even with post-ML gear otherwise it’s better to armageddon Queens).
