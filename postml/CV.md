@@ -12,7 +12,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Seadragon, Blissful Bombardier, Telluric Glare. Holy Fire Ammo.
+    * **Ranged**: Seadragon, Blissful Bombardier, Telluric Glare. Holy Fire Ammo.
 
     * **Melee**: Stellar Striker, Holy Collider, Elemental Shiv, The Mutilator, Elemental Lance.
 
