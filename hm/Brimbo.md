@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Megashark, Flarewing Bow, Butcher, Effluvium Bow. Ichor/Crystal Ammo.
+    * **Ranged**: Megashark, Flarewing Bow, Butcher, Effluvium Bow. Ichor/Crystal Ammo.
 
     * **Melee**: Darklight Greatsword, Icebreaker.
 
