@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Onyx Chain Blaster*, Clockwork Bow, Shredder, Elemental Blaster, Starfleet. Holy Fire Ammo.
+    * **Ranged**: *Onyx Chain Blaster*, Clockwork Bow, Shredder, Elemental Blaster, Starfleet. Holy Fire Ammo.
 
     * **Melee**: *Omega Biome Blade*, Elemental Shiv, Ark of the Elements, *Galactus Blade*.
 
