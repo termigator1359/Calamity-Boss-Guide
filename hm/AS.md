@@ -10,9 +10,9 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Archerfish/Megashark, Flarewing Bow. Ichor/Verium Ammo.
+    * **Ranged**: Archerfish, Megashark, Flarewing Bow. Ichor/Verium Ammo.
 
-    * **Melee**: Trinity,* Icebreaker*, Forbidden Oathblade, Dao of Pow.
+    * **Melee**: Trinity, *Icebreaker*, Forbidden Oathblade, Dao of Pow.
 
     * **Mage**: Golden Shower, Meteor Staff, *Death Valley Duster*, Gleaming Magnolia, SHPC, Magical Harp, Relic of Ruin.
 
