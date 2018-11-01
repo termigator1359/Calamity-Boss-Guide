@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Onyx Chain Blaster*, Astreal Defeat, Shredder. Holy Fire/Terra Ammo.
+    * **Ranged**: *Onyx Chain Blaster*, Astreal Defeat, Shredder. Holy Fire/Terra Ammo.
 
     * **Melee**: Ark of the Elements, Elemental Shiv, *Galactus Blade, Omega Biome Blade.*
 
