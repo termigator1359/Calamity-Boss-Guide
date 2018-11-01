@@ -41,3 +41,5 @@
     * **Strategy 1 - "Skybridge walking"**: make a skybridge, walk away from him at *an extremely slow pace*, most things won't be able to hit you. As probes pop up you just shoot them to death and that’s the entire boss. Not using Frostspark Boots, or any boots at that, helps.
 
     * **Strategy 2 - "Melee 2: Electric Boogaloo"**: grab ALL the melee speed accessories, reforge them to Violent, grab Fetid Baghnakhs, summon the worm, jump into him while he's still coiled, proceed to shred him at the speed of 60 attacks per second.
+
+![image alt text](../public/Destroyer.png)

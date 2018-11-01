@@ -1,6 +1,6 @@
-##  Queen Bee
+##  [Queen Bee](https://www.youtube.com/watch?v=8CvqmD0CZao)
 
-*"The matriarch of jungle hives…"
+*"The matriarch of jungle hives…"*
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)
 
@@ -45,3 +45,5 @@
     * **Strategy 2 - I don't like cramped spaces and I don’t want to be in the jungle anymore**: the entirety of the above, except the only difference is you tossing a sticky bomb under blocks that have larva sitting on them, warping out to home, proceeding with the fight as usual, but in your normal arena.
 
     * **Strategy 3 - Big brain**: all you do is keep running to the side, occasionally jumping up if she's dashing at you. The only thing you’ll need is a sizeable platform to which you can lure her.
+
+![image alt text](../public/QB.png)

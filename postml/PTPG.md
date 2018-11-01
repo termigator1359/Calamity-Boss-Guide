@@ -30,7 +30,7 @@
 
 * **Class Specific Accessories:**
 
-    * **Ranged: Daedalus Emblem.
+    * **Ranged**: Daedalus Emblem.
 
     * **Melee**: Bloody Worm Scarf, Mechanical Glove.
 
@@ -45,3 +45,9 @@
     * Try to always run in a single direction. When she enters her shell, circle around her, then keep running when she exits. You also want to mostly fly because lava blobs stick to literally any tile. Use ML strats for laser attack.
 
     * Taking down the extra guardians should be your main priority.
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/GxVQvBlsm9c">
+    </iframe>
+</div>

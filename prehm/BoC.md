@@ -45,3 +45,5 @@
 * **Strategy:**
 
     * As with Eater of Worlds, having a big open space will help you immensely due to the fact that creepers like to hide in the walls. He's less resistant to piercing damage unlike his Corruption counterpart, so those weapons are going to be kings in first phase. General course of action you should take is staying *just* out of his reach, so you don't get "accidently" nuked by his warps. Additionally, if you're in Revengeance/Death you want to save your Rage/Adrenaline until most creepers are dead, since he is going to be respawning them constantly, and you might be locked in a never-ending loop of you killing one creeper and another one taking its place.
+
+![image alt text](../public/BoC.png)

@@ -6,11 +6,11 @@
 
 * **Armor Sets:**
 
-    * **Any class: **Victide.
+    * **Any class**: Victide.
 
-    * **Mage: **Jungle, Meteor, Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants.
+    * **Mage**: Jungle, Meteor, Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants.
 
-    * **Throwing: **Ninja, Fossil.
+    * **Throwing**: Ninja, Fossil.
 
 * **Weapon Loadouts:**
 
@@ -34,7 +34,7 @@
 
     * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
 
-    * **Melee**: *Cross Necklace/Star Veil.
+    * **Melee**: Cross Necklace/Star Veil.
 
     * **Throwing**: Raider's Talisman.
 
@@ -53,3 +53,5 @@
 * **Strategy:**
 
     * Do not even think about fighting him in a chasm, this is an extremely dumb idea that leads to you being overrun rather quickly. Prioritize hitting his head (unless in Death, since it will reflect projectiles) and try to avoid splitting him due to cursed flames balls. As usual, your arena consists of 3-5 platform layers over Corruption. Having more layers will give you the liberty of having much more space to dodge vile spits coming out of body segments, and will also allow you to hook up to dodge his ram. Having any piercing weapon would also help, but he resists them on higher difficulties, just as he resists explosive damage (although block Explosives can still rip him in half).
+
+![image alt text](../public/EoW.png)

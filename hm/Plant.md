@@ -48,3 +48,5 @@
     * Special note for arenas: they should have a big open space on the bottom so gay pink balls of face-eating fall down and don't come back to haunt your dreams. Just like hooks.
 
     * Do circles in phase 1, run away in phase 2 (and then loop back in an oval once you run out of space). Beware of the spores she shoots in phase 2, they are very small and easy to miss.
+
+![image alt text](../public/Oathblade.gif)

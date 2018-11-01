@@ -322,6 +322,11 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 #### [Supreme Calamitas](postml/SCal.md)
 
+### Unrelated things
+
+#### [True Melee Interactions by Stardust Dragon/termigator1359](https://docs.google.com/document/d/17PhvJ2flem5ATjd85nKrqjxc7g_VGuGFgHhsFD_JZe8/edit?usp=sharing)
+
+#### [DPS Optimization by 6000j](https://docs.google.com/document/d/1RC2MDeyJNMush-vfKjAjN4QB4CRVrcbUXEVI42OyNws/edit?usp=sharing)
 
 ## Videos and credits.
 

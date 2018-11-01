@@ -150,6 +150,10 @@ Try to not turn around and circle the other way unless you get blocked by a brim
    * The picture below describes dodging in this phase in the simplest way possible. Memorize it. 
    
    ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_91.png)
+   
+   * Or do this, because this is actually a legitimate strat.
+   
+   ![image alt text](../public/portalbullethell.png)
 
 **Note:** If you somehow end up going in a counter-clockwise circle this tactic will still work, but it will harder to manage because moving up in this bullet hell is very dangerous as the Brimstone Flame Skulls ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_89.gif) will always spawn from the right side of the screen.
 
