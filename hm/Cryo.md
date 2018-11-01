@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Archerfish*, Onyx Blaster, Flarewing Bow, Slag Magnum, Butcher. Ichor Ammo.
+    * **Ranged**: *Archerfish*, Onyx Blaster, Flarewing Bow, Slag Magnum, Butcher. Ichor Ammo.
 
     * **Melee**: True Caustic Edge, Ball'o’Fugu, Bananarang, Amarok.
 
@@ -26,7 +26,7 @@
 
 * **Class Specific Accessories:**
 
-    * **Ranger**: Ranger Emblem, Magic Quiver.
+    * **Ranged**: Ranger Emblem, Magic Quiver.
 
     * **Melee**: Warrior Emblem, Yoyo Bag, Bloody Worm Scarf.
 
