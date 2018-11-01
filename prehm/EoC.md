@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Wulfrum Bow or Seabow w/ Jester Arrows. Barinade w/ Any Arrows.
+    * **Ranged**: Wulfrum Bow or Seabow w/ Jester Arrows. Barinade w/ Any Arrows.
 
     * **Melee**: Seashell Boomerang, Enchanted Sword, Starfury.
 
@@ -26,7 +26,7 @@
 
 * **General Accessories:**
 
-    * Hermes Boots+, X In a Bottle, Grappling Hook, Amidias' Spark, Laudanum/Stress Pills, any shrine accessory.
+    * Hermes Boots+, X In a Bottle, Amidias' Spark, Laudanum, Stress Pills.
 
 * **Class Specific Accessories:**
 
@@ -34,7 +34,7 @@
 
     * **Summoner**: Papyrus Scarab, Spirit Generator.
 
-    * **Melee**: Cross Necklace/Star Veil.
+    * **Melee**: Cross Necklace+.
 
     * **Throwing**: Raider's Talisman.
 
