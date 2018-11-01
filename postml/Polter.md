@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Seadragon, Blissful Bombardier. Holy Fire Ammo.
+    * **Ranged**: Seadragon, Blissful Bombardier. Holy Fire Ammo.
 
     * **Melee**: Stellar Striker, Omega Biome Blade, Solar Flare, Galactus Blade.
 
