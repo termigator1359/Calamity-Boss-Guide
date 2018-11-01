@@ -12,7 +12,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Conclave Crossfire, Megalodon, Spectre Rifle. Terra Ammo.
+    * **Ranged**: Conclave Crossfire, Megalodon, Spectre Rifle. Terra Ammo.
 
     * **Melee**: Terra Edge, Tyrant Yharim's Ultisword, Mantis Claws, *Terra Blade*, True Forbidden Oathblade.
 
@@ -24,9 +24,7 @@
 
 * **General Accessories:**
 
-    * Angel Treads, Deific Amulet, Asgard's Valor, MOAB, Void of Calamity+,        
-
-The Community, Siren's Heart.
+    * Angel Treads, Deific Amulet, Asgard's Valor, MOAB, Void of Calamity+, The Community, Siren's Heart.
 
 * **Class Specific Accessories:**
 
