@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Phangasm*, Alluvion, Minigun. *Vanquisher Arrows*.
+    * **Ranged**: *Phangasm*, Alluvion, Minigun. *Vanquisher Arrows*.
 
     * **Melee**: *Galaxia*, Devil's Devastation.
 
@@ -22,7 +22,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers/Elysian Tracers, Asgardian Aegis, Core of the Blood God, The Community, Reaper Tooth Necklace, The Sponge, Rampart of Deities, Dimensional Soul Artifact.
+    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Reaper Tooth Necklace, The Sponge, Rampart of Deities, Dimensional Soul Artifact.
 
 * **Class Specific Accessories:**
 
@@ -54,7 +54,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Phangasm*, Alluvion. *Vanquisher Arrows*.
+    * **Ranged**: *Phangasm*, Alluvion. *Vanquisher Arrows*.
 
     * **Melee**: Empyrean Knives, Scourge of the Cosmos*, *Greatsword of Blah*.
 
@@ -66,7 +66,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers/Elysian Tracers, Asgardian Aegis, Core of the Blood God, The Community, Reaper Tooth Necklace, The Sponge, Rampart of Deities, Dark Sun Ring, Dimensional Soul Artifact.
+    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Reaper Tooth Necklace, The Sponge, Rampart of Deities, Dark Sun Ring, Dimensional Soul Artifact.
 
 * **Class Specific Accessories:**
 
