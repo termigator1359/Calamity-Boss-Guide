@@ -18,7 +18,7 @@
 
     * **Summoner**: Staff of the Mechworm, Calamari's Lament, Ethereal Subjugator.
 
-    * **Throwing: Executioner's Blade.
+    * **Throwing**: Executioner's Blade.
 
 * **General Accessories:**
 
