@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Archerfish*. Any Ammo, but preferably the one that has highest damage.
+    * **Ranged**: *Archerfish*. Any Ammo, but preferably the one that has highest damage.
 
     * **Melee**: Bladecrest Oathsword, Ball o' Fugu.
 
@@ -22,7 +22,7 @@
 
     * **Summoner**: Herring Staff.
 
-    * **Throwing**: *Lionfish*, Beenades, Rot/Tooth Ball, Molotov Cocktails (for slimes).
+    * **Throwing**: *Lionfish*, Beenades, Rot/Tooth Ball, Molotov Cocktails (for minions).
 
 * **Weapon explanations:**
 
@@ -30,7 +30,7 @@
 
 * **General Accessories:**
 
-    * Frostspark Boots, any Hook, Frog Leg/Shiny Red Balloon+, Flying Carpet, Siren's Heart, Counter Scarf/Shield of Cthulhu, Laudanum/Stress Pills. Skyline Wings.
+    * Frostspark Boots, Frog Leg, Shiny Red Balloon+, Flying Carpet, Siren's Heart, Counter Scarf/Shield of Cthulhu, Laudanum, Stress Pills, Skyline Wings.
 
 * **Class Specific Accessories:**
 
@@ -38,11 +38,11 @@
 
     * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
 
-    * **Melee**: Cross Necklace/Star Veil, Bloody Worm Tooth.
+    * **Melee**: Cross Necklace+, Bloody Worm Tooth.
 
     * **Throwing**: Raider's Talisman.
 
-* **Special (Facetanking in Revengeance)**: Frozen Turtle Shell, Laudanum, Siren's Heart, Star Veil, Worm Scarf, standing in honey (hooked down to the floor), Dryad Blessing (buff), everything on Warding.
+* **Special (Facetanking in Revengeance)**: Molten Armor, Crown Jewel, Laudanum, Stress Pills, Star Veil, Flesh Knuckles, Siren's heart, Standing in honey (hooked down to the floor), 3 Heart Statues, Dryad's Blessing (Buff), Well Fed (Buff), Bewitching/Summoning (Buff), Regeneration (Buff), Iron Skin (Buff), everything on Warding.
 
 * **Strategies:**
 
