@@ -14,9 +14,9 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Pumpler/Minishark, Firestorm Cannon, Opal Striker. Silver/Meteor Bullets.
+    * **Ranged**: Pumpler, Minishark, Firestorm Cannon, Opal Striker, Silver/Meteor Bullets.
 
-    * **Melee**: Seashell Boomerang, Meteor Fist, Bladecrest Oathsword, Perfect Dark, Aorta.
+    * **Melee**: *Seashell Boomerang*, Meteor Fist, Bladecrest Oathsword, Perfect Dark, Aorta.
 
     * **Mage**: Water/Flare/Frost Bolt, Shadowdrop Staff/Blood Bath, Demon Scythe, Space Gun.
 
@@ -26,7 +26,7 @@
 
 * **General Accessories:**
 
-    * Lightning Boots+, Shiny Red Balloon+, X in a Bottle+, Counter Scarf/Shield of Cthulhu, Laudanum/Stress Pills.
+    * Lightning Boots+, Shiny Red Balloon+, X in a Bottle+, Counter Scarf/Shield of Cthulhu, Laudanum, Stress Pills.
 
 * **Class Specific Accessories:**
 
@@ -34,23 +34,19 @@
 
     * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
 
-    * **Melee**: Cross Necklace/Star Veil.
+    * **Melee**: Cross Necklace+.
 
     * **Throwing**: Raider's Talisman.
 
 * **Weapon explanations:**
 
-    * **Any class**: at this point you should start thinking why piercing damage with high attacking speed is bad, so anything that pierces starts falling off in effectiveness.
-
-    * **Ranger**: no comments.
-
-    * **Melee**: Seashell is the better choice.
+    * **Any class**: St this point you should start thinking why piercing damage with high attacking speed is bad, so anything that pierces starts falling off in effectiveness.
 
     * **Mage**: Bolts pierce and you can surround your arena with walls so they keep bouncing, rain staves are an extremely good choice since you will only need to circle and point at the boss, Scythe's the same as bolts except it doesn’t bounce.
 
-    * **Summoner**: clots are somewhat bad because of the fact that they pierce, but you don't have that many choices.
+    * **Summoner**: Clots are somewhat bad because of the fact that they pierce, but you don't have that many choices.
 
-    * **Throwing**: all of those are spammable, have good hitboxes, deal good damage, solid choices.
+    * **Throwing**: All of those are spammable, have good hitboxes, deal good damage, solid choices.
 
 * **Strategy:**
 
