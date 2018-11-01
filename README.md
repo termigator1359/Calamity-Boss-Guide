@@ -84,7 +84,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * Money farms: Queen Bee and Ravager (only if you're used to him, he’s quite a pain to nohit, even with post-ML gear otherwise it’s better to armageddon Queens).
     * If you stock up 30-40 Ravager bags for post-Providence you can get 3000 platinum just for opening them.
     * If you have free accessory slots you can always toss in an emblem.
-    * Universal support weapons: Golden Shower and it's upgrade - Everglade Spray.
+    * Universal support weapons: Golden Shower and its upgrade - Everglade Spray.
 
 * **Ranged**
 
