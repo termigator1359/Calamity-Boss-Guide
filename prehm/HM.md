@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Pumpler/Minishark, *Opal Striker*. Silver/Meteor Bullets.
+    * **Ranged**: Pumpler, Minishark, *Opal Striker*. Silver/Meteor Bullets.
 
     * **Melee**: Seashell Boomerang, Meteor Fist.
 
@@ -34,7 +34,7 @@
 
     * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
 
-    * **Melee**: Cross Necklace/Star Veil.
+    * **Melee**: Cross Necklace+.
 
     * **Throwing**: Raider's Talisman.
 
