@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Onyx Chain Blaster*, Holy Fire Bullets, Astreal Defeat, Shredder, Elemental Blaster. Terra Ammo.
+    * **Ranged**: *Onyx Chain Blaster*, Holy Fire Bullets, Astreal Defeat, Shredder, Elemental Blaster. Terra Ammo.
 
     * **Melee**: *Galactus Blade*, Ark of the Elements, *Omega Biome Blade*.
 
@@ -26,7 +26,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor, Absorber, The Community, Ambrosial Ampoule, Deific Amulet.
+    * Seraph Tracers, Asgard's Valor, Absorber, The Community, Ambrosial Ampoule, Deific Amulet, Void of Extinction.
 
 * **Class Specific Accessories:**
 
