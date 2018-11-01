@@ -26,7 +26,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor, Absorber, The Community, Deific Amulet.
+    * Seraph Tracers, Asgard's Valor, Absorber, The Community, Deific Amulet, Void of Extinction.
 
 * **Class Specific Accessories:**
 
