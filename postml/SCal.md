@@ -10,19 +10,19 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Heavenly Gale, Chicken Cannon, Vanquisher Arrows.
+    * **Ranged**: Heavenly Gale, Chicken Cannon, Vanquisher Arrows.
 
     * **Melee**: Ark of the Cosmos, Scourge of the Cosmos, Burning Sky, Exoblade.
 
     * **Mage**: *Voltaic Climax*, Yharim's Crystal, Phoenix Flame Barrage.
-    
-    * **Throwing**: Celestus, *Scourge of the Cosmos*.
 
     * **Summoner**: *Yharon's Kindle Staff*, *Cosmic Immaterializer*, Staff of the Mechworm.
+    
+    * **Throwing**: Celestus, *Scourge of the Cosmos*
 
 * **General Accessories:**
 
-    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Affliction?, Dark Sun Ring, Dimensional Soul Artifact.
+    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Affliction (?), Dark Sun Ring, Dimensional Soul Artifact.
 
 * **Class Specific Accessories:**
 
@@ -32,9 +32,9 @@
 
     * **Mage**: Ethereal Talisman, Eldritch Soul Artifact.
     
-    * **Throwing**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech.
-
     * **Summoner**: Statis' Blessing, Statis’ Curse, Statis’ Belt of Curses, Godly Soul Artifact.
+    
+    * **Throwing**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech.
 
     * **Special combination**: Mage armor, Statis' Blessing and Statis’ Curse (+3 minion slots each), Dark Sun Ring (+1 minion slot)/Eldritch Soul Artifact (+2 minion slots), Voltaic Climax, Cosmic Immaterializer.  
 Having specifically those 3 accessories should bring you to 10 minion slots, allowing you to use Immaterializer while also using Voltaic as your main weapon.  
@@ -66,11 +66,7 @@ Having specifically those 3 accessories should bring you to 10 minion slots, all
 
        * Phoenix Flame Barrage, much like Burning Sky and Chicken Cannon, is specifically for the Soul Seeker ring due to its big AoE.
      
-    * **Throwing**:
-  
-       * Celestus will be your main damage weapon. You’ll have to use this for the Soul Seeker ring, sadly throwing doesn’t have any other options. Try to guess/watch where the Soul Seekers are, and aim as best as you can.
-
-       * Scourge of the Cosmos (Throwing): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the Brimstone Hearts and make the 1st Sepulcher phase go by very quickly. Do this on every bullet hell.
+    
 
     * **Summoner**:
 Optimal setups are the following:
@@ -81,7 +77,13 @@ Optimal setups are the following:
 
        3. 1 Cosmic Immaterializer + 1 Yharon son + Godly Soul Artifact, with the rest Mechworms.
 
-**Note:** Mechworms with less than 5 segments are worthless.
+       **Note:** Mechworms with less than 5 segments are worthless.
+
+   * **Throwing**: 
+  
+       * Celestus will be your main damage weapon. You’ll have to use this for the Soul Seeker ring, sadly throwing doesn’t have any other options. Try to guess/watch where the Soul Seekers are, and aim as best as you can.
+
+       * Scourge of the Cosmos (Throwing): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the Brimstone Hearts and make the 1st Sepulcher phase go by very quickly. Do this on every bullet hell.
 
     
 
@@ -135,7 +137,7 @@ Optimal setups are the following:
    * This phase is basically the same as the 3rd bullet hell, but when you see a Brimstone Monster ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_87.png) spawn from the top of the screen slowly move downwards. As you progress in the fight more and more of them will appear, you can however stack them on top of each other effectively mitigating the extra numbers completely.
 
 **Note:** From this phase onward you should always be circling around the arena.
-Try to not turn around and circle the other way unless you get blocked by a brimstone monster or SCal and her projectiles.
+Try to not turn around and circle the other way unless you get blocked by a Brimstone Monster or SCal and her projectiles.
    * It’s recommended to try to keep circling in a clockwise direction, as it will make the final bullet hell phase a bit easier to manage.
 
 
