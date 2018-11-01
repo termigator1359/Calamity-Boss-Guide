@@ -12,7 +12,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Conclave Crossfire, The Ballista, Snowman Cannon. Terra Ammo.
+    * **Ranged**: Conclave Crossfire, The Ballista, Snowman Cannon. Terra Ammo.
 
     * **Melee**: Terra Edge, *Terra Blade*, Holiday Halberd, True Forbidden Oathblade, Paladin's Hammer.
 
@@ -30,7 +30,7 @@
 
     * **Ranged**: Ranger Emblem, Magic Quiver.
 
-    * **Melee**: Warrior Emblem/Mechanical Glove, Bloody Worm Scarf.
+    * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
 
     * **Mage**: Sorcerer Emblem, Mana Flower (optional).
 
