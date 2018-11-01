@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Megashark, Slag Magnum, *Chlorophyte Shotbow*. Ichor Ammo.
+    * **Ranged**: Megashark, Slag Magnum, *Chlorophyte Shotbow*. Ichor Ammo.
 
     * **Melee**: *Terra Blade*, True Forbidden Oathblade, True Caustic Edge, Pwnagehammer.
 
@@ -28,7 +28,7 @@
 
     * **Ranger**: Ranger Emblem, Magic Quiver.
 
-    * **Melee**: Warrior Emblem/Mechanical Glove, Bloody Worm Scarf.
+    * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
 
     * **Mage**: Sorcerer Emblem, Mana Flower (optional)
 
