@@ -10,9 +10,9 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Flarewing Bow, Onyx Blaster, Mineral Mortar, Megashark. Napalm/Ichor/Crystal ammo.
+    * **Ranged**: Flarewing Bow, Onyx Blaster, Mineral Mortar, Megashark. Napalm/Ichor/Crystal ammo.
 
-    * **Melee**: *Fetid Baghnakhs*, Darklight Greatsword.
+    * **Melee**: *Fetid Baghnakhs*, Darklight Greatsword, Trinity.
 
     * **Mage**: *Meteor Staff*, Death Valley Duster, Lazinator.
 
@@ -22,11 +22,11 @@
 
 * **General Accessories:**
 
-    * Frostspark Boots, Ankh Shield, Deific Amulet, Soul of Cryogen+, Frost Flare, Counter Scarf, Laudanum, Siren's Heart
+    * Frostspark Boots, Ankh Shield, Deific Amulet, Soul of Cryogen+, Frost Flare, Counter Scarf, Laudanum, Siren's Heart.
 
 * **Class Specific Accessories:**
 
-    * **Ranger**: Ranger Emblem, Magic Quiver.
+    * **Ranged**: Ranger Emblem, Magic Quiver.
 
     * **Melee**: Warrior Emblem, Bloody Worm Scarf.
 
