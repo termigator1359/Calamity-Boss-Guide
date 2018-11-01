@@ -56,7 +56,7 @@
      ### Grounded Phase
         Drop him down to an area below your main platform and shoot at him from above, this can be done either by preemptively staying on a lower level then flying up or by nudging below your platform while he's on-screen.
     
-    ## Devourer of Gods: Final Form
+## Devourer of Gods: Final Form
 
 *"It's not over yet, kid!"*
 
