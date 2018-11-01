@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Phangasm*, SDFMG, Minigun. Vanquisher Arrows. Holy Fire Bullets.
+    * **Ranged**: *Phangasm*, SDFMG, Minigun. Vanquisher Arrows. Holy Fire Bullets.
 
     * **Melee**: Galaxia, Enforcer.
 
@@ -22,7 +22,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers/Elysian Tracers, Asgardian Aegis, Core of the Blood God, The Community, Reaper Tooth Necklace, The Sponge, Rampart of Deities, Dimensional Soul Artifact.
+    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Reaper Tooth Necklace, The Sponge, Rampart of Deities, Dimensional Soul Artifact.
 
 * **Class Specific Accessories:**
 
