@@ -14,15 +14,15 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Wulfrum Bow or *Seabow* w/ Jester Arrows/Frostburn arrows, Firestorm Cannon.
+    * **Ranged**: Wulfrum Bow, *Seabow*, Firestorm Cannon, Jester/Frostburn Arrows.
 
     * **Melee**: Seashell Boomerang, Mandible Claws, Starfury.
 
-    * **Mage**: Plasma Rod, Wulfrum Staff, Water/Frost Bolt, Space Gun, Mana Rose.
+    * **Mage**: Plasma Rod, Wulfrum Staff, Water/Frost Bolt, Space Gun, *Mana Rose*.
 
-    * **Summoner**: Slime Staff, Sun Spirit Staff.
+    * **Summoner**: *Slime Staff*, Sun Spirit Staff.
 
-    * **Throwing**: Crystalline, Seashell Boomerang, Grenades, Spiky Balls, Urchin Stinger.
+    * **Throwing**: Crystalline, Seashell Boomerang, *Grenades*, Spiky Balls, Urchin Stinger.
 
 * **General Accessories:**
 
@@ -34,25 +34,23 @@
 
     * **Summoner**: Papyrus Scarab, Spirit Generator.
 
-    * **Melee**: Cross Necklace/Star Veil, Amidias' Spark.
+    * **Melee**: Cross Necklace+, Amidias' Spark.
 
     * **Throwing**: Raider's Talisman.
 
 * **Weapon explanations (if required):
 
-    * **Ranger**: all of those weapons are piercing, which is what you want to deal with smaller slimes.
+    * **Ranged**: All of those weapons are piercing, which is what you want to deal with smaller slimes.
 
     * **Melee**: Boomerang and Starfury are quite easy to get, both are ranged, solid choice for keeping your distance. Mandible Claws are much trickier due to them being claw weapons, so you want Cross Necklace and Amidias Spark (since naturally you're going to be tanking damage). Warning: claws aren’t so viable in Revengeance, and are absolutely non-viable in Death.
 
-    * **Mage**: all of those should be self-explanatory, Mana Rose however is the king of those.
-
-    * **Summoner**: slimes have great damage, they are possibly your best summon in early game until EoC; Sun Spirits are okay-ish, so you should stick with slimes for the most parts.
+    * **Summoner**: Slimes have great damage, they are possibly your best summon in early game until EoC; Sun Spirits are okay-ish, so you should stick with slimes for the most parts.
 
     * **Throwing**: Grenades are the best weapon on the list, followed up by Spiky Balls (which require you to have boss walking over them), rest of them are pretty consistent in damage.
 
 * **Strategies:**
 
-    * **Strategy 1 - Cheesing/Luigi%:**
+   * **Strategy 1 - Cheesing/Luigi%:**
 
 ![Incomprehensible.](../public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
 
@@ -60,6 +58,6 @@ What you wanna do here is sit on top of this rope (approximately 20-25 tiles hig
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
 
-* **Strategy 2 - Running away on platforms:**
+   * **Strategy 2 - Running away on platforms:**
 
 King Slime has a memorable pattern of doing small jumps and then a big jump after, so that can be abused by making a platform high enough (biggest jump is 17 tiles) that he doesn't reach you. Naturally you still want ranged weapons.
