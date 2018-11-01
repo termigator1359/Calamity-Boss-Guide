@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Megashark, *Clockwork Assault Rifle*, Flarewing Bow, Effluvium Bow, Butcher. Ichor Ammo.
+    * **Ranged**: Megashark, *Clockwork Assault Rifle*, Flarewing Bow, Effluvium Bow, Butcher. Ichor Ammo.
 
     * **Melee**: Darklight Greatsword, Icebreaker, Forbidden Oathblade.
 
@@ -28,7 +28,7 @@
 
 * **Class Specific Accessories:**
 
-    * **Ranger**: Ranger Emblem, Magic Quiver.
+    * **Ranged**: Ranger Emblem, Magic Quiver.
 
     * **Melee**: Warrior Emblem, Bloody Worm Scarf.
 

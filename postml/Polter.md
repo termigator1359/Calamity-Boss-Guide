@@ -6,7 +6,7 @@
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_69.png)
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_70.png)
 
-* **Armor Sets:
+* **Armor Sets**:
 
     * **Any class**: Tarragon.
 
@@ -14,9 +14,9 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Seadragon, Blissful Bombardier. Holy Fire Ammo.
+    * **Ranged**: Seadragon, Blissful Bombardier. Holy Fire Ammo.
 
-    * **Melee**: Stellar Striker, Omega Biome Blade, Solar Flare.
+    * **Melee**: Stellar Striker, Omega Biome Blade, Solar Flare, Galactus Blade.
 
     * **Mage**: Elemental Ray, Mistlestorm, Nuclear Fury, Genisis.
 
@@ -26,7 +26,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor/Elysian Aegis, Bloodflare Core, The Community, Absorber, Ambrosial Ampoule.
+    * Seraph Tracers, Asgard's Valor/Elysian Aegis, Bloodflare Core, The Community, Absorber, Void of Extinction.
 
 * **Class Specific Accessories:**
 

@@ -12,7 +12,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Conclave Crossfire, Megalodon, Flak Kraken, *The Ballista*. Chlorophyte/Ichor/Terra Ammo.
+    * **Ranged**: Conclave Crossfire, Megalodon, Flak Kraken, *The Ballista*. Chlorophyte/Ichor/Terra Ammo.
 
     * **Melee**: *Terra Blade*, True Forbidden Oathblade, Vampire Knives.
 
@@ -30,7 +30,7 @@
 
     * **Ranged**: Ranger Emblem, Magic Quiver.
 
-    * **Melee**: Warrior Emblem/Mechanical Glove, Bloody Worm Scarf.
+    * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
 
     * **Mage**: Sorcerer Emblem, Mana Flower (optional).
 

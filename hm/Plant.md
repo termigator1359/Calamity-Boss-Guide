@@ -13,7 +13,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Megashark, *Barinautical, Chlorophyte Shotbow*. Ichor Ammo.
+    * **Ranged**: Megashark, *Barinautical, Chlorophyte Shotbow*. Ichor Ammo.
 
     * **Melee**: Fetid Baghnakhs, Terra Blade, Submarine Shocker, *True Forbidden Oathblade*.
 
@@ -31,7 +31,7 @@
 
     * **Ranged**: Ranger Emblem.
 
-    * **Melee**: Warrior Emblem/Mechanical Glove, Bloody Worm Scarf.
+    * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
 
     * **Mage**: Sorcerer Emblem, Mana Flower.
 

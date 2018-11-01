@@ -13,7 +13,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Onyx Chain Blaster*, Holy Fire Bullets, Blissful Bombardier, Shredder, Telluric Glare. Holy Fire Ammo.
+    * **Ranged**: *Onyx Chain Blaster*, Holy Fire Bullets, Blissful Bombardier, Shredder, Telluric Glare. Holy Fire Ammo.
 
     * **Melee**: Stellar Striker, Holy Collider, Ark of the Elements, Galactus Blade.
 
@@ -25,7 +25,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor/Elysian Aegis, Bloodflare Core, The Community, Absorber, Ambrosial Ampoule, Void of Calamity+.
+    * Seraph Tracers, Asgard's Valor/Elysian Aegis, Bloodflare Core, The Community, Absorber, Ambrosial Ampoule, Void of Extinction.
 
 * **Class Specific Accessories:**
 

@@ -12,7 +12,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Seadragon, Blissful Bombardier, Telluric Glare. Holy Fire Ammo.
+    * **Ranged**: Seadragon, Blissful Bombardier, Telluric Glare. Holy Fire Ammo.
 
     * **Melee**: Stellar Striker, Holy Collider, Elemental Shiv, The Mutilator, Elemental Lance.
 
@@ -24,7 +24,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor/Elysian Aegis, Bloodflare Core, The Community, Absorber, Ambrosial Ampoule.
+    * Seraph Tracers, Asgard's Valor/Elysian Aegis, Bloodflare Core, The Community, Absorber, Ambrosial Ampoule, Void of Extinction.
 
 * **Class Specific Accessories:**
 

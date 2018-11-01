@@ -14,9 +14,9 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Onyx Chain Blaster*, Clockwork Bow, Shredder, Elemental Blaster, Starfleet. Holy Fire Ammo.
+    * **Ranged**: *Onyx Chain Blaster*, Clockwork Bow, Shredder, Elemental Blaster, Starfleet. Holy Fire Ammo.
 
-    * **Melee**: *Omega Biome Blade*, Elemental Shiv, *Galactus Blade*.
+    * **Melee**: *Omega Biome Blade*, Elemental Shiv, Ark of the Elements, *Galactus Blade*.
 
     * **Mage**: Elemental Ray, Nano Purge, *Genisis*, Last Prism.
 
@@ -26,7 +26,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor, The Community, Absorber, Ambrosial Ampoule, Deific Amulet, Void of Calamity+.
+    * Seraph Tracers, Asgard's Valor, The Community, Absorber, Ambrosial Ampoule, Deific Amulet, Void of Extinction.
 
 * **Class Specific Accessories:**
 
@@ -44,10 +44,10 @@
 
     * Try to always run in a single direction. When she enters her shell, circle around her, then keep running when she exits. You also want to mostly fly because lava blobs stick to literally any tile. Use ML strats for laser attack.
 
-    * Taking down the extra guardians should be your main priority.
+    * Taking down the extra guardians, especially the healing one, should be your priority.
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/GxVQvBlsm9c">
+        src="https://www.youtube.com/embed/GxVQvBlsm9c"
     </iframe>
 </div>

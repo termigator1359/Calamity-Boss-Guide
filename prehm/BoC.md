@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Seabow, *Opal Striker*, Pumpler/Minishark, *Firestorm Cannon*. Any Ammo.
+    * **Ranged**: Seabow, *Opal Striker*, Pumpler/Minishark, *Firestorm Cannon*. Any Ammo.
 
     * **Melee**: Seashell Boomerang, Rotted Fork.
 
@@ -26,7 +26,7 @@
 
 * **General Accessories:**
 
-    * Hermes Boots+, Counter Scarf/Shield of Cthulhu, X In a Bottle, Shiny Red Balloon+, Flying Carpet, Crimson Flask, Laudanum/Stress Pills.
+    * Hermes Boots+, Counter Scarf/Shield of Cthulhu, X In a Bottle, Shiny Red Balloon+, Flying Carpet, Crimson Flask, Laudanum, Stress Pills.
 
 * **Class Specific Accessories:**
 
@@ -34,7 +34,7 @@
 
     * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
 
-    * **Melee**: Cross Necklace/Star Veil.
+    * **Melee**: Cross Necklace+.
 
     * **Throwing**: Raider's Talisman.
 

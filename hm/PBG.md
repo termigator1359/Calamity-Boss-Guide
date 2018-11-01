@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Conclave Crossfire, Helstorm, *Greatbow of Turmoil*. Chloro/Terra Ammo.
+    * **Ranged**: Conclave Crossfire, Helstorm, *Greatbow of Turmoil*. Chloro/Terra Ammo.
 
     * **Melee**: Soul Harvester, Tyrant Yharim's Ultisword, *Vampire Knives*, Hellfire Flamberge.
 
@@ -28,7 +28,7 @@
 
     * **Ranged**: Daedalus Emblem, Ranger Emblem, Magic Quiver.
 
-    * **Melee**: Warrior Emblem/Mechanical Glove, Bloody Worm Scarf.
+    * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
 
     * **Mage**: Sigil of Calamitas.
 

@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Opal Striker, Pumpler/Minishark, Firestorm Cannon. Seabow. Jester Arrows/Any Bullets.
+    * **Ranged**: Opal Striker, Pumpler, Minishark, Firestorm Cannon, Seabow, Jester Arrows, Any Bullets.
 
     * **Melee**: Seashell Boomerang, Ball'o'Hurt, Mycelial Claws.
 
@@ -26,29 +26,31 @@
 
 * **General Accessories:**
 
-    * Hermes Boots+, Counter Scarf/Shield of Cthulhu, X in a bottle, Shiny Red Balloon+, Flying Carpet, Corrupt Flask, Laudanum/Stress Pills.
+    * Hermes Boots+, Counter Scarf/Shield of Cthulhu, X in a bottle, Shiny Red Balloon+, Flying Carpet, Corrupt Flask, Laudanum, Stress Pills.
 
 * **Class Specific Accessories:**
+
+    * **Ranged**: Shark Tooth Necklace.
 
     * **Mage**: Celestial Cuffs, Mana Flower (optional).
 
     * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
 
-    * **Melee**: Cross Necklace/Star Veil.
+    * **Melee**: Cross Necklace+.
 
     * **Throwing**: Raider's Talisman.
 
 * **Weapon explanations (if required):**
 
-    * **Ranger**: Firestorm Cannon pierces, Opal Striker just deals a lot of damage for 1 bullet cost, Minishark is better than Pumpler if you use Shark Tooth Necklace.
+    * **Ranged**: Firestorm Cannon pierces, Opal Striker just deals a lot of damage for 1 bullet cost, Minishark is better than Pumpler if you use Shark Tooth Necklace.
 
     * **Melee**: Boomerang pierces, Ball'o'Hurt also can pierce in some cases, Claws are just claws.
 
-    * **Mage**: piercing? Piercing.
+    * **Mage**: Piercing? Piercing.
 
     * **Summoner**: Sun Spirits aren't here because crits aren't worth the lack of constant piercing damage.
 
-    * **Throwing**: same as everything else, you want as much piercing as you can get.
+    * **Throwing**: Same as everything else, you want as much piercing as you can get.
 
 * **Strategy:**
 

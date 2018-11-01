@@ -4,15 +4,15 @@
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_37.png)
 
-* **Armor Sets: **
+* **Armor Sets**:
 
     * **Any class**: Daedalus, Titanium, Frost.
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Barinautical*, *Clockwork Assault Rifle*, Megashark, Butcher. Ichor Bullets.
+    * **Ranged**: *Barinautical*, *Clockwork Assault Rifle*, Megashark, Butcher. Ichor Bullets.
 
-    * **Melee:** Submarine Shocker, *Darklight Greatsword,* Pwnagehammer.
+    * **Melee:** Submarine Shocker, *Darklight Greatsword*, Pwnagehammer.
 
     * **Mage**: Golden Shower, Shadecrystal Barrage, Meteor Staff, Gleaming Magnolia.
 
@@ -28,7 +28,7 @@
 
 * **Class Specific Accessories:**
 
-    * **Ranger**: Ranger Emblem, Magic Quiver.
+    * **Ranged**: Ranger Emblem, Magic Quiver.
 
     * **Melee**: Warrior Emblem, Bloody Worm Scarf.
 

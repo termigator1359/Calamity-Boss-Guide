@@ -4,13 +4,13 @@
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_55.png)
 
-* **Armor Sets:**
+* **Armor Sets**:
 
     * **Any class**: Ataxia.
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: Conclave Crossfire, Helstorm, Ballista, Malevolence. Terra Ammo.
+    * **Ranged**: Conclave Crossfire, Helstorm, Ballista, Malevolence. Terra Ammo.
 
     * **Melee**: Omniblade, Terra Lance, True Forbidden Oathblade, Hellfire Flamberge.
 
@@ -28,7 +28,7 @@
 
     * **Ranged**: Daedalus Emblem, Ranger Emblem, Magic Quiver.
 
-    * **Melee**: Warrior Emblem/Mechanical Glove, Bloody Worm Scarf.
+    * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
 
     * **Mage**: Sigil of Calamitas.
 

@@ -14,11 +14,11 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Firestorm Cannon*, *Pumpler/Minishark*, Opal Striker. Silver/Meteor Bullets.
+    * **Ranged**: *Firestorm Cannon, *Pumpler, Minishark*, Opal Striker, Silver/Meteor Bullets.
 
     * **Melee**: *Seashell Boomerang*, Bladecrest Oathsword, Meteor Fist.
 
-    * **Mage**: *Storm Spray, Water/Frost/Flare Bolt, Mana Rose*.
+    * **Mage**: Storm Spray, Water/Frost/Flare Bolt, Mana Rose.
 
     * **Summoner**: Seabound Staff, Hornet Staff, Imp Staff.
 
@@ -26,11 +26,11 @@
 
 * **Weapon explanations:**
 
-    * **All classes**: since this is pretty much EoW that splits into 3 different worms instead of 234512 then whatever would’ve been good on him remains good on them => any piercing is good.
+    * **All classes**: Since this is pretty much EoW that splits into 3 different worms instead of 234512 then whatever would’ve been good on him remains good on them => any piercing is good.
 
 * **General Accessories:**
 
-    * Hermes Boots+, Shiny Red Balloon+, Flying Carpet, any Hook, Counter Scarf, Laudanum/Stress Pills.
+    * Hermes Boots+, Shiny Red Balloon+, Flying Carpet, Counter Scarf, Laudanum, Stress Pills.
 
 * **Class Specific Accessories:**
 
@@ -38,7 +38,7 @@
 
     * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
 
-    * **Melee**: Cross Necklace/Star Veil.
+    * **Melee**: Cross Necklace+.
 
     * **Throwing**: Raider's Talisman.
 
