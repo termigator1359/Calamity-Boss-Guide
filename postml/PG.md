@@ -42,6 +42,6 @@
 
 * **Strategy:**
 
-    * Keep your distance, and don't let the main guardian fly over you, since being below it will make it dash down at you. Making a slope out of actuated hallow blocks will also help due to expanding the biome. Or just fight them in Hell, that works too.
+    * Keep your distance and don't let the main guardian fly over you, since being below it will make it dash down at you. Making a slope out of actuated hallow blocks will also help due to expanding the biome. Or just fight them in Hell, that works too.
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_62.png)
