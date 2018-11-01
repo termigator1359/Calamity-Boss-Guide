@@ -10,9 +10,9 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranger**: *Conclave Crossfire, Helstorm*, Malevolence. Hyperius/Terra Ammo.
+    * **Ranged**: *Conclave Crossfire, Helstorm*, Malevolence. Hyperius/Terra Ammo.
 
-    * **Melee**: Omniblade, Terra Edge, Terra Lance, Hellfire Flamberge.
+    * **Melee**: Omniblade, Terra Edge, Terra Blade, Terra Lance, *Hellfire Flamberge*.
 
     * **Mage**: Undine's Retribution, Everglade Spray, Primordial Earth, Hematemesis, Razorpine.
 
@@ -28,7 +28,7 @@
 
     * **Ranged**: Daedalus Emblem, Ranger Emblem, Magic Quiver.
 
-    * **Melee**: Warrior Emblem/Mechanical Glove, Bloody Worm Scarf.
+    * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
 
     * **Mage**: Sigil of Calamitas.
 
