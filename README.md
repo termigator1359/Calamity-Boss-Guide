@@ -37,6 +37,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
     * If you get an early Blood Moon and gather enough blood orbs you can get abyss weapons way before you're supposed to - make a Zen potion on Alchemy Table up on the main planetoids, venture into the dungeon (Zen should block Dungeon Guardians) and hope for some golden keys in wooden chests so that you can keep praying for shadow key.
     * Boots are mandatory for 90% of the fights.
+    * __GET A HOOK ASAP.__
     * Warding isn't too bad at this stage, although more damage would be preferred.
     * If in Revengeance or above consider farming King Slime/Desert Scourge for Laudanum/Stress Pills (Laud's much better), gives too many stats packed into one accessory.
     * Goblins are pre-boss, so go ahead and knock yourself out with all those upgraded accessories.
