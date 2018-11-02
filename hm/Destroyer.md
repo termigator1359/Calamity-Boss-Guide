@@ -43,3 +43,5 @@
     * **Strategy 2 - "Melee 2: Electric Boogaloo"**: grab ALL the melee speed accessories, reforge them to Violent, grab Fetid Baghnakhs, summon the worm, jump into him while he's still coiled, proceed to shred him at the speed of 60 attacks per second.
 
 ![image alt text](../public/Destroyer.png)
+
+<div align="center"<iframe width="620" height="315" src="https://www.youtube.com/embed/I33o0UvlI5s" frameborder="0" allowfullscreen></iframe></div>
