@@ -176,3 +176,5 @@ The only threats in this phase are the Brimstone Monsters
  ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_93.png) (which gain a speed boost during this phase) and any leftover projectiles prior to this phase; however, none of the threats here are actually dangerous at all (aside from Brimstone Monsters, but if you have stacked them they’re completely harmless since you can go in a circle).
  
    * Simply circle around the arena while waiting for SCal to finish her monologue. When she finishes, she’ll be vulnerable again. Attack her until her HP reaches zero.
+   
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/B8WdcXRWf_c" frameborder="0" allowfullscreen></iframe></div>
