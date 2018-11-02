@@ -61,3 +61,5 @@ What you wanna do here is sit on top of this rope (approximately 20-25 tiles hig
    * **Strategy 2 - Running away on platforms:**
 
 King Slime has a memorable pattern of doing small jumps and then a big jump after, so that can be abused by making a platform high enough (biggest jump is 17 tiles) that he doesn't reach you. Naturally you still want ranged weapons.
+
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/rxJCyBr4qvs" frameborder="0"></iframe></div>
