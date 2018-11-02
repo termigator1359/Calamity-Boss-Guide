@@ -42,4 +42,4 @@
 
     * Treat it like a spookier Brimstone Elemental for everything except for the last phase. Once he enters his bitey phase, move in a figure eight pattern to avoid the cosmilamps that spawn. When you pass under him during his biting phase, dash to the side where he's going to come from and keep running in order to avoid him voring you.
 
-<div align="center"<iframe width="620" height="315" src="https://www.youtube.com/embed/VrjOv6PgxNc" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/VrjOv6PgxNc" frameborder="0" allowfullscreen></iframe></div>
