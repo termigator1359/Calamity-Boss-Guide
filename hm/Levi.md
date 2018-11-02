@@ -47,4 +47,4 @@
    * Special note: if Siren dies Levi doubles its defense, which in turn makes it extremely hard to kill with on-tier weapons. You know what to do.
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_47.png)
 
-<div align="center"<iframe width="620" height="315" src="https://www.youtube.com/embed/kK17NupHHiU" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/kK17NupHHiU" frameborder="0" allowfullscreen></iframe></div>
