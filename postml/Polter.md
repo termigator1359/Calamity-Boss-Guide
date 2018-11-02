@@ -42,4 +42,6 @@
 
 * **Strategy:**
 
-    * Arena is crucial for Polter, having a small or wonky fighting space is going to do nothing but get you killed. Bring every buff potion you can. Circle strat for phase 1 and 2, tight circles. Phase 3 - run away slowly and be careful of the many projectiles plaguing the arena. Kill the ghost version of polter first, since the main version takes basically no damage while it's alive (90% DR in Rev/Death if it’s alive, it’s literally a 30% increase). Sloped blocks could help you with dodging projectiles.
+    * Arena is crucial for Polter, having a small or wonky fighting space is going to do nothing but get you killed. Bring every buff potion you can. Circle strat for phase 1 and 2, tight circles. Phase 3 - run away slowly and be careful of the many projectiles plaguing the arena. Kill the ghost version of polter first, since the main version takes basically no damage while it's alive (90% DR in Rev/Death if it’s alive, it’s literally a 60% increase). Sloped blocks could help you with dodging projectiles.
+
+<div align="center"<iframe width="620" height="315" src="https://www.youtube.com/embed/ltvOkjs-LG0" frameborder="0" allowfullscreen></iframe></div>
