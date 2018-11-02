@@ -47,3 +47,5 @@
     * **Strategy 3 - Big brain**: All you do is keep running to the side, occasionally jumping up if she's dashing at you. The only thing you’ll need is a sizeable platform to which you can lure her.
 
 ![image alt text](../public/QB.png)
+
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/r_8pF_M3xR0" frameborder="0" allowfullscreen></iframe></div>
