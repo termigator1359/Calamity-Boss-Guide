@@ -43,3 +43,5 @@
     * Make a big platform and run while he tags along. Second layer of platforms would be beneficial for turning around - hook to them and jump off while you're flying. If you're afraid of him hitting you with one of his mad dashes - don't worry, AI tries to predict where you're gonna go next and always misses if you have Hermes Boots at the very least. Facetanking is discouraged on Rev+.
 
 ![image alt text](../public/EoC.png)
+
+<iframe width="620" height="315" src="https://www.youtube.com/embed/Nn5XGHHJf4o" frameborder="0" allowfullscreen></iframe>
