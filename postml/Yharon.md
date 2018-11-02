@@ -83,3 +83,5 @@
 * **Strategies:**
 
     * Strats mostly don't change up until his final phase where he will become invulnerable for some time (use RoD for dodging everything he throws at you). Upon transition he will heal up and you just do what you did before - shoot at it until it dies. When below 66% HP Yharon will start spawning flarenadoes again, and when at very low HP he will begin charging at you constantly. On Death this phase goes fucking ballistic so always keep an eye out for projectiles while doing your ovals. And don’t forget about your minimap.
+
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/Nb59Dri37tk" frameborder="0" allowfullscreen></iframe></div>
