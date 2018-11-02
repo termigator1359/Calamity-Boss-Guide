@@ -48,6 +48,6 @@
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/gVTo_it1O7A">
+        src="https://www.youtube.com/embed/gVTo_it1O7A" frameborder="0" allowfullscreen>
     </iframe>
 </div>
