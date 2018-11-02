@@ -16,7 +16,7 @@
 
     * **Ranged**: *Archerfish*. Any Ammo, but preferably the one that has highest damage.
 
-    * **Melee**: Bladecrest Oathsword, Ball o' Fugu.
+    * **Melee**: Bladecrest Oathsword, Ball o' Fugu, Aorta.
 
     * **Mage**: *Black Anurian*, Demon Scythe.
 
