@@ -44,4 +44,4 @@
 
 ![image alt text](../public/EoC.png)
 
-<iframe width="620" height="315" src="https://www.youtube.com/embed/Nn5XGHHJf4o" frameborder="0" allowfullscreen></iframe>
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/Nn5XGHHJf4o" frameborder="0" allowfullscreen></iframe></div>
