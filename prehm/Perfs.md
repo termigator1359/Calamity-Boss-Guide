@@ -47,3 +47,5 @@
     * Do the usual multi-platform arena setup (2-3 platforms 15-20 blocks above each other). Hive's blood splurts can be easily dodged by moving like a pendulum - left and right (besides there are a lot of openings in there). Attack hive until you get one worm to spawn, kill the worm, repeat the process until all 3 worms are dead.
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_16.png)
+
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/Gmqo02t85N8" frameborder="0" allowfullscreen></iframe></div>
