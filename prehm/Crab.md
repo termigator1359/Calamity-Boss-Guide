@@ -61,3 +61,5 @@
    * __Strategy 2 - "Crabs can't process such advanced avoidance maneuvers"__: Stand right next to him and all attacks, but one will miss you (which is the vertical spam). If he tries to land on you - dash in his direction and stand on the other side, occasionally shooting upwards to get rid of flying minions. Naturally this strat discourages using any weapons that might indirectly hurt you (such as Grenades) since you're going to be hugging the poor Crabbo all the time.
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)
+
+<iframe width="620" height="315" src="https://www.youtube.com/embed/tO3vwPg3OPE" frameborder="0" allowfullscreen></iframe>
