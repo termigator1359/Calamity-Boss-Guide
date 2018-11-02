@@ -12,7 +12,7 @@
 
     * **Ranged**: Conclave Crossfire, Helstorm, Ballista, Malevolence. Terra Ammo.
 
-    * **Melee**: Omniblade, Terra Lance, True Forbidden Oathblade, Hellfire Flamberge.
+    * **Melee**: Omniblade, *Terra Lance*, True Forbidden Oathblade, Hellfire Flamberge.
 
     * **Mage**: Undine's Retribution, Everglade Spray, Primordial Earth, Plague Staff, Forbidden Sun.
 
