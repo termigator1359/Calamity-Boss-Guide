@@ -1,6 +1,7 @@
 ## Desert Scourge
 
 *"The desert sand stirs..."*
+
 ![image alt text](/public/BMbpD6rCZ1qoniF20u7H2A_img_4.png)
 
 * **Armor sets:**
