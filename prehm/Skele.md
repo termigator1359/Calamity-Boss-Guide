@@ -53,3 +53,5 @@
     * Use the usual arena, (3-4 platforms, 15-20 blocks above each other), upon summoning quickly run/hook to the platforms and start dashing around, generally going in a clockwise/counter-clockwise pattern. Focus hands first because you don't want to get chain-juggled between them and his head.
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
+
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/IrEGgOMWcGw" frameborder="0" allowfullscreen></iframe></div>
