@@ -78,4 +78,4 @@
      When he reaches about half health, he will start to alternate between his regular phases and this one. He turns invisible and cannot hurt your or be hurt, he will however spawn vertical and horizontal walls of lasers, equip RoD and run in one direction, simply tap jump and dash to get past each wave, accessories that boost your jump speed can make this harder to execute.
 
 
-
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/HOtgQ0i19Rw" frameborder="0" allowfullscreen></iframe></div>
