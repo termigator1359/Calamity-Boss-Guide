@@ -48,4 +48,4 @@
 
 ![image alt text](../public/BoC.png)
 
-<iframe width="620" height="315" src="https://www.youtube.com/embed/tllBlQ4KUZ8" frameborder="0" allowfullscreen></iframe>
+<div align="center"<iframe width="620" height="315" src="https://www.youtube.com/embed/tllBlQ4KUZ8" frameborder="0" allowfullscreen></iframe></div>
