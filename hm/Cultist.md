@@ -39,3 +39,5 @@
 * **Strategy:**
 
     * Make a big platform (or reuse the one left from Skeletron) and slowly walk away from dungeon while firing anything you have at Cultist. Ye, that's it really. No, there isn’t anything to it. Walk away.
+
+<div align="center"<iframe width="620" height="315" src="https://www.youtube.com/embed/2jI9RSd-fVc" frameborder="0" allowfullscreen></iframe></div>
