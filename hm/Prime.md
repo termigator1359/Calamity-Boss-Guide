@@ -42,6 +42,6 @@
 
     * On Rev or below, spin in wide circles around him until he falls over. On Death, either do your best to avoid breaking the laser hand or use daedalus armor set's ability to flip gravity to fly away during his spinning attack. Regardless of difficulty - keep your distance.
 
-![image alt text](..}/public/BMbpD6rCZ1qoniF20u7H2A_img_38.png)
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_38.png)
 
 <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/w4g6MCvKVZU" frameborder="0" allowfullscreen></iframe></div>
