@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: *Conclave Crossfire, Helstorm*, Malevolence. Hyperius/Terra Ammo.
+    * **Ranged**: *Conclave Crossfire, Helstorm*, Malevolence, P90. Hyperius/Terra Ammo.
 
     * **Melee**: Omniblade, Terra Edge, Terra Blade, Terra Lance, *Hellfire Flamberge*.
 
