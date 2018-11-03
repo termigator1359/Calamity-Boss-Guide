@@ -401,5 +401,5 @@ Special thanks to some of the people on leviathan's discord, namely Amelia Faye,
 
 **Shit we're gonna have to look into for next update:**
 
-* Yes.
+* [Yes.](https://docs.google.com/document/d/12hjA6i4s3ebwXEoiWp6LeBvy2e_Qbp69gvyGc6UnBJI/edit)
 
