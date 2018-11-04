@@ -14,7 +14,7 @@
 
     * **Ranged**: Seadragon, Blissful Bombardier, Telluric Glare. Holy Fire Ammo.
 
-    * **Melee**: Stellar Striker, Holy Collider, Terratomere, Lacerator, Galactus Blade.
+    * **Melee**: Stellar Striker, Omega Biome Blade, Lacerator, Galactus Blade.
 
     * **Mage**: *Mistlestorm*, Nuclear Fury.
 
