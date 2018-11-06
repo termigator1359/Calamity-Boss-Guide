@@ -59,7 +59,10 @@
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_8.png)
 
    * __Strategy 2 - "Crabs can't process such advanced avoidance maneuvers"__: Stand right next to him and all attacks, but one will miss you (which is the vertical spam). If he tries to land on you - dash in his direction and stand on the other side, occasionally shooting upwards to get rid of flying minions. Naturally this strat discourages using any weapons that might indirectly hurt you (such as Grenades) since you're going to be hugging the poor Crabbo all the time.
+      * Quickly spamming your A and D keys will confuse Crabulon and cause him to stay still (he can still move during his jumps though). This can be abused by true melee weapons (see the 2nd video). 
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)
 
 <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/tO3vwPg3OPE" frameborder="0" allowfullscreen></iframe></div>
+
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/jCU0BEIpKrc" frameborder="0" allowfullscreen></iframe></div>
