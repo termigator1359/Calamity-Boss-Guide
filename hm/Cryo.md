@@ -42,4 +42,4 @@
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_28.png)
 
-<div align="center"<iframe width="620" height="315" src="https://www.youtube.com/embed/a2cO53tNCrU" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/a2cO53tNCrU" frameborder="0" allowfullscreen></iframe></div>
