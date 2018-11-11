@@ -316,7 +316,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 #### [Polterghast](postml/Polter.md)
 
-#### [Abyss, Trip 3](unrelated/abyss3.md)
+#### [Third trip to Abyss](unrelated/abyss3.md)
 
 #### [DoG](postml/DoG.md)
 
