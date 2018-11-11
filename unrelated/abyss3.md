@@ -1,9 +1,10 @@
 ## Abyss (Trip Three)
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_71.png) 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_72.png)
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_73.png)
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_74.png)
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_71.png) 
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_72.png)
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_73.png)
+
+![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_74.png)
 
 * **Armor Sets**:
 
