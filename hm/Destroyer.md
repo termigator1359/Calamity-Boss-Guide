@@ -8,6 +8,8 @@
 
     * **Any class**: Daedalus, Titanium.
 
+    * **Throwing**: Daedalus Facemask, Any chestplate, Fossil Greaves.
+    
 * **Weapon Loadouts:**
 
     * **Ranged**: Flarewing Bow, Onyx Blaster, Mineral Mortar, Megashark. Napalm/Ichor/Crystal ammo.
