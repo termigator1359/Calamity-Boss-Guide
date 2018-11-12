@@ -7,7 +7,9 @@
 * **Armor Sets:**
 
     * **Any class**: Daedalus, Titanium.
-
+    
+    * **Throwing**: Daedalus Facemask, Any chestplate, Fossil Greaves.
+    
 * **Weapon Loadouts:**
 
     * **Ranged**: Megashark, Flarewing Bow, Butcher, Effluvium Bow. Ichor/Crystal Ammo.
