@@ -7,6 +7,8 @@
 * **Armor Sets:**
 
     * **Any class**: Daedalus, Titanium, Chlorophyte.
+    
+    * **Throwing**: Daedalus Facemask, Any chestplate, Fossil Greaves.
 
 * **Weapon Loadouts:**
 
