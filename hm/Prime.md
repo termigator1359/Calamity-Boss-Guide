@@ -7,6 +7,8 @@
 * **Armor Sets**:
 
     * **Any class**: Daedalus, Titanium, Frost.
+    
+    * **Throwing**: Daedalus Facemask, Any chestplate, Fossil Greaves.
 
 * **Weapon Loadouts:**
 
