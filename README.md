@@ -92,7 +92,8 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
     * If you want to have a much easier time with half the bosses - use Daedalus Stormbow. It's not on any boss because it’s stupid and works until Golem.
     * Verium Bullets are the first bullets that are going to home, feel free to make a bunch of them.
-    * Terra Bullets are also really good,
+    * Terra Bullets are also really good.
+    
 * **Melee**
 
     * **OATHBLADE** (it's a post-mech weapon that kills Plantera in 24 seconds)
@@ -133,7 +134,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 * **Melee**
 
-    * Stick to Ataxia until DoG dies.
+    * Stick to Ataxia until Yharon fully dies. Or go for actually safer choices.
     * Once Polter ceases to exist - grab Banshee Hook, this is gonna be your best weapon for some time.
 
 * **Mage**
