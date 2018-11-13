@@ -7,6 +7,8 @@
 * **Armor Sets:**
 
     * **Any class**: Tarragon, Bloodflare, God Slayer. Preferrably God Slayer.
+    
+    * **Melee**: Ataxia. Blame dooglett.
 
 * **Weapon Loadouts:**
 
