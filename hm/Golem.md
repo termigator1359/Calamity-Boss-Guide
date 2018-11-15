@@ -44,4 +44,6 @@
 
 ![image alt text](../public/golem.png)
 
+![image alt text](../public/Golem.png)
+
 <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/hPEQ2gVRdqU" frameborder="0" allowfullscreen></iframe></div>
