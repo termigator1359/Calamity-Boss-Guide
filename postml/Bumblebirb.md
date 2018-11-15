@@ -40,4 +40,6 @@
 
     * The entire fight is just butchering a steroided Mothron, so do what you would usually do while farming eclipses. He bumbles.
 
+![image alt text](../public/Bumble.png)
+
 <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/FoetT2WPbko" frameborder="0" allowfullscreen></iframe></div>
