@@ -7,6 +7,8 @@
 * **Armor Sets:**
 
     * **Any class**: Titanium, Frost.
+    
+    * **Summoner:** Spider.
 
 * **Weapon Loadouts:**
 
