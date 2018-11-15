@@ -42,7 +42,7 @@
 
     * **Any class**: St this point you should start thinking why piercing damage with high attacking speed is bad, so anything that pierces starts falling off in effectiveness.
 
-    * **Mage**: Bolts pierce and you can surround your arena with walls so they keep bouncing, rain staves are an extremely good choice since you will only need to circle and point at the boss, Scythe's the same as bolts except it doesn’t bounce.
+    * **Mage**: Bolts pierce and you can surround your arena with walls so they keep bouncing, rain staves are an extremely good choice since you will only need to circle and point at the boss, Scythe's the same as bolts except it doesn’t bounce. Shadowdrop is just straight up stupid because it eats hands, and then eats the head.
 
     * **Summoner**: Clots are somewhat bad because of the fact that they pierce, but you don't have that many choices.
 
