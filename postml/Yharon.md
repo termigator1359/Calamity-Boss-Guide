@@ -53,7 +53,9 @@
 * **Armor Sets**:
 
     * **Any class**: Silva.
-
+    
+    * **Melee**: Ataxia. Blame dooglett 2: Electric "25% damage of your projectile" flarealoo.
+    
 * **Weapon Loadouts:**
 
     * **Ranged**: *Phangasm*, Alluvion. *Vanquisher Arrows*.
