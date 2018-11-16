@@ -16,7 +16,7 @@
 
     * **Melee**: *Terra Blade*, True Forbidden Oathblade, Vampire Knives.
 
-    * **Mage**: Everglade Spray, Undine's Retribution, Tears of Heaven, Primordial Earth, Gleaming Magnolia?
+    * **Mage**: Blizzard Staff, Undine's Retribution, Tears of Heaven, Primordial Earth, Gleaming Magnolia?
 
     * **Summoner**: Entropy's Vigil, Dreadmine Staff, Sun God Staff.
 
