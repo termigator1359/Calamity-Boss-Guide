@@ -56,7 +56,7 @@ Having specifically those 3 accessories should bring you to 10 minion slots, all
 
        * Burning Sky is specifically for killing the Soul Seeker ring. This weapon’s projectiles cover a large portion of the screen, and        as such it is very good for killing off the Soul Seeker ring that often goes offscreen.
 
-       * Exoblade can be an alternative heart killer if you don't want to bother with Scourge.
+       * Exoblade can be an alternative heart killer if you don't want to bother with Scourge. It's also a great weapon to refill your health and regain your dps (Melee Auric gives damage based on your current health).
 
     * **Mage**:
 
