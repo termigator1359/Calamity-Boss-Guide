@@ -22,4 +22,7 @@
 
     * **If you haven't killed Polterghast you don’t need this.**
 
-    * The most important and the only thing you have to do this trip is to kill *most* minibosses that lurk at the bottom of the abyss. They all drop new weapons (Maulers are included in that list). Ranged characters kill Maulers in Sulphur Sea, Throwing people kill Reaper Sharks for Valediction, Summoners have Colossal Squids that will drop Calamari's Lament, Melee is stuck with killing Juvenile Eidolon Wyrms (not adults!). If you see an adult wyrm - run, just run, it will probably kill you if you trigger it. Banshee Hook is a pretty good weapon for dealing with the minibosses until you’re able to get some of their weapons. Using Rod of Discord is still forbidden. 
+    * The most important and the only thing you have to do this trip is to kill *most* minibosses that lurk at the bottom of the abyss. They all drop new weapons (Maulers are included in that list). Ranged characters kill Maulers in Sulphur Sea, Throwing people kill Reaper Sharks for Valediction, Summoners have Colossal Squids that will drop Calamari's Lament, Melee is stuck with killing Juvenile Eidolon Wyrms (not adults!). 
+    * If you see an adult wyrm - run, just run, it will probably kill you if you trigger it. Banshee Hook is a pretty good weapon for dealing with the minibosses until you’re able to get some of their weapons. Using Rod of Discord is still forbidden. 
+
+![image alt text](../public/Abyss.png)
