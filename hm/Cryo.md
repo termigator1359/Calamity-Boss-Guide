@@ -6,7 +6,7 @@
 
 * **Armor Sets:**
 
-    * **Any class**: Titanium, Frost.
+    * **Any class**: Titanium, Frost, Statigel.
     
     * **Summoner:** Spider.
 
