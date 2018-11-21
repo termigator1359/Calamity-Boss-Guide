@@ -1,8 +1,8 @@
 ## Astrageldon Slime
 
-*"A mass of star jelly falls from the sky!"* 
+*"A titanic slime infected by a star-borne disease..."* 
 
-![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_48.png)
+![image alt text](../public/Aureus.png)
 
 * **Armor Sets:**
 
@@ -40,7 +40,7 @@
 
 * **Strategies:**
 
-    * Stay **away** from him, move up and down. Do not put a wall between you and him, he completely ignores those with his shots and can warp like KS. Circles can work too, but move slowly if you're doing them. Best strat is just running away while constantly keeping him on screen because now he can teleport. Laser barrages were replaced with shotgun blasts which shouldn’t pose any threat if you’re not standing still.
+    * Stay **away** from him, move up and down. Place walls on Rev+ because of sudoku bombers. Circles can work too, but the best strat is just running away while constantly keeping him on screen. Using any kind of homing is generally not recommended on Rev+ because of aforementioned sudoku commiters that try to blast your face for major damage. If you do trigger them - try to let them smash into walls so they explode peacefully.
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_49.png)
 
