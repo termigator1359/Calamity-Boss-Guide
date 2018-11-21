@@ -2,7 +2,7 @@
 
 *"Astrageldon hears an whomst'd've..."* 
 
-![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_60.png)
+![image alt text](../public/Aureus.png)
 
 * **Armor Sets:**
 
