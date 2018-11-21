@@ -35,7 +35,8 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 * **All classes**
 
-    * If you get an early Blood Moon and gather enough blood orbs you can get abyss weapons way before you're supposed to - make a Zen potion on Alchemy Table up on the main planetoids, venture into the dungeon (Zen should block Dungeon Guardians) and hope for some golden keys in wooden chests so that you can keep praying for shadow key.
+    * Even if pre-boss Alchemy Table was removed you can still do this.
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/tAyPsz-rSTg" frameborder="0" allowfullscreen></iframe></div>
     * Boots are mandatory for 90% of the fights.
     * __GET A HOOK ASAP.__
     * Warding isn't too bad at this stage, although more damage would be preferred.
@@ -83,7 +84,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * Ambrosial Ampoule is only useful for exploration, so don't even think about using it on bosses. Unless you really wanna tank.
     * Right after Clonelamitas dies most classes can skidaddle to the Abyss and get better weapons. Except melee. Typhon's Greed is a meme.
     * Everyone can ignore GSS, the only "good" weapon is Duststorm in a Bottle, and it's pretty much outclassed by any throwing weapon you can get at that point.
-    * Money farms: Queen Bee and Ravager (only if you're used to him, he’s quite a pain to nohit, even with post-ML gear otherwise it’s better to armageddon Queens).
+    * Money farms: Queen Bee and Ravager (only if you're used to him, he’s quite a pain to nohit, even with post-ML gear, otherwise it’s better to armageddon Queens).
     * If you stock up 30-40 Ravager bags for post-Providence you can get 3000 platinum just for opening them.
     * If you have free accessory slots you can always toss in an emblem.
     * Universal support weapons: Golden Shower and its upgrade - Everglade Spray.
@@ -134,7 +135,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 * **Melee**
 
-    * Stick to Ataxia until Yharon fully dies. Or go for actually safer choices.
+    * Don't stick to Ataxia.
     * Once Polter ceases to exist - grab Banshee Hook, this is gonna be your best weapon for some time.
 
 * **Mage**
