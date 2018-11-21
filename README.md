@@ -204,7 +204,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     <td>Viable</td>
     <td>Viable</td>
     <td>Viable</td>
-    <td>One of the best classes</td>
+    <td>AURIC TESLA LMAO</td>
   </tr>
   <tr>
     <td>Summoner</td>
