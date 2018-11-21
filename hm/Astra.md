@@ -1,4 +1,4 @@
-## Astrageldon Slime
+## Astrum Aureus
 
 *"A titanic slime infected by a star-borne disease..."* 
 
