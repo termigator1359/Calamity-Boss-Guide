@@ -141,6 +141,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 * **Mage**
 
     * Don't forget to eat all the mana upgrades.
+    * Don't use Bloodflare btw, it cucks your damage on everything due to a bug. It will be fixed soon though.
 
 * **Summoner**
 
