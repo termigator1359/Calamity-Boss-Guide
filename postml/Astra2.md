@@ -1,14 +1,12 @@
-## Astrageldon Slime (Rematch)
+## Astrum Aureus (Rematch)
 
-*"Disgusting overbuffed abomination."* 
+*"Astrageldon hears an whomst'd've..."* 
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_60.png)
 
 * **Armor Sets:**
 
     * **Any class**: Lunar
-
-    * **Melee**: Ataxia.
 
     * **Throwing**: Xeroc.
 
@@ -42,4 +40,4 @@
 
 * **Strategy:**
 
-    * Under no circumstances come close to this really angry slime, because his damage has been buffed to ~6500 per hit (thus rendering any form of defense other than dodging obsolete). Strats generally stay the same from first encounter, but you're not allowed to take even a single hit. Keep your RoD at ready (this also includes your finger on your movement buttons) since he always teleports on top of you and you **don’t** want to be under him when he does it.
+    * The same shit you did when he wasn't buffed, except a fireball will now demolish your face completely.
