@@ -14,7 +14,7 @@
 
     * **Ranged**: Megashark, Slag Magnum, *Chlorophyte Shotbow*. Ichor Ammo.
 
-    * **Melee**: *Terra Blade*, True Forbidden Oathblade, True Caustic Edge, Pwnagehammer.
+    * **Melee**: *Terra Blade*, True Caustic Edge, Pwnagehammer.
 
     * **Mage**: Brimrose Staff, Gleaming Magnolia, Relic of Ruin (for brothers), SHPC.
 
