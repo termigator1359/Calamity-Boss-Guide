@@ -18,7 +18,7 @@
 
     * **Melee**: Bladecrest Oathsword, Ball o' Fugu, Aorta.
 
-    * **Mage**: *Black Anurian*, Demon Scythe.
+    * **Mage**: *Black Anurian*, Demon Scythe, Shadowdrop Staff.
 
     * **Summoner**: Herring Staff.
 
