@@ -15,7 +15,7 @@
 
     * **Ranged**: Megashark, *Barinautical, Chlorophyte Shotbow*. Ichor Ammo.
 
-    * **Melee**: Fetid Baghnakhs, Terra Blade, Submarine Shocker, *True Forbidden Oathblade*.
+    * **Melee**: Fetid Baghnakhs, Terra Blade, Submarine Shocker.
 
     * **Mage**: Infernal Rift, Death Valley Duster, Relic of Ruin, Gleaming Magnolia, SHPC.
 
