@@ -10,8 +10,6 @@
 
     * **Any class**: Tarragon.
 
-    * **Melee**: Ataxia.
-
 * **Weapon Loadouts:**
 
     * **Ranged**: Seadragon, Blissful Bombardier. Holy Fire Ammo.
