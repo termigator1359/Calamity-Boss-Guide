@@ -8,8 +8,6 @@
 
     * **Any class**: Tarragon, Bloodflare.
 
-    * **Melee**: Ataxia.
-
 * **Weapon Loadouts:**
 
     * **Ranged**: *Seadragon*, Claret Cannon, Daemon's Flame, Aether’s Whisper, Shredder. Elysian/Bloodflare Ammo.
