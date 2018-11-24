@@ -9,8 +9,6 @@
 
     * **Any class**: Tarragon.
 
-    * **Melee**: Ataxia.
-
 * **Weapon Loadouts:**
 
     * **Ranged**: *Onyx Chain Blaster*, Holy Fire Bullets, Blissful Bombardier, Shredder, Telluric Glare. Holy Fire Ammo.
