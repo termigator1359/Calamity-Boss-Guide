@@ -7,8 +7,6 @@
 * **Armor Sets:**
 
     * **Any class**: Tarragon, Bloodflare, God Slayer. Preferrably God Slayer.
-    
-    * **Melee**: Ataxia. Blame dooglett.
 
 * **Weapon Loadouts:**
 
@@ -53,8 +51,6 @@
 * **Armor Sets**:
 
     * **Any class**: Silva.
-    
-    * **Melee**: Ataxia. Blame dooglett 2: Electric "25% damage of your projectile" flarealoo.
     
 * **Weapon Loadouts:**
 
