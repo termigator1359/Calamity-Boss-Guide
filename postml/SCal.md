@@ -22,7 +22,7 @@
 
 * **General Accessories:**
 
-    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Affliction (?), Dark Sun Ring, Dimensional Soul Artifact.
+    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Affliction (?), Dark Sun Ring, Dimensional Soul Artifact, Astral Arcanum.
 
 * **Class Specific Accessories:**
 
