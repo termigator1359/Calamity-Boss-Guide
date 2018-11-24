@@ -6,9 +6,7 @@
 
 * **Armor Sets:**
 
-    * **Any class**: Lunar
-
-    * **Melee**: Ataxia.
+    * **Any class**: Lunar.
 
     * **Throwing**: Xeroc.
 
