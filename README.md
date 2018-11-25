@@ -35,7 +35,8 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 * **All classes**
 
-    * Even if pre-boss Alchemy Table was removed you can still spawn a boss and waddle into dungeon no problem. <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/tAyPsz-rSTg" frameborder="0" allowfullscreen></iframe></div>
+    * Even if pre-boss Alchemy Table was removed you can still spawn a boss and waddle into dungeon no problem. 
+    <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/tAyPsz-rSTg" frameborder="0" allowfullscreen></iframe></div>
     * Boots are mandatory for 90% of the fights.
     * __GET A HOOK ASAP.__
     * Warding isn't too bad at this stage, although more damage would be preferred.
