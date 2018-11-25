@@ -10,8 +10,6 @@
 
     * **Any class**: Tarragon, Bloodflare.
 
-    * **Melee**: Ataxia.
-
 * **Required Items**: Your weapons for DoG.
 
 * **Helpful Other Items**: Abyssal Diving Suit, Strange Orb/Wisp In A Bottle. Everything from other trips.
