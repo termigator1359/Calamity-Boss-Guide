@@ -8,8 +8,6 @@
 
     * **Any class**: Lunar.
 
-    * **Melee**: Ataxia.
-
     * **Throwing**: Xeroc.
 
 * **Weapon Loadouts:**
