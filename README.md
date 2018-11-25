@@ -120,7 +120,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
     * ![Yes.](/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
     * At this point having Warding prefix on anything is equivalent to giving yourself -4% damage/crit chance.
-    * Remember the HotE and Blood Pact tip from above? Draedon's Heart joins them.
+    * Remember the Blood Pact tip from above? Draedon's Heart joins it.
     * After Polter everyone except ranged and melee should go into the abyss and farm their respective weapons.
     * Before you kill Provi go back to Ravager and farm him for some bags (open them after Provi), that would net you a shitton of bloodstone without you having to suffer through the fattest HM boss.
     * Money farms: Profaned Guardians, Ravager, DoG.
