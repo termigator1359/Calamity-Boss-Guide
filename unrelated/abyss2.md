@@ -24,5 +24,6 @@
     * Getting the new drops from the enemies can be used to craft a good amount of strong new weapons, and with planty mushes you can craft life fruits, which saves you from hours of farming for them (especially if you're in multiplayer).
     * Keep in mind to not go below 2nd layer, because most minibosses aren’t worth killing yet and they will interfere with Lumenyl/Depth Cells farming. 
     * Also using Rod of Discord is pretty much forbidden, unless you want to get your face ripped apart - it spawns an adult Eidolon Wyrm which is not meant to be fought. If you think it is - I have bad news for you.
+    * Don't forget to come back after Golem to mine Chaotic Ore.
 
 ![image alt text](../public/Abyss.png)
