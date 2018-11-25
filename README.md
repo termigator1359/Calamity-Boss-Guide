@@ -1,6 +1,6 @@
 # *Basic Calamity Boss Guide*
 
-_**Version: 1.3.4.103**_
+_**Version: 1.4.0.002**_
 
 Bosses are listed in old progression order, we're not taking non-linearity into account.
 
@@ -204,7 +204,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     <td>Viable</td>
     <td>Viable</td>
     <td>Viable</td>
-    <td>AURIC TESLA LMAO</td>
+    <td>It works, yea</td>
   </tr>
   <tr>
     <td>Summoner</td>
