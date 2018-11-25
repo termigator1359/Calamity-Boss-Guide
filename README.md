@@ -35,8 +35,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 * **All classes**
 
-    * Even if pre-boss Alchemy Table was removed you can still do this.
-<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/tAyPsz-rSTg" frameborder="0" allowfullscreen></iframe></div>
+    * Even if pre-boss Alchemy Table was removed you can still spawn a boss and waddle into dungeon no problem. <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/tAyPsz-rSTg" frameborder="0" allowfullscreen></iframe></div>
     * Boots are mandatory for 90% of the fights.
     * __GET A HOOK ASAP.__
     * Warding isn't too bad at this stage, although more damage would be preferred.
@@ -79,7 +78,6 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * If you're not using wings - you’re doing something wrong.
     * Leaf Wings are the first ones you can get, and you should do that. Or don't, Soul of Cryogen exists.
     * Blood Pact is bad. Yes, that fucking bad. Don't ever use it.
-    * So is Heart of the Elements.
     * Hallowed armor is also bad.
     * Ambrosial Ampoule is only useful for exploration, so don't even think about using it on bosses. Unless you really wanna tank.
     * Right after Clonelamitas dies most classes can skidaddle to the Abyss and get better weapons. Except melee. Typhon's Greed is a meme.
@@ -97,7 +95,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     
 * **Melee**
 
-    * **OATHBLADE** (it's a post-mech weapon that kills Plantera in 24 seconds)
+    * **OATHBLADE** (it's a post-Plantera weapon that kills Plantera in 24 seconds, haha suck this lomp)
     * Terra Blade is the offensive option, Terra Edge is the defensive, pick whatever suits you most.
     * If going for true melee you should stack Violent reforges and grab armors that increase your melee speed (Old One's Army works).
 
@@ -287,7 +285,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 #### [Leviathan + Siren](hm/Levi.md)
 
-#### [Astrageldon Slime](hm/Astra.md)
+#### [Astrum Aureus](hm/Astra.md)
 
 #### [Astrum Deus](hm/AD.md)
 
@@ -305,7 +303,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 ### Post-ML
 
-#### [Astrageldon Slime (Rematch)](postml/Astra2.md)
+#### [Astrum Aureus (Rematch)](postml/Astra2.md)
 
 #### [Profaned Guardians](postml/PG.md)
 
