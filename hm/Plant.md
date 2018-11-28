@@ -25,7 +25,7 @@
 
 * **General Accessories:**
 
-    * Angel Treads, Deific Amulet, Ankh Shield, MOAB, The Community, Siren's Heart.
+    * Angel Treads, Deific Amulet, Ankh Shield, MOAB/Starlight Wings, Siren's Heart, Laudanum? 
 
 * **Class Specific Accessories:**
 
@@ -33,7 +33,7 @@
 
     * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
 
-    * **Mage**: Sorcerer Emblem, Mana Flower.
+    * **Mage**: Sorcerer Emblem, Mana Flower, Mana Overloader.
 
     * **Summoner**: Papyrus Scarab, Summoner Emblem.
 
