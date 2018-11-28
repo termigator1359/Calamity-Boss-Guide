@@ -2,6 +2,8 @@
 
 *"Do you enjoy going through hell?"*
 
+*Disclaimer: as of 1.4.0.002 all classes except summoner are doomed to have extremely low DPS. You were warned.
+
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_81.png)
 
 * **Armor Sets**:
