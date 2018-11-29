@@ -44,8 +44,18 @@
 
     * Taking down the extra guardians, especially the healing one, should be your priority.
 
+**Dooglett's Nohit**
+
 <div align="center">
     <iframe width="620" height="315"
         src="https://www.youtube.com/embed/gVTo_it1O7A" frameborder="0" allowfullscreen>
+    </iframe>
+</div>
+
+**Arkhine's Nohit**
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/5MKuk1SMsiA" frameborder="0" allowfullscreen>
     </iframe>
 </div>
