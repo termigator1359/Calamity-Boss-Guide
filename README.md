@@ -96,7 +96,6 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     
 * **Melee**
 
-    * **OATHBLADE** (it's a post-Plantera weapon that kills Plantera in 24 seconds, haha suck this lomp)
     * Terra Blade is the offensive option, Terra Edge is the defensive, pick whatever suits you most.
     * If going for true melee you should stack Violent reforges and grab armors that increase your melee speed (Old One's Army works).
 
