@@ -42,7 +42,11 @@
 
     * Try to always run in a single direction. When she enters her shell, circle around her, then keep running when she exits. You also want to mostly fly because lava blobs stick to literally any tile. Use ML strats for laser attack.
 
-    * Taking down the extra guardians, especially the healing one, should be your priority.
+    * Taking down the extra guardians should be your **main** priority.
+    
+    * When the crystal is active if you need to go up - better do it slowly, because otherwise you're risking hitting crystal shards.
+    
+    * Keep RoD close when she's below 50%, laser can be a bitch to deal with.
 
 **Dooglett's Nohit**
 
