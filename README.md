@@ -101,7 +101,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 * **Mage**
 
-    * Until you get Ataxia vanilla armors are going to be better than Calamity's, so don’t get too trigger-happy with your upgrades.
+    * Until you get Ataxia, vanilla armors are going to be better than Calamity's, so don’t get too trigger-happy with your upgrades.
 
 * **Summoner**
 
