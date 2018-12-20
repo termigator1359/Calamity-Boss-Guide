@@ -73,7 +73,7 @@
      When Doggo first drops down, he will try to cut you off, getting in front of you so you have to turn around. Once he drops, he will start charging at you. Early in the fight his charges are rather simple to avoid, but as his health gets lower and he gets faster, he has a much easier time getting to wherever you are. As he gets faster while the fight goes on, do everything you can to get distance on him. Drop below your platforms a little bit to get him to fly down below you. He thinks you're dropping down so he tries to drop down with you, but if you fly back up after he starts dropping you’ll get some distance on him.
      
      ### Laser Phase
-     When he reaches about half health, he will start to alternate between his regular phases and this one. He turns invisible and cannot hurt your or be hurt, he will however spawn vertical and horizontal walls of lasers, equip RoD and run in one direction, simply tap jump and dash to get past each wave, accessories that boost your jump speed can make this harder to execute.
+     When he reaches about half health, he will start to alternate between his regular phases and this one. He turns invisible and cannot hurt you or be hurt, he will however spawn vertical and horizontal walls of lasers, equip RoD and run in one direction, simply tap jump and dash to get past each wave, accessories that boost your jump speed can make this harder to execute. This phase ends at 20% HP.
 
 
 <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/HOtgQ0i19Rw" frameborder="0" allowfullscreen></iframe></div>
