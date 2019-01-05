@@ -40,10 +40,10 @@
 
 * **Strategies:**
 
-    * **Strategy 1 - "Skybridge walking"**: make a skybridge, walk away from him at *an extremely slow pace*, most things won't be able to hit you. As probes pop up you just shoot them to death and that’s the entire boss. Not using Frostspark Boots, or any boots at that, helps.
+    * **Strategy 1 - "~~Skybridge walking~~ More like grav pot flying"**: grab a gravitation potion, go in biiig zigzags (vertical movement mostly), green lazers can be juked somewhat like skeletron's skulls, that's about it for the strat. 
 
-    * **Strategy 2 - "Melee 2: Electric Boogaloo"**: grab ALL the melee speed accessories, reforge them to Violent, grab Fetid Baghnakhs, summon the worm, jump into him while he's still coiled, proceed to shred him at the speed of 60 attacks per second.
+    * ~~**Strategy 2 - "Melee 2: Electric Boogaloo"**: grab ALL the melee speed accessories, reforge them to Violent, grab Fetid Baghnakhs, summon the worm, jump into him while he's still coiled, proceed to shred him at the speed of 60 attacks per second.~~ It's dead.
 
 ![image alt text](../public/Destroyer.png)
 
-<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/I33o0UvlI5s" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/2ncBGKFcDbc" frameborder="0" allowfullscreen></iframe></div>
