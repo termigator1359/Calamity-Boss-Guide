@@ -92,8 +92,6 @@ Optimal setups are the following:
         ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_82.png)
 
    * In her mobile phase, where she doesn't stick to your sides and flies around, she will choose her attacks randomly. The safest thing to do here is to try and move from one side of the arena to the other in the shape of an “U”. Move decently quickly but pay attention; you don’t want to get sniped by any of her projectiles. In her 2nd phase, she charges at you about twice as often as the 1st phase, so always be on your guard, and be prepared to dodge her charges when she turns black.
-   
-   * _Don't EVER proc Silva's invulnerability, once you do that - you're locked to a hitcap of 1._
 
 ### First Bullet Hell Phase
 
