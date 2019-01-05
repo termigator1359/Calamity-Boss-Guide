@@ -13,7 +13,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Megashark, *Barinautical, Chlorophyte Shotbow*. Ichor Ammo.
+    * **Ranged**: Megalodon, *Barinautical, Chlorophyte Shotbow*. Ichor Ammo.
 
     * **Melee**: Fetid Baghnakhs, Terra Blade, Submarine Shocker.
 
