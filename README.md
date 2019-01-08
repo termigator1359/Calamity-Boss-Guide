@@ -30,6 +30,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 * Half of the bosses, at the very least, are vulnerable to circling. Other half is vulnerable to running away from them.
 * When farming money off bosses, turn defiled on for extra profit when opening bags.
 * You can still get treasure bags through Armageddon, but I don't know why you'd do that.
+* Throwing is now called Rogue, but I'm too lazy to go through all the pages and rename those, especially considering those are mere renames outside of pre-Hardmode. Yes, it also means you can't use throwing items from other mods and have Calamity affect those. Yup.
 
 ### Pre-HM
 
@@ -37,6 +38,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
     * Even if pre-boss Alchemy Table was removed you can still spawn a boss and waddle into dungeon no problem. 
     <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/tAyPsz-rSTg" frameborder="0" allowfullscreen></iframe></div>
+    * Don't actually try this, we're not responsible for ~~Ghost Leviathans~~ Eidolon Wyrms eating you the moment you enter dungeon.
     * Boots are mandatory for 90% of the fights.
     * __GET A HOOK ASAP.__
     * Warding isn't too bad at this stage, although more damage would be preferred.
