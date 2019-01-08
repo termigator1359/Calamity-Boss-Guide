@@ -14,7 +14,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: *Firestorm Cannon, *Pumpler, Minishark*, Opal Striker, Silver/Meteor Bullets.
+    * **Ranged**: *Firestorm Cannon, Pumpler, Minishark*, Opal Striker, Silver/Meteor Bullets.
 
     * **Melee**: *Seashell Boomerang*, Bladecrest Oathsword, Meteor Fist.
 
