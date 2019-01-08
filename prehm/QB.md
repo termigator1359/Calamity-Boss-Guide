@@ -18,7 +18,7 @@
 
     * **Melee**: Seashell Boomerang
 
-    * **Mage**: Water/Frost/Flare Bolt, Mana Rose.
+    * **Mage**: Water/Frost/Flare Bolt, Mana Rose, Space Gun.
 
     * **Summoner**: Seabound Staff, Imp Staff.
 
