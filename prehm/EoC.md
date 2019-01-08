@@ -18,11 +18,13 @@
 
     * **Melee**: Seashell Boomerang, Enchanted Sword, Starfury.
 
-    * **Mage**: Water/Frost Bolt, Gem Staves, Space Gun, Mana Rose, Plasma Rod.
+    * **Mage**: Water/Frost Bolt, Gem Staves, Space Gun, Mana Rose.
 
     * **Summoner**: Slime Staff, Seabound Staff, Sun Spirit Staff.
 
     * **Throwing**: Crystalline, Seashell Boomerang, Grenades, Spiky Balls.
+    
+    * **Support weapons**: Plasma Rod.
 
 * **General Accessories:**
 
