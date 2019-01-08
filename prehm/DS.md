@@ -24,7 +24,7 @@
 
     * **Throwing**: Crystalline, Seashell Boomerang, Spiky Balls, Urchin Stinger, Grenades.
 
-* **General Accessories: **
+* **General Accessories:**
 
     * Hermes Boots+, X In a Bottle, Magic Carpet, Grappling Hook, Amidias' Spark, Laudanum, Stress Pills, Shiny Red Balloon+, Sun Stone.
 
