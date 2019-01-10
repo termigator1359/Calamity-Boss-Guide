@@ -2,8 +2,6 @@
 
 *"Do you enjoy going through hell?"*
 
-*Disclaimer: as of 1.4.0.002 all classes except summoner are doomed to have extremely low DPS. You were warned.
-
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_81.png)
 
 * **Armor Sets**:
@@ -176,3 +174,7 @@ The only threats in this phase are the Brimstone Monsters
    * Simply circle around the arena while waiting for SCal to finish her monologue. When she finishes, she’ll be vulnerable again. Attack her until her HP reaches zero.
    
 <div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/B8WdcXRWf_c" frameborder="0" allowfullscreen></iframe></div>
+
+**bwut this bowss is imposblaee:**
+
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/78wxhH2o3O0" frameborder="0" allowfullscreen></iframe></div>
