@@ -6,37 +6,35 @@
 
 * **Armor Sets:**
 
-    * **Any class**: Wulfrum, Victide.
+    * **Any class**: [Wulfrum](https://calamitymod.gamepedia.com/Wulfrum_armor), [Victide.](https://calamitymod.gamepedia.com/Victide_armor)
 
-    * **Mage**: Jungle, Meteor, Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants.
-
-    * **Throwing**: Ninja, Fossil.
+    * **Mage**: [Jungle](https://terraria.gamepedia.com/Jungle_armor), [Meteor](https://terraria.gamepedia.com/Meteor_armor), [Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants](https://terraria.gamepedia.com/Wizard_set).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Barinade, Opal Striker, Any Ammo.
+    * **Ranged**: [Barinade](https://calamitymod.gamepedia.com/Barinade), [Opal Striker](https://calamitymod.gamepedia.com/Opal_Striker), Any Ammo.
 
-    * **Melee**: Seashell Boomerang, Bladecrest Oathsword.
+    * **Melee**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Bladecrest Oathsword](https://calamitymod.gamepedia.com/Bladecrest_Oathsword).
 
-    * **Mage**:Frost/Water Bolt, Mana Rose, Space Gun, Magna Cannon.
+    * **Mage**:[Frost](https://calamitymod.gamepedia.com/Frost_Bolt)/[Water Bolt](https://terraria.gamepedia.com/Water_Bolt), [Mana Rose](https://calamitymod.gamepedia.com/Mana_Rose), [Space Gun](https://terraria.gamepedia.com/Space_Gun), [Magna Cannon](https://calamitymod.gamepedia.com/Magna_Cannon).
 
-    * **Summoner**: Slime Staff, Seabound Staff, Sun Spirit Staff.
+    * **Summoner**: [Slime Staff](https://terraria.gamepedia.com/Slime_Staff), [Seabound Staff](https://calamitymod.gamepedia.com/Seabound_Staff), [Sun Spirit Staff](https://calamitymod.gamepedia.com/Sun_Spirit_Staff).
 
-    * **Throwing**: Seashell Boomerang, Grenades, Spiky Balls, Urchin Stinger.
+    * **Rogue**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Grenades](https://terraria.gamepedia.com/Grenade), [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [Spiky Balls](https://terraria.gamepedia.com/Spiky_Ball), [Urchin Stinger](https://calamitymod.gamepedia.com/Urchin_Stinger).
 
 * **General Accessories:**
 
-    * Hermes Boots+, X In a Bottle, Flying Carpet, Shiny Red Balloon, Laudanum, Stress Pills, Counter Scarf/Shield of Cthulhu, Sun Stone.
+    * [Hermes Boots](https://terraria.gamepedia.com/Hermes_Boots)+, [Counter Scarf](https://calamitymod.gamepedia.com/Counter_Scarf)/[Shield of Cthulhu](https://terraria.gamepedia.com/Shield_of_Cthulhu), [X In a Bottle](https://terraria.gamepedia.com/Cloud_in_a_Bottle), [Shiny Red Balloon](https://terraria.gamepedia.com/Shiny_Red_Balloon)+, [Flying Carpet](https://terraria.gamepedia.com/Magic_Carpet), [Sun Stone](https://terraria.gamepedia.com/Sun_Stone), [Laudanum](https://calamitymod.gamepedia.com/Laudanum), [Stress Pills](https://calamitymod.gamepedia.com/Stress_Pills).
 
 * **Class Specific Accessories:**
 
-    * **Mage**: Celestial Cuffs, Mana Flower (optional).
+    * **Mage**: [Celestial Cuffs](https://terraria.gamepedia.com/Celestial_Cuffs), [Mana Flower](https://terraria.gamepedia.com/Mana_Flower) (optional).
 
-    * **Summoner**: Papyrus Scarab, Spirit Generator.
+    * **Summoner**: [Papyrus Scarab](https://terraria.gamepedia.com/Papyrus_Scarab), [Spirit Glyph](https://calamitymod.gamepedia.com/Spirit_Glyph).
 
-    * **Melee**: Cross Necklace+.
+    * **Melee**: [Cross Necklace](https://terraria.gamepedia.com/Cross_Necklace)+.
 
-    * **Throwing**: Raider's Talisman.
+    * **Rogue**: [Raider's Talisman](https://calamitymod.gamepedia.com/Raider%27s_Talisman).
 
 * **Weapon explanations (if required)**:
 
@@ -48,7 +46,7 @@
 
     * **Summoner**: Those are your only 3 options as of now.
 
-    * **Throwing**: Avoid grenades if you're gonna stand next to him, spiky balls are good since he doesn't move too often and you can keep him in one area.
+    * **Rogue**: Avoid grenades if you're gonna stand next to him, spiky balls are good since he doesn't move too often and you can keep him in one area.
 
 * **Strategies:**
 
