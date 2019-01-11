@@ -69,22 +69,22 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * Hive Mind/Perfs summons are somewhat bad due to the fact that they pierce.
     * Hornets and Imps can also go :gun: themselves.
 
-* **Thrower**
+* **Rogue**
 
     * Grenades are an extremely cheap source of major damage.
-    * The sooner you get Raider's Talisman - the better, it’s practically a class emblem that compensates for the fact that you don’t get one on WoF.
+    * The sooner you get Raider's Talisman - the better, it’s practically an early class emblem.
 
 ### HM
 
 * **All classes**
 
     * If you're not using wings - you’re doing something wrong.
-    * Leaf Wings are the first ones you can get, and you should do that. Or don't, Soul of Cryogen exists.
+    * Leaf Wings are the first ones you can get, and you should do that. Or don't, MOAB exists.
     * Blood Pact is bad. Yes, that fucking bad. Don't ever use it.
     * Hallowed armor is also bad.
     * Ambrosial Ampoule is only useful for exploration, so don't even think about using it on bosses. Unless you really wanna tank.
     * Right after Clonelamitas dies most classes can skidaddle to the Abyss and get better weapons. Except melee. Typhon's Greed is a meme.
-    * Everyone can ignore GSS, the only "good" weapon is Duststorm in a Bottle, and it's pretty much outclassed by any throwing weapon you can get at that point.
+    * Everyone can ignore GSS, the only "good" weapon is Duststorm in a Bottle, and it's pretty much outclassed by any rogue weapon you can get at that point.
     * Money farms: Queen Bee and Ravager (only if you're used to him, he’s quite a pain to nohit, even with post-ML gear, otherwise it’s better to armageddon Queens).
     * If you stock up 30-40 Ravager bags for post-Providence you can get 3000 platinum just for opening them.
     * If you have free accessory slots you can always toss in an emblem.
@@ -110,10 +110,10 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * You'll be stuck with Claspers until Optic Staff, which promptly will be upgraded (read: replaced) into Entropy’s Vigil.
     * "Stupid AI" tip still works, but at this point you might have a lot of slots, so that would overpower the dumbassery of the most neglected class (after the sexually confused melee-ranged hybrid).
 
-* **Thrower**
+* **Rogue**
 
-    * Throwing sucks.
-    * No, seriously, your options are going to be HM ore consumables before Cryogen, Ice Stars after Cryogen, Brimblade if you go according to this progression, Ballistic Poison Bomb after Clone, Bracklish Flask after Levi. That's about as much upgrades as you can get.
+    * Rogue sucks.
+    * No, seriously, your options are going to be HM ore consumables before Cryogen, Ice Stars/Frosty Flares after Cryogen, Brimblade if you go according to this progression, Ballistic Poison Bomb after Clone, Bracklish Flask after Levi. That's about as much upgrades as you can get.
 
 ### Post-ML
 
@@ -141,16 +141,16 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 * **Mage**
 
     * Don't forget to eat all the mana upgrades.
-    * Don't use Bloodflare btw, it cucks your damage on everything due to a bug. It will be fixed soon though.
 
 * **Summoner**
 
     * Don't go for Eldritch artifact unless you’re planning on multiclassing with mage.
     * However please do go for Godly, 8 extra minion slots is nothing to laugh about.
+    * Profaned Soul is also a very good choice.
 
-* **Thrower**
+* **Rogue**
 
-    * Honestly, there isn't that much to say about throwing, you’re gonna go from Pitchforks to Amputator to Valediction to Executioner’s Blade to Celestus or Scourge of the Cosmos.
+    * Honestly, there isn't that much to say about rogue, you’re gonna go from Pitchforks to Amputator to Valediction to Executioner’s Blade to Celestus and Scourge of the Cosmos.
 
 **Class viability**:
 
@@ -337,7 +337,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 ## Videos and credits.
 
-destroyer walk strat: [https://youtu.be/4XXVr2a49FQ](https://youtu.be/4XXVr2a49FQ)
+destroyer walk strat: [https://youtu.be/4XXVr2a49FQ](https://youtu.be/4XXVr2a49FQ) Note: This strat has been killed, rest in peace.
 
 An essay on terra shiv's effectiveness: [https://www.youtube.com/watch?v=NFWV6xHYMos](https://www.youtube.com/watch?v=NFWV6xHYMos)
 
