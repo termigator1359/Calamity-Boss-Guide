@@ -6,37 +6,35 @@
 
 * **Armor sets:**
 
-    * **Any class**: Wulfrum, Victide.
+    * **Any class**: [Wulfrum](https://calamitymod.gamepedia.com/Wulfrum_armor), [Victide.](https://calamitymod.gamepedia.com/Victide_armor)
 
-    * **Mage**: Jungle, Meteor, Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants.
-
-    * **Throwing**: Ninja, Fossil.
+    * **Mage**: [Jungle](https://terraria.gamepedia.com/Jungle_armor), [Meteor](https://terraria.gamepedia.com/Meteor_armor), [Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants](https://terraria.gamepedia.com/Wizard_set).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Wulfrum Bow, Seabow, Firestorm Cannon, Jester Arrows.
+    * **Ranged**: [Wulfrum Bow](https://calamitymod.gamepedia.com/Wulfrum_Bow), [Seabow](https://calamitymod.gamepedia.com/Seabow), [Firestorm Cannon](https://calamitymod.gamepedia.com/Firestorm_Cannon), [Jester Arrows](https://terraria.gamepedia.com/Jester%27s_Arrow).
 
-    * **Melee**: Seashell Boomerang, Mandible Claws, Bladecrest Oathsword, Starfury, Ball O' Hurt.
+    * **Melee**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Mandible Claws](https://calamitymod.gamepedia.com/Mandible_Bow), [Bladecrest Oathsword](https://calamitymod.gamepedia.com/Bladecrest_Oathsword), [Starfury](https://terraria.gamepedia.com/Starfury), [Ball O' Hurt](https://terraria.gamepedia.com/Ball_O%27_Hurt).
 
-    * **Mage**: Water/Frost Bolt, Space Gun, Mana Rose, Coral Sprout, Vilethorn.
+    * **Mage**: [Frost](https://calamitymod.gamepedia.com/Frost_Bolt) / [Water Bolt](https://terraria.gamepedia.com/Water_Bolt), [Mana Rose](https://calamitymod.gamepedia.com/Mana_Rose), [Space Gun](https://terraria.gamepedia.com/Space_Gun), [Coral Spout](https://calamitymod.gamepedia.com/Coral_Spout), [Vilethorn](https://terraria.gamepedia.com/Vilethorn).
 
-    * **Summoner**: Slime Staff.
+    * **Summoner**: [Slime Staff](https://terraria.gamepedia.com/Slime_Staff).
 
-    * **Throwing**: Crystalline, Seashell Boomerang, Spiky Balls, Urchin Stinger, Grenades.
+    * **Rogue**: [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Spiky Balls](https://terraria.gamepedia.com/Spiky_Ball), [Urchin Stinger](https://calamitymod.gamepedia.com/Urchin_Stinger), [Grenades](https://terraria.gamepedia.com/Grenade).
 
 * **General Accessories:**
 
-    * Hermes Boots+, X In a Bottle, Magic Carpet, Grappling Hook, Amidias' Spark, Laudanum, Stress Pills, Shiny Red Balloon+, Sun Stone.
+    * [Hermes Boots](https://terraria.gamepedia.com/Hermes_Boots)+, [X In a Bottle](https://terraria.gamepedia.com/Cloud_in_a_Bottle), [Magic Carpet](https://terraria.gamepedia.com/Magic_Carpet), [Grappling Hook](https://terraria.gamepedia.com/Hooks), [Amidias' Spark](https://calamitymod.gamepedia.com/Amidias%27_Spark), [Laudanum](https://calamitymod.gamepedia.com/Laudanum), [Stress Pills](https://calamitymod.gamepedia.com/Stress_Pills), [Shiny Red Balloon](https://terraria.gamepedia.com/Shiny_Red_Balloon)+, [Sun Stone](https://terraria.gamepedia.com/Sun_Stone).
 
 * **Class Specific Accessories:**
 
-    * **Mage**: Magic Cuffs, Mana Flower (optional).
+    * **Mage**: [Celestial Cuffs](https://terraria.gamepedia.com/Celestial_Cuffs), [Mana Flower](https://terraria.gamepedia.com/Mana_Flower) (optional).
 
-    * **Summoner**: Papyrus Scarab, Spirit Generator.
+    * **Summoner**: [Papyrus Scarab](https://terraria.gamepedia.com/Papyrus_Scarab), [Spirit Glyph](https://calamitymod.gamepedia.com/Spirit_Glyph).
 
-    * **Melee**: Cross Necklace/Star Veil.
+    * **Melee**: [Cross Necklace](https://terraria.gamepedia.com/Cross_Necklace)+.
 
-    * **Throwing**: Raider's Talisman.
+    * **Rogue**: [Raider's Talisman](https://calamitymod.gamepedia.com/Raider%27s_Talisman).
 
 * **Weapon explanations (if required)**:
 
@@ -49,7 +47,7 @@ If using Coral Sprout shoot ahead of him since the projectiles actually bounce b
 
    * **Summoner**: Slimes can eat him within mere seconds.
     
-   * **Throwing**: Grenades are the best weapon on the list, followed up by Spiky Balls (which require you to have boss walking over them), rest of them are pretty consistent in damage.
+   * **Rogue**: Grenades are the best weapon on the list, followed up by Spiky Balls (which require you to have boss walking over them), rest of them are pretty consistent in damage.
 
 * **Strategies:**
 
