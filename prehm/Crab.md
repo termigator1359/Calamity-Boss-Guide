@@ -16,7 +16,7 @@
 
     * **Melee**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Bladecrest Oathsword](https://calamitymod.gamepedia.com/Bladecrest_Oathsword).
 
-    * **Mage**:[Frost](https://calamitymod.gamepedia.com/Frost_Bolt)/[Water Bolt](https://terraria.gamepedia.com/Water_Bolt), [Mana Rose](https://calamitymod.gamepedia.com/Mana_Rose), [Space Gun](https://terraria.gamepedia.com/Space_Gun), [Magna Cannon](https://calamitymod.gamepedia.com/Magna_Cannon).
+    * **Mage**: [Frost](https://calamitymod.gamepedia.com/Frost_Bolt) / [Water Bolt](https://terraria.gamepedia.com/Water_Bolt), [Mana Rose](https://calamitymod.gamepedia.com/Mana_Rose), [Space Gun](https://terraria.gamepedia.com/Space_Gun), [Magna Cannon](https://calamitymod.gamepedia.com/Magna_Cannon).
 
     * **Summoner**: [Slime Staff](https://terraria.gamepedia.com/Slime_Staff), [Seabound Staff](https://calamitymod.gamepedia.com/Seabound_Staff), [Sun Spirit Staff](https://calamitymod.gamepedia.com/Sun_Spirit_Staff).
 
@@ -24,7 +24,7 @@
 
 * **General Accessories:**
 
-    * [Hermes Boots](https://terraria.gamepedia.com/Hermes_Boots)+, [Counter Scarf](https://calamitymod.gamepedia.com/Counter_Scarf)/[Shield of Cthulhu](https://terraria.gamepedia.com/Shield_of_Cthulhu), [X In a Bottle](https://terraria.gamepedia.com/Cloud_in_a_Bottle), [Shiny Red Balloon](https://terraria.gamepedia.com/Shiny_Red_Balloon)+, [Flying Carpet](https://terraria.gamepedia.com/Magic_Carpet), [Sun Stone](https://terraria.gamepedia.com/Sun_Stone), [Laudanum](https://calamitymod.gamepedia.com/Laudanum), [Stress Pills](https://calamitymod.gamepedia.com/Stress_Pills).
+    * [Hermes Boots](https://terraria.gamepedia.com/Hermes_Boots)+, [Counter Scarf](https://calamitymod.gamepedia.com/Counter_Scarf) / [Shield of Cthulhu](https://terraria.gamepedia.com/Shield_of_Cthulhu), [X In a Bottle](https://terraria.gamepedia.com/Cloud_in_a_Bottle), [Shiny Red Balloon](https://terraria.gamepedia.com/Shiny_Red_Balloon)+, [Magic Carpet](https://terraria.gamepedia.com/Magic_Carpet), [Sun Stone](https://terraria.gamepedia.com/Sun_Stone), [Laudanum](https://calamitymod.gamepedia.com/Laudanum), [Stress Pills](https://calamitymod.gamepedia.com/Stress_Pills).
 
 * **Class Specific Accessories:**
 
