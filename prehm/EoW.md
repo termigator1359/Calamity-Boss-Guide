@@ -6,39 +6,37 @@
 
 * **Armor Sets:**
 
-    * **Any class**: Victide.
+    * **Any class**: [Victide.](https://calamitymod.gamepedia.com/Victide_armor).
 
-    * **Mage**: Jungle, Meteor, Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants.
-
-    * **Throwing**: Ninja, Fossil.
+    * **Mage**: [Jungle](https://terraria.gamepedia.com/Jungle_armor), [Meteor](https://terraria.gamepedia.com/Meteor_armor), [Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants](https://terraria.gamepedia.com/Wizard_set).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Opal Striker, Pumpler, Minishark, Firestorm Cannon, Seabow, Jester Arrows, Any Bullets.
+    * **Ranged**: [Opal Striker](https://calamitymod.gamepedia.com/Opal_Striker), [Pumpler](https://calamitymod.gamepedia.com/Pumpler) / [Minishark](https://terraria.gamepedia.com/Minishark), [Firestorm Cannon](https://calamitymod.gamepedia.com/Firestorm_Cannon), [Seabow](https://calamitymod.gamepedia.com/Seabow), [Jester Arrows](https://terraria.gamepedia.com/Jester%27s_Arrow), Any Bullets.
 
-    * **Melee**: Seashell Boomerang, Ball'o'Hurt, Mycelial Claws.
+    * **Melee**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Ball'o'Hurt](https://terraria.gamepedia.com/Ball_O%27_Hurt), [Mycelial Claws](https://calamitymod.gamepedia.com/Mycelial_Claws).
 
-    * **Mage**: Water/Frost Bolt, Gem Staves, Space Gun, Coral Sprout.
+    * **Mage**: [Frost](https://calamitymod.gamepedia.com/Frost_Bolt) / [Water Bolt](https://terraria.gamepedia.com/Water_Bolt), [Gem Staves](https://terraria.gamepedia.com/Gem_staves), [Space Gun](https://terraria.gamepedia.com/Space_Gun), [Coral Spout](https://calamitymod.gamepedia.com/Coral_Spout).
 
-    * **Summoner**: Seabound Staff, Slime Staff.
+    * **Summoner**: [Slime Staff](https://terraria.gamepedia.com/Slime_Staff), [Seabound Staff](https://calamitymod.gamepedia.com/Seabound_Staff).
 
-    * **Throwing**: Seashell Boomerang, Crystalline, Scourge of the Desert, Mycoroot, Molotovs, Urchin Stinger.
+    * **Rogue**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [*Scourge of the Desert*](https://calamitymod.gamepedia.com/Scourge_of_the_Desert), [Mycoroot](https://calamitymod.gamepedia.com/Mycoroot), [Molotovs](https://terraria.gamepedia.com/Molotov_Cocktail), [Urchin Stinger](https://calamitymod.gamepedia.com/Urchin_Stinger).
 
 * **General Accessories:**
 
-    * Hermes Boots+, Counter Scarf/Shield of Cthulhu, X in a bottle, Shiny Red Balloon+, Flying Carpet, Corrupt Flask, Laudanum, Stress Pills.
+    * [Hermes Boots](https://terraria.gamepedia.com/Hermes_Boots)+, [Counter Scarf](https://calamitymod.gamepedia.com/Counter_Scarf) / [Shield of Cthulhu](https://terraria.gamepedia.com/Shield_of_Cthulhu), [X In a Bottle](https://terraria.gamepedia.com/Cloud_in_a_Bottle), [Shiny Red Balloon](https://terraria.gamepedia.com/Shiny_Red_Balloon)+, [Magic Carpet](https://terraria.gamepedia.com/Magic_Carpet), [Corrupt Flask](https://calamitymod.gamepedia.com/Corrupt_Flask), [Laudanum](https://calamitymod.gamepedia.com/Laudanum), [Stress Pills](https://calamitymod.gamepedia.com/Stress_Pills).
 
 * **Class Specific Accessories:**
 
-    * **Ranged**: Shark Tooth Necklace.
+    * **Ranged**: [Shark Tooth Necklace](https://terraria.gamepedia.com/Shark_Tooth_Necklace).
 
-    * **Mage**: Celestial Cuffs, Mana Flower (optional).
+    * **Mage**: [Celestial Cuffs](https://terraria.gamepedia.com/Celestial_Cuffs), [Mana Flower](https://terraria.gamepedia.com/Mana_Flower) (optional)
 
-    * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
+    * **Summoner**: [Papyrus Scarab](https://terraria.gamepedia.com/Papyrus_Scarab), [Spirit Glyph](https://calamitymod.gamepedia.com/Spirit_Glyph), [Fungal Clump](https://calamitymod.gamepedia.com/Fungal_Clump).
 
-    * **Melee**: Cross Necklace+.
+    * **Melee**: [Cross Necklace](https://terraria.gamepedia.com/Cross_Necklace)+.
 
-    * **Throwing**: Raider's Talisman.
+    * **Rogue**: [Raider's Talisman](https://calamitymod.gamepedia.com/Raider%27s_Talisman)
 
 * **Weapon explanations (if required):**
 
@@ -50,7 +48,7 @@
 
     * **Summoner**: Sun Spirits aren't here because crits aren't worth the lack of constant piercing damage.
 
-    * **Throwing**: Same as everything else, you want as much piercing as you can get.
+    * **Rogue**: Same as everything else, you want as much piercing as you can get.
 
 * **Strategy:**
 
