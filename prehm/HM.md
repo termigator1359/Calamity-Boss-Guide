@@ -6,37 +6,35 @@
 
 * **Armor Sets:**
 
-    * **Any class**: Victide.
+    * **Any class**: [Victide.](https://calamitymod.gamepedia.com/Victide_armor).
 
-    * **Mage**: Jungle, Meteor, Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants.
-
-    * **Throwing**: Fossil.
+    * **Mage**: [Jungle](https://terraria.gamepedia.com/Jungle_armor), [Meteor](https://terraria.gamepedia.com/Meteor_armor), [Wizard Hat+Diamond Robe+Meteor Leggings/Jungle Pants](https://terraria.gamepedia.com/Wizard_set).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Pumpler, Minishark, *Opal Striker*. Silver/Meteor Bullets.
+    * **Ranged**: [Pumpler](https://calamitymod.gamepedia.com/Pumpler) / [Minishark](https://terraria.gamepedia.com/Minishark), [*Opal Striker*]((https://calamitymod.gamepedia.com/Opal_Striker)). [Silver](https://terraria.gamepedia.com/Silver_Bullet) / [Meteor](https://terraria.gamepedia.com/Meteor_Shot) Bullets.
 
-    * **Melee**: Seashell Boomerang, Meteor Fist.
+    * **Melee**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Meteor Fist](https://calamitymod.gamepedia.com/Meteor_Fist).
 
-    * **Mage**: *Water/Frost/Flare Bolt*, Demon Scythe, Magna Cannon.
+    * **Mage**: *[Frost](https://calamitymod.gamepedia.com/Frost_Bolt) / [Water](https://terraria.gamepedia.com/Water_Bolt) / [Flare Bolt](https://calamitymod.gamepedia.com/Flare_Bolt)*, [Demon Scythe](https://terraria.gamepedia.com/Demon_Scythe), [Magna Cannon](https://calamitymod.gamepedia.com/Magna_Cannon).
 
-    * **Summoner**: Seabound Staff, Hornet Staff, Imp Staff.
+    * **Summoner**: [Seabound Staff](https://calamitymod.gamepedia.com/Seabound_Staff), [Hornet Staff](https://terraria.gamepedia.com/Hornet_Staff), [Imp Staff](https://terraria.gamepedia.com/Imp_Staff).
 
-    * **Throwing**: Spiky Balls (phase 1 only), Crystalline, Seashell Boomerang, Scourge of the Desert (phase 1 only), Beenades.
+    * **Throwing**: [Spiky Balls](https://terraria.gamepedia.com/Spiky_Ball) (phase 1 only), [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Scourge of the Desert](https://calamitymod.gamepedia.com/Scourge_of_the_Desert) (phase 1 only), [Beenades](https://terraria.gamepedia.com/Beenade).
 
 * **General Accessories:**
 
-    * Hermes Boots+, Shiny Red Balloon+, Band of Regeneration+, Counter Scarf/Shield of Cthulhu.
+    * [Hermes Boots](https://terraria.gamepedia.com/Hermes_Boots)+, [Shiny Red Balloon](https://terraria.gamepedia.com/Shiny_Red_Balloon)+, [Band of Regeneration](https://terraria.gamepedia.com/Band_of_Regeneration)+, [Counter Scarf](https://calamitymod.gamepedia.com/Counter_Scarf) / [Shield of Cthulhu](https://terraria.gamepedia.com/Shield_of_Cthulhu).
 
 * **Class Specific Accessories**:
 
-    * **Mage**: Celestial Cuffs, Mana Flower (optional)
+    * **Mage**: [Celestial Cuffs](https://terraria.gamepedia.com/Celestial_Cuffs), [Mana Flower](https://terraria.gamepedia.com/Mana_Flower) (optional)
 
-    * **Summoner**: Papyrus Scarab, Spirit Generator, Fungal Clump.
+    * **Summoner**: [Papyrus Scarab](https://terraria.gamepedia.com/Papyrus_Scarab), [Spirit Glyph](https://calamitymod.gamepedia.com/Spirit_Glyph), [Fungal Clump](https://calamitymod.gamepedia.com/Fungal_Clump).
 
-    * **Melee**: Cross Necklace+.
+    * **Melee**: [Cross Necklace](https://terraria.gamepedia.com/Cross_Necklace)+.
 
-    * **Throwing**: Raider's Talisman.
+    * **Rogue**: [Raider's Talisman](https://calamitymod.gamepedia.com/Raider%27s_Talisman)
 
 * **Strategy:**
 
