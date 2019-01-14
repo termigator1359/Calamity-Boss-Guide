@@ -20,7 +20,7 @@
 
     * **Summoner**: [Slime Staff](https://terraria.gamepedia.com/Slime_Staff), [Seabound Staff](https://calamitymod.gamepedia.com/Seabound_Staff), [Sun Spirit Staff](https://calamitymod.gamepedia.com/Sun_Spirit_Staff).
 
-    * **Rogue**: Crystalline, [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Grenades](https://terraria.gamepedia.com/Grenade), [Spiky Balls](https://terraria.gamepedia.com/Spiky_Ball).
+    * **Rogue**: [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Grenades](https://terraria.gamepedia.com/Grenade), [Spiky Balls](https://terraria.gamepedia.com/Spiky_Ball).
     
     * **Support weapons**: [Plasma Rod](https://calamitymod.gamepedia.com/Plasma_Rod).
 
