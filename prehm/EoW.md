@@ -20,7 +20,7 @@
 
     * **Summoner**: [Slime Staff](https://terraria.gamepedia.com/Slime_Staff), [Seabound Staff](https://calamitymod.gamepedia.com/Seabound_Staff).
 
-    * **Rogue**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [*Scourge of the Desert*](https://calamitymod.gamepedia.com/Scourge_of_the_Desert), [Mycoroot](https://calamitymod.gamepedia.com/Mycoroot), [Molotovs](https://terraria.gamepedia.com/Molotov_Cocktail), [Urchin Stinger](https://calamitymod.gamepedia.com/Urchin_Stinger).
+    * **Rogue**: [Spiky Balls](https://terraria.gamepedia.com/Spiky_Ball), [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [Scourge of the Desert](https://calamitymod.gamepedia.com/Scourge_of_the_Desert), [Mycoroot](https://calamitymod.gamepedia.com/Mycoroot), [Molotovs](https://terraria.gamepedia.com/Molotov_Cocktail), [Urchin Stinger](https://calamitymod.gamepedia.com/Urchin_Stinger).
 
 * **General Accessories:**
 
