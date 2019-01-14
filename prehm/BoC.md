@@ -12,7 +12,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [Seabow](https://calamitymod.gamepedia.com/Seabow), [*Opal Striker*](https://calamitymod.gamepedia.com/Opal_Striker), [Pumpler](https://calamitymod.gamepedia.com/Pumpler)/[Minishark](https://terraria.gamepedia.com/Minishark), [*Firestorm Cannon*](https://calamitymod.gamepedia.com/Firestorm_Cannon). Any Ammo.
+    * **Ranged**: [Seabow](https://calamitymod.gamepedia.com/Seabow), [*Opal Striker*](https://calamitymod.gamepedia.com/Opal_Striker), [Pumpler](https://calamitymod.gamepedia.com/Pumpler) / [Minishark](https://terraria.gamepedia.com/Minishark), [*Firestorm Cannon*](https://calamitymod.gamepedia.com/Firestorm_Cannon). Any Ammo.
 
     * **Melee**: [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Rotted Fork](https://terraria.gamepedia.com/The_Rotted_Fork).
 
