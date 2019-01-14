@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Phangasm*](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion), [Minigun](https://calamitymod.gamepedia.com/Minigun). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow).
+    * **Ranged**: [*Phangasm*](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion), [Minigun](https://calamitymod.gamepedia.com/Minigun). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow), [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
     * **Melee**: [*Galaxia*](https://calamitymod.gamepedia.com/Galaxia), [Devil's Devastation](https://calamitymod.gamepedia.com/Devil%27s_Devastation).
 
