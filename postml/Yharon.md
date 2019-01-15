@@ -34,7 +34,7 @@
 
     * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing), [Statis’ Curse](https://calamitymod.gamepedia.com/Statis%27_Curse), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Profaned Soul Artifact](https://calamitymod.gamepedia.com/Profaned_Soul_Artifact).
 
-    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
+    * **Rogue**: [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
 * **Strategy:**
 
@@ -80,7 +80,7 @@
 
     * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing), [Statis’ Curse](https://calamitymod.gamepedia.com/Statis%27_Curse), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Profaned Soul Artifact](https://calamitymod.gamepedia.com/Profaned_Soul_Artifact).
 
-    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
+    * **Rogue**: [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
 * **Strategies:**
 
