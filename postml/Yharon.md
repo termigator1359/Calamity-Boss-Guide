@@ -6,7 +6,7 @@
 
 * **Armor Sets:**
 
-    * **Any class**: [Tarragon](https://calamitymod.gamepedia.com/Tarragon_armor), [Bloodflare](https://calamitymod.gamepedia.com/Bloodflare_armor), [Omega Blue](https://calamitymod.gamepedia.com/Omega_Blue_armor), [God Slayer](https://calamitymod.gamepedia.com/God_Slayer_armor). Preferrably God Slayer.
+    * **Any class**: [Tarragon](https://calamitymod.gamepedia.com/Tarragon_armor), [Bloodflare](https://calamitymod.gamepedia.com/Bloodflare_armor), [Omega Blue](https://calamitymod.gamepedia.com/Omega_Blue_armor), [God Slayer](https://calamitymod.gamepedia.com/God_Slayer_armor). Preferably God Slayer.
 
 * **Weapon Loadouts:**
 
@@ -18,7 +18,7 @@
 
     * **Summoner**: [Staff of the Mechworm](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
 
-    * **Rogue**: [Executioner's Blade](https://calamitymod.gamepedia.com/Executioner%27s_Blade).
+    * **Rogue**: [Executioner's Blade](https://calamitymod.gamepedia.com/Executioner%27s_Blade), [Eradicator](https://calamitymod.gamepedia.com/Eradicator).
 
 * **General Accessories:**
 
@@ -34,7 +34,7 @@
 
     * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing), [Statis’ Curse](https://calamitymod.gamepedia.com/Statis%27_Curse), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Profaned Soul Artifact](https://calamitymod.gamepedia.com/Profaned_Soul_Artifact).
 
-    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech).
+    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
 * **Strategy:**
 
@@ -56,15 +56,15 @@
     
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Phangasm*](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow).
+    * **Ranged**: [*Phangasm*](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion), [Chicken Cannon](https://calamitymod.gamepedia.com/Chicken_Cannon). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow).
 
     * **Melee**: [Empyrean Knives](https://calamitymod.gamepedia.com/Empyrean_Knives), [*Scourge of the Cosmos*](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [*Greatsword of Blah*](https://calamitymod.gamepedia.com/Greatsword_of_Blah).
 
     * **Mage**: [*Voltaic Climax*](https://calamitymod.gamepedia.com/Voltaic_Climax), [*Alpha Ray*](https://calamitymod.gamepedia.com/Alpha_Ray), [*Light God's Brilliance*](https://calamitymod.gamepedia.com/Light_God%27s_Brilliance).
 
-    * **Summoner**: [Yharon's Kindle Staff](https://calamitymod.gamepedia.com/Yharon%27s_Kindle_Staff), [Staff of the Mechworm](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
+    * **Summoner**: [*Yharon's Kindle Staff*](https://calamitymod.gamepedia.com/Yharon%27s_Kindle_Staff), [Staff of the Mechworm](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
 
-    * **Rogue**: [Executioner's Blade](https://calamitymod.gamepedia.com/Executioner%27s_Blade), [*Scourge of the Cosmos*](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [Empyrean Knives](https://calamitymod.gamepedia.com/Empyrean_Knives).
+    * **Rogue**: [Executioner's Blade](https://calamitymod.gamepedia.com/Executioner%27s_Blade), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [Empyrean Knives](https://calamitymod.gamepedia.com/Empyrean_Knives), [Infernal Spear](https://calamitymod.gamepedia.com/Infernal_Spear).
 
 * **General Accessories:**
 
@@ -80,7 +80,7 @@
 
     * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing), [Statis’ Curse](https://calamitymod.gamepedia.com/Statis%27_Curse), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Profaned Soul Artifact](https://calamitymod.gamepedia.com/Profaned_Soul_Artifact).
 
-    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech).
+    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
 * **Strategies:**
 
