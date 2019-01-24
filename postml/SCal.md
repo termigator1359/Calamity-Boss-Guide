@@ -161,7 +161,7 @@ Moving counter-clockwise means you’ll be flying up at the right side, which me
 
       * Summoners don’t have to use this tactic as their minions will attack the hearts independently.
 
-   * If you're unlucky, Sepulcher can spawn in particularly bad spots, possibly getting cheap shots on you with its Abyssal Souls ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_92.gif) . Sadly, not much can be done about it other than trying your best to dodge it as well as everything else SCal is throwing at you.
+   * If you're unlucky, Sepulcher can spawn in particularly bad spots, possibly getting cheap shots on you with its Abyssal Souls ![image alt text](../public/Abyssal_Soul.gif) . Sadly, not much can be done about it other than trying your best to dodge it as well as everything else SCal is throwing at you.
 
 ### Dying Phase
 
