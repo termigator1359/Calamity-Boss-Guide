@@ -49,7 +49,7 @@
    * On Rev+, prioritize the Thots when they spawn; try to spawn them while the Devourer of Gods is in his grounded phase, as long as he is on-screen and below you he is harmless, meaning you can fly and dash diagonally to keep the Thots at a distance while you dispatch them, when the 2nd wave comes try to stack them together, this will make dealing with them easier. It's not a bad idea to use Adrenaline or Rage on the Thots.  
    * Phases can be differentiated either by background color (Blue for flying phase, Purple for grounded), or by the debuffs you get (Warped for passive phase, Extreme Gravity for active).
    * Prioritise attacking the head and tail due to the massive DR DoG's body has, attacking the head does slightly more damage than attacking the tail.
-   * When you defeat the Devourer of Gods, the Sentinels will spawn one at a time in the following order: Ceaseless Void, Storm Weaver, and lastly Signus. If you take longer than 2 minutes to kill a sentinel, the next one in order will spawn regardless of whether the first has died. When Signus dies, the Final Form of the Devourer will spawn.
+   * When you defeat the Devourer of Gods, the Sentinels will spawn one at a time in the following order: Ceaseless Void, Storm Weaver, and lastly Signus. If you take longer than 2 minutes to kill a sentinel, the next one in order will spawn regardless of whether the first has died. Ten seconds after the final sentinel dies, the Final Form of the Devourer will spawn.
 
      ### Flying Phase
         Either run along the ground while shooting his head or do a loop above him to get a better line of fire on it. 
