@@ -1,4 +1,4 @@
-## Eye of Cthulhu
+## [Eye of Cthulhu](https://terraria.gamepedia.com/Eye_of_Cthulhu)
 
 *"You feel an evil presence watching you.."*
 

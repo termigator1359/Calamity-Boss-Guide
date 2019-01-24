@@ -1,4 +1,4 @@
-## Hive Mind
+## [Hive Mind](https://calamitymod.gamepedia.com/The_Hive_Mind)
 
 *"Rotten cysts are oozing from this corrupt land..."*
 

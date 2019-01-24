@@ -1,4 +1,4 @@
-## Desert Scourge
+## [Desert Scourge](https://calamitymod.gamepedia.com/Desert_Scourge)
 
 *"The desert sand stirs..."*
 

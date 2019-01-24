@@ -1,4 +1,4 @@
-## Brain of Cthulhu
+## [Brain of Cthulhu](https://terraria.gamepedia.com/Brain_of_Cthulhu)
 
 "A horrible chill goes down your spine..."
 

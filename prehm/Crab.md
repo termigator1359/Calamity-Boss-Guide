@@ -1,4 +1,4 @@
-## Crabulon
+## [Crabulon](https://calamitymod.gamepedia.com/Crabulon)
 
 *"The Perfect One..."*
 

@@ -1,4 +1,4 @@
-## Eater of Worlds
+## [Eater of Worlds](https://terraria.gamepedia.com/Eater_of_Worlds)
 
 *"Screams echo around you..."*
 
