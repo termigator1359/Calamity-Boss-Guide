@@ -16,7 +16,7 @@
 
     * **Mage**: [*Magnetic Meltdown*](https://calamitymod.gamepedia.com/Magnetic_Meltdown), [*Light God's Brilliance*](https://calamitymod.gamepedia.com/Light_God%27s_Brilliance).
 
-    * **Summoner**: [Staff of the Mechworm](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
+    * **Summoner**: [*Staff of the Mechworm*](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
 
     * **Rogue**: [Executioner's Blade](https://calamitymod.gamepedia.com/Executioner%27s_Blade), [Eradicator](https://calamitymod.gamepedia.com/Eradicator).
 
@@ -56,13 +56,13 @@
     
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Phangasm*](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion), [Chicken Cannon](https://calamitymod.gamepedia.com/Chicken_Cannon). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow).
+    * **Ranged**: [*Chicken Cannon*](https://calamitymod.gamepedia.com/Chicken_Cannon), [Phangasm](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion), [Chicken Cannon](https://calamitymod.gamepedia.com/Chicken_Cannon). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow).
 
     * **Melee**: [Empyrean Knives](https://calamitymod.gamepedia.com/Empyrean_Knives), [*Scourge of the Cosmos*](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [*Greatsword of Blah*](https://calamitymod.gamepedia.com/Greatsword_of_Blah).
 
     * **Mage**: [*Voltaic Climax*](https://calamitymod.gamepedia.com/Voltaic_Climax), [*Alpha Ray*](https://calamitymod.gamepedia.com/Alpha_Ray), [*Light God's Brilliance*](https://calamitymod.gamepedia.com/Light_God%27s_Brilliance).
 
-    * **Summoner**: [*Yharon's Kindle Staff*](https://calamitymod.gamepedia.com/Yharon%27s_Kindle_Staff), [Staff of the Mechworm](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
+    * **Summoner**: [*Yharon's Kindle Staff*](https://calamitymod.gamepedia.com/Yharon%27s_Kindle_Staff), [*Staff of the Mechworm*](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
 
     * **Rogue**: [Executioner's Blade](https://calamitymod.gamepedia.com/Executioner%27s_Blade), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [Empyrean Knives](https://calamitymod.gamepedia.com/Empyrean_Knives), [Infernal Spear](https://calamitymod.gamepedia.com/Infernal_Spear).
 
