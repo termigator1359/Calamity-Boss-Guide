@@ -2,27 +2,27 @@
 
 *"Do you enjoy going through hell?"*
 
-![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_81.png)
+![image alt text](../public/Supreme_Calamitas_Phase_2.png)
 
 * **Armor Sets**:
 
-    * **All classes**: Auric Tesla.
+    * **All classes**: [Auric Tesla](https://calamitymod.gamepedia.com/Auric_Tesla_armor).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Heavenly Gale, Drataliornus, Chicken Cannon, Vanquisher Arrows.
+    * **Ranged**: Heavenly Gale, Drataliornus, Vanquisher Arrows.
 
-    * **Melee**: Ark of the Cosmos, Scourge of the Cosmos, Burning Sky, Exoblade.
+    * **Melee**: Ark of the Cosmos, Scourge of the Cosmos, *Exoblade*.
 
-    * **Mage**: *Voltaic Climax*, Yharim's Crystal, Phoenix Flame Barrage.
+    * **Mage**: *Subsuming Vortex*, Voltaic Climax, Yharim's Crystal.
 
-    * **Summoner**: *Yharon's Kindle Staff*, *Cosmic Immaterializer*, Staff of the Mechworm.
+    * **Summoner**: *Yharon's Kindle Staff*, *Cosmic Immaterializer*, *Staff of the Mechworm*.
     
-    * **Throwing**: Celestus, *Scourge of the Cosmos*
+    * **Rogue**: Celestus, Scourge of the Cosmos
 
 * **General Accessories:**
 
-    * Seraph Tracers+, Asgardian Aegis, Core of the Blood God, The Community, Affliction (?), Dark Sun Ring, Dimensional Soul Artifact, Astral Arcanum.
+    * Seraph Tracers+, Drew's Wings, Asgardian Aegis, Core of the Blood God, The Community, Affliction (?), Dark Sun Ring, Dimensional Soul Artifact, Astral Arcanum.
 
 * **Class Specific Accessories:**
 
@@ -32,9 +32,9 @@
 
     * **Mage**: Ethereal Talisman, Eldritch Soul Artifact.
     
-    * **Summoner**: Statis' Blessing, Statis’ Curse, Statis’ Belt of Curses, Godly Soul Artifact.
+    * **Summoner**: Statis' Blessing, Statis’ Curse, Statis’ Belt of Curses, Godly Soul Artifact, Profaned Soul Artifact.
     
-    * **Throwing**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech.
+    * **Rogue**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech, Eldritch Soul Artifact.
 
 * **Weapon explanations:**
 
@@ -42,25 +42,21 @@
 
        * Heavenly Gale is pretty much the only ranged weapon at its tier (aside from Drataliornus) that can do decent damage against SCal.
 
-       * Chicken Cannon is specifically for killing the Soul Seeker ring as its explosions have massive range.
-
     * **Melee**:
 
        * Ark of the Cosmos will be your main damage dealer.
 
        * Scourge of the Cosmos (Melee) helps kill the Brimstone Hearts and makes the 1st Sepulcher phase go by very quickly. It should also always be used when SCal is invulnerable (except for the Soul Seeker phase and the final bullet hell). 
 
-       * Burning Sky is specifically for killing the Soul Seeker ring. This weapon’s projectiles cover a large portion of the screen, and        as such it is very good for killing off the Soul Seeker ring that often goes offscreen.
-
        * Exoblade can be an alternative heart killer if you don't want to bother with Scourge. It's also a great weapon to refill your health and regain your dps (Melee Auric gives damage based on your current health).
 
     * **Mage**:
+    
+       *
 
        * Voltaic Climax will be your main damage weapon. Used for pretty much almost everything in the fight.
 
        * Yharim's crystal has enough dps to be viable but is generally harder to use than Voltaic Climax.
-
-       * Phoenix Flame Barrage, much like Burning Sky and Chicken Cannon, is specifically for the Soul Seeker ring due to its big AoE.
      
     
 
@@ -72,14 +68,16 @@ Optimal setups are the following:
        2. 1 Cosmic Immaterializer + 2 Yharon sons, with the rest Mechworms.
 
        3. 1 Cosmic Immaterializer + 1 Yharon son + Godly Soul Artifact, with the rest Mechworms.
+       
+       4. 1 Cosmic Immaterializer + 1 Yharon son + Godly Soul Artifact + Profaned Soul Artifact, with the rest Mechworms.
 
        **Note:** Mechworms with less than 5 segments are worthless.
 
-   * **Throwing**: 
+   * **Rogue**: 
   
-       * Celestus will be your main damage weapon. You’ll have to use this for the Soul Seeker ring, sadly throwing doesn’t have any other options. Try to guess/watch where the Soul Seekers are, and aim as best as you can.
+       * Celestus will be your main damage weapon.
 
-       * Scourge of the Cosmos (Throwing): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the Brimstone Hearts and make the 1st Sepulcher phase go by very quickly. Do this on every bullet hell.
+       * Scourge of the Cosmos (Rogue): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the Brimstone Hearts and make the 1st Sepulcher phase go by very quickly. Do this on every bullet hell.
 
     
 
@@ -109,15 +107,15 @@ Optimal setups are the following:
 
 ### Second Bullet Hell Phase
 
-   * Stay at the top right corner of the arena. The Gigablasts ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_83.png) will spawn from either the top or from the right side of the screen. 
+   * Stay at the top right corner of the arena. The Gigablasts ![image alt text](../public/Giga_Blast.gif) will spawn from either the top or from the right side of the screen. 
 
    * Try to not stay too close to the walls, as you might get stuck in between all the brimstone blasts.
 
 ### Third Bullet Hell Phase
 
-   * Stay in the upper half of the arena, both the Gigablasts ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_84.png) and Abyssal Fireblasts ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_85.png) spawn from only the top of the screen. 
+   * Stay in the upper half of the arena, both the Gigablasts ![image alt text](../public/Giga_Blast.gif) and Abyssal Fireblasts ![image alt text](../public/Abyssal_Fireblast.gif) spawn from only the top of the screen. 
    
-   * Watch out for the Abyssal Souls rings ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_86.gif) that may overlap each other.
+   * Watch out for the Abyssal Souls rings ![image alt text](../public/Abyssal_Soul.gif) that may overlap each other.
 
 ### Brothers Phase
 
@@ -141,7 +139,7 @@ Try to not turn around and circle the other way unless you get blocked by a Brim
 	
 
    * For this phase you will be switching to certain weapons mentioned above (except for Throwing) to clear out the soul seeker ring. 
-   * Watch out for the Abyssal Souls ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_88.gif) that the Soul Seekers fire, as they can snipe you from unexpected and awkward angles.
+   * Watch out for the Abyssal Souls ![image alt text](../public/Abyssal_Soul.gif) that the Soul Seekers fire, as they can snipe you from unexpected and awkward angles.
 
 ### Final Bullet Hell Phase
 
