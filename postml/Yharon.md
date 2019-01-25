@@ -68,7 +68,7 @@
 
 * **General Accessories:**
 
-    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)+, [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [The Sponge](https://calamitymod.gamepedia.com/The_Sponge), [Rampart of Deities](https://calamitymod.gamepedia.com/Rampart_of_Deities), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact), [Dark Sun Ring](https://calamitymod.gamepedia.com/Dark_Sun_Ring).
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)+, [Drew's Wings](https://calamitymod.gamepedia.com/Drew%27s_Wings), [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [The Sponge](https://calamitymod.gamepedia.com/The_Sponge), [Rampart of Deities](https://calamitymod.gamepedia.com/Rampart_of_Deities), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact), [Dark Sun Ring](https://calamitymod.gamepedia.com/Dark_Sun_Ring).
 
 * **Class Specific Accessories:**
 
