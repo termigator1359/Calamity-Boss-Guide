@@ -2,7 +2,7 @@
 
 *"Do you enjoy going through hell?"*
 
-![image alt text](../public/scal p2.gif)
+![image alt text](../public/scal_p2.gif)
 
 * **Armor Sets**:
 
