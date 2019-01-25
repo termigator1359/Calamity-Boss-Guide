@@ -138,8 +138,8 @@ Try to not turn around and circle the other way unless you get blocked by a Brim
 ### Soul Seeker Phase
 	
 
-   * For this phase you will be switching to certain weapons mentioned above (except for Throwing) to clear out the soul seeker ring. 
-   * Watch out for the Abyssal Souls ![image alt text](../public/Abyssal_Soul.gif) that the Soul Seekers fire, as they can snipe you from unexpected and awkward angles.
+   * For this phase you should use a weapon that can hit multiple of the Soul Seekers at once in order to kill them quickly. 
+   * Watch out for the Abyssal Souls ![image alt text](../public/Abyssal_Soul.gif) that the Soul Seekers fire, as they can provide a serious threat in combination with scal's projectiles depending on your movement.
 
 ### Final Bullet Hell Phase
 
