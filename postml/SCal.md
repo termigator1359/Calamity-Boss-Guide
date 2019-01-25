@@ -54,9 +54,9 @@
 
     * **Mage**:
 
-       * Voltaic Climax will be your main damage weapon. Used for pretty much almost everything in the fight.
+       * Subsuming Vortex will be your main damage weapon. Used for pretty much almost everything in the fight.
 
-       * Yharim's crystal has enough dps to be viable but is generally harder to use than Voltaic Climax.
+       * Yharim's Crystal has enough dps to be viable but is generally harder to use than Subsuming Vortex, the same can be said for Vivid Clarity.
      
     
 
