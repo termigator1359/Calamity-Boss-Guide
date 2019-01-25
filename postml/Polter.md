@@ -1,4 +1,4 @@
-## Polterghast
+## [Polterghast](https://calamitymod.gamepedia.com/Polterghast)
 
 *"Shrieks are echoing from the dungeon…"*
 
@@ -8,35 +8,35 @@
 
 * **Armor Sets**:
 
-    * **Any class**: Tarragon.
+    * **Any class**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor), [Nebula](https://terraria.gamepedia.com/Nebula_armor), [Tarragon](https://calamitymod.gamepedia.com/Tarragon_armor).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Seadragon, Blissful Bombardier. Holy Fire Ammo.
+    * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier). [Hyperius](https://calamitymod.gamepedia.com/Hyperius_Bullet) / [Holy Fire Ammo](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
-    * **Melee**: Stellar Striker, Omega Biome Blade, Solar Flare, Galactus Blade.
+    * **Melee**: [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker), [Omega Biome Blade](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Solar Flare](https://calamitymod.gamepedia.com/Solar_Flare), [Galactus Blade](https://calamitymod.gamepedia.com/Galactus_Blade).
 
-    * **Mage**: Elemental Ray, Mistlestorm, Nuclear Fury, Genisis.
+    * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Mistlestorm](https://calamitymod.gamepedia.com/Mistlestorm), [Nuclear Fury](https://calamitymod.gamepedia.com/Nuclear_Fury), [Genisis](https://calamitymod.gamepedia.com/Genisis).
 
-    * **Summoner**: Cosmilamp, Stardust Dragon.
+    * **Summoner**: [Cosmilamp](https://calamitymod.gamepedia.com/Cosmilamp), [Elemental Axes](https://calamitymod.gamepedia.com/Elemental_Axe).
 
-    * **Throwing**: Elemental Disk, Molten Amputator, Cosmic Kunai.
+    * **Rogue**: [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk), [Molten Amputator](https://calamitymod.gamepedia.com/Molten_Amputator), [Cosmic Kunai](https://calamitymod.gamepedia.com/Cosmic_Kunai).
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor/Elysian Aegis, Bloodflare Core, The Community, Absorber, Void of Extinction.
+    * Seraph Tracers, [Tarragon Wings](https://calamitymod.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Elysian Aegis](https://calamitymod.gamepedia.com/Elysian_Aegis), [Bloodflare Core](https://calamitymod.gamepedia.com/Bloodflare_Core), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [Absorber](https://calamitymod.gamepedia.com/The_Absorber).
 
 * **Class Specific Accessories:**
 
-    * **Ranged**: Daedalus Emblem.
+    * **Ranged**: [Sniper Scope](https://terraria.gamepedia.com/Sniper_Scope), [Daedalus Emblem](https://calamitymod.gamepedia.com/Daedalus_Emblem).
 
-    * **Melee**: Yharim's Insignia, Bloody Worm Scarf, Yoyo Bag.
+    * **Melee**: [Yharim's Insignia](https://calamitymod.gamepedia.com/Yharim%27s_Insignia), [Bloody Worm Scarf](https://calamitymod.gamepedia.com/Bloody_Worm_Scarf), [Mechanical Glove](https://terraria.gamepedia.com/Mechanical_Glove), [Fire Gauntlet](https://terraria.gamepedia.com/Fire_Gauntlet), [Yoyo Bag](https://terraria.gamepedia.com/Yoyo_Bag).
 
-    * **Mage**: Sigil of Calamitas, Eldritch Soul Artifact.
+    * **Mage**: [Sigil of Calamitas](https://calamitymod.gamepedia.com/Sigil_of_Calamitas), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
-    * **Summoner**: Statis' Blessing, Statis’ Curse.
+    * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing), [Statis’ Curse](https://calamitymod.gamepedia.com/Statis%27_Curse), [Profaned Soul Artifact](https://calamitymod.gamepedia.com/Profaned_Soul_Artifact).
 
-    * **Throwing**: Statis' Ninja Belt.
+    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
 * **Strategy:**
 
