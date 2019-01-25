@@ -26,7 +26,7 @@
 
 * **Class Specific Accessories:**
 
-    * **Ranged**: [Elemental Quiver](https://calamitymod.gamepedia.com/Elemental_Quiver), [Daedalus Emblem](https://calamitymod.gamepedia.com/Daedalus_Emblem), [Sniper Scope](https://terraria.gamepedia.com/Sniper_Scope).
+    * **Ranged**: [Elemental Quiver](https://calamitymod.gamepedia.com/Elemental_Quiver).
 
     * **Melee**: [Elemental Gauntlet](https://calamitymod.gamepedia.com/Elemental_Gauntlet).
 
