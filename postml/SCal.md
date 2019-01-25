@@ -1,8 +1,8 @@
-## Supreme Calamitas
+## [Supreme Calamitas](https://calamitymod.gamepedia.com/SCal)
 
 *"Do you enjoy going through hell?"*
 
-![image alt text](../public/Supreme_Calamitas_Phase_2.png)
+![image alt text](../public/scal p2.gif)
 
 * **Armor Sets**:
 
@@ -10,37 +10,39 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Heavenly Gale, Drataliornus, Vanquisher Arrows.
+    * **Ranged**: [Heavenly Gale](https://calamitymod.gamepedia.com/Heavenly_Gale), [Drataliornus](https://calamitymod.gamepedia.com/Drataliornus), [*Photoviscerator*](https://calamitymod.gamepedia.com/Photoviscerator), [Bloodfire Arrows](https://calamitymod.gamepedia.com/Bloodfire_Arrow).
 
-    * **Melee**: Ark of the Cosmos, Scourge of the Cosmos, *Exoblade*.
+    * **Melee**: [Ark of the Cosmos](https://calamitymod.gamepedia.com/Ark_of_the_Cosmos), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [*Exoblade*](https://calamitymod.gamepedia.com/Exoblade).
 
-    * **Mage**: *Subsuming Vortex*, Voltaic Climax, Yharim's Crystal.
+    * **Mage**: [*Subsuming Vortex*](https://calamitymod.gamepedia.com/Subsuming_Vortex), [*Vivid Clarity*](https://calamitymod.gamepedia.com/Vivid_Clarity), [Voltaic Climax](https://calamitymod.gamepedia.com/Voltaic_Climax), [Yharim's Crystal](https://calamitymod.gamepedia.com/Yharim%27s_Crystal).
 
-    * **Summoner**: *Yharon's Kindle Staff*, *Cosmic Immaterializer*, *Staff of the Mechworm*.
+    * **Summoner**: [Yharon's Kindle Staff](https://calamitymod.gamepedia.com/Yharon%27s_Kindle_Staff), [*Cosmic Immaterializer*](https://calamitymod.gamepedia.com/Cosmic_Immaterializer), [*Staff of the Mechworm*](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm).
     
-    * **Rogue**: Celestus, Scourge of the Cosmos
+    * **Rogue**: [Celestus](https://calamitymod.gamepedia.com/Celestus), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos)
 
 * **General Accessories:**
 
-    * Seraph Tracers+, Drew's Wings, Asgardian Aegis, Core of the Blood God, The Community, Affliction (?), Dark Sun Ring, Dimensional Soul Artifact, Astral Arcanum.
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)+, [Drew's Wings](https://calamitymod.gamepedia.com/Wings), [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Affliction](https://calamitymod.gamepedia.com/Affliction) (?), [Dark Sun Ring](https://calamitymod.gamepedia.com/Dark_Sun_Ring), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact), [Astral Arcanum](https://calamitymod.gamepedia.com/Astral_Arcanum).
 
 * **Class Specific Accessories:**
 
-    * **Ranged**: Elemental Quiver.
+    * **Ranged**: [Elemental Quiver](https://calamitymod.gamepedia.com/Elemental_Quiver), [Daedalus Emblem](https://calamitymod.gamepedia.com/Daedalus_Emblem), [Sniper Scope](https://terraria.gamepedia.com/Sniper_Scope).
 
-    * **Melee**: Elemental Gauntlet.
+    * **Melee**: [Elemental Gauntlet](https://calamitymod.gamepedia.com/Elemental_Gauntlet).
 
-    * **Mage**: Ethereal Talisman, Eldritch Soul Artifact.
+    * **Mage**: [Ethereal Talisman](https://calamitymod.gamepedia.com/Ethereal_Talisman), [Sigil of Calamitas](https://calamitymod.gamepedia.com/Sigil_of_Calamitas), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
     
-    * **Summoner**: Statis' Blessing, Statis’ Curse, Statis’ Belt of Curses, Godly Soul Artifact, Profaned Soul Artifact.
+    * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing), [Statis’ Curse](https://calamitymod.gamepedia.com/Statis%27_Curse), [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Godly Soul Artifact](https://calamitymod.gamepedia.com/Godly_Soul_Artifact), [Profaned Soul Artifact](https://calamitymod.gamepedia.com/Profaned_Soul_Artifact).
     
-    * **Rogue**: Statis' Ninja Belt, Statis’ Belt of Curses, Nanotech, Eldritch Soul Artifact.
+    * **Rogue**: [Statis’ Belt of Curses](https://calamitymod.gamepedia.com/Statis%27_Belt_of_Curses), [Nanotech](https://calamitymod.gamepedia.com/Nanotech), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
 * **Weapon explanations:**
 
     * **Ranger**:
+    
+       * Heavenly Gale will be your main Brimstone Heart killer due to Photo's reliance on specific positioning.
 
-       * Heavenly Gale is pretty much the only ranged weapon at its tier (aside from Drataliornus) that can do decent damage against SCal.
+       * Photoviscerator is pretty much the only ranged weapon at its tier (aside from Drataliornus) that can do decent damage against SCal. Gale is more inconsistent than Photo, and due to Bloodflare explosions splitting with Ele Quiver, good movement can lead to significantly higher dps with this.
 
     * **Melee**:
 
@@ -51,8 +53,6 @@
        * Exoblade can be an alternative heart killer if you don't want to bother with Scourge. It's also a great weapon to refill your health and regain your dps (Melee Auric gives damage based on your current health).
 
     * **Mage**:
-    
-       *
 
        * Voltaic Climax will be your main damage weapon. Used for pretty much almost everything in the fight.
 
