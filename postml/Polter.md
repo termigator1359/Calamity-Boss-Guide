@@ -14,7 +14,7 @@
 
     * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier). [Hyperius](https://calamitymod.gamepedia.com/Hyperius_Bullet) / [Holy Fire Ammo](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
-    * **Melee**: [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker), [Omega Biome Blade](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Solar Flare](https://calamitymod.gamepedia.com/Solar_Flare), [Galactus Blade](https://calamitymod.gamepedia.com/Galactus_Blade).
+    * **Melee**: [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker), [Omega Biome Blade](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Solar Flare](https://calamitymod.gamepedia.com/Solar_Flare), [Galactus Blade](https://calamitymod.gamepedia.com/Galactus_Blade), [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk).
 
     * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Mistlestorm](https://calamitymod.gamepedia.com/Mistlestorm), [Nuclear Fury](https://calamitymod.gamepedia.com/Nuclear_Fury), [Genisis](https://calamitymod.gamepedia.com/Genisis).
 
