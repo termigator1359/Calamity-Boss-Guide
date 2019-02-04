@@ -20,7 +20,7 @@
 
     * **Summoner**: [Seabound Staff](https://calamitymod.gamepedia.com/Seabound_Staff), [Hornet Staff](https://terraria.gamepedia.com/Hornet_Staff), [Imp Staff](https://terraria.gamepedia.com/Imp_Staff).
 
-    * **Throwing**: [Spiky Balls](https://terraria.gamepedia.com/Spiky_Ball) (phase 1 only), [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Scourge of the Desert](https://calamitymod.gamepedia.com/Scourge_of_the_Desert) (phase 1 only), [Beenades](https://terraria.gamepedia.com/Beenade).
+    * **Rogue**: [Spiky Balls](https://terraria.gamepedia.com/Spiky_Ball) (phase 1 only), [Crystalline](https://calamitymod.gamepedia.com/Crystalline), [Seashell Boomerang](https://calamitymod.gamepedia.com/Seashell_Boomerang), [Scourge of the Desert](https://calamitymod.gamepedia.com/Scourge_of_the_Desert) (phase 1 only), [Beenades](https://terraria.gamepedia.com/Beenade).
 
 * **General Accessories:**
 
