@@ -1,4 +1,4 @@
-## Storm Weaver
+## [Storm Weaver](https://calamitymod.gamepedia.com/Storm_Weaver)
 
 *"The Devourer took pity on its fellow kind…"*
 
@@ -7,35 +7,35 @@
 
 * **Armor Sets**:
 
-    * **Any class**: Tarragon.
+    * **Any class**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor), [Nebula](https://terraria.gamepedia.com/Nebula_armor), [Stardust](https://terraria.gamepedia.com/Stardust_armor), [Vortex](https://terraria.gamepedia.com/Vortex_armor), [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor), [Tarragon](https://calamitymod.gamepedia.com/Tarragon_armor).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: *Onyx Chain Blaster*, Holy Fire Bullets, Blissful Bombardier, Shredder, Telluric Glare. Holy Fire Ammo.
+    * **Ranged**: [Onyx Chain Blaster](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier), [*Shredder*](https://calamitymod.gamepedia.com/Shredder), [Telluric Glare](https://calamitymod.gamepedia.com/Telluric_Glare). [Holy Fire Ammo](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
-    * **Melee**: Stellar Striker, Holy Collider, Ark of the Elements, Galactus Blade.
+    * **Melee**: [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker), [Holy Collider](https://calamitymod.gamepedia.com/Holy_Collider), [Ark of the Elements](https://calamitymod.gamepedia.com/Ark_of_the_Elements), [Galactus Blade](https://calamitymod.gamepedia.com/Galactus_Blade), [Solar Flare](https://calamitymod.gamepedia.com/Solar_Flare).
 
-    * **Mage**: *Elemental Ray*, Nuclear Fury, Purge Guzzler.
+    * **Mage**: [*Elemental Ray*](https://calamitymod.gamepedia.com/Elemental_Ray), [Nuclear Fury](https://calamitymod.gamepedia.com/Nuclear_Fury), [Purge Guzzler](https://calamitymod.gamepedia.com/Purge_Guzzler), [Genisis](https://calamitymod.gamepedia.com/Genisis).
 
-    * **Summoner**: Elemental Axe, Energy Staff, Stardust Dragon.
+    * **Summoner**: [Elemental Axe](https://calamitymod.gamepedia.com/Elemental_Axe), [Energy Staff](https://calamitymod.gamepedia.com/Energy_Staff).
 
-    * **Throwing**: Elemental Disk, Molten Amputator.
+    * **Rogue**: [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk), [Molten Amputator](https://calamitymod.gamepedia.com/Molten_Amputator).
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor/Elysian Aegis, Bloodflare Core, The Community, Absorber, Ambrosial Ampoule, Void of Extinction.
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers), [Tarragon Wings](https://calamitymod.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Elysian Aegis](https://calamitymod.gamepedia.com/Elysian_Aegis), [Bloodflare Core](https://calamitymod.gamepedia.com/Bloodflare_Core), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [The Absorber](https://calamitymod.gamepedia.com/The_Absorber).
 
 * **Class Specific Accessories:**
 
-    * **Ranged**: Daedalus Emblem, Ranger Emblem.
+    * **Ranged**: [Daedalus Emblem](https://calamitymod.gamepedia.com/Daedalus_Emblem), [Sniper Scope](https://terraria.gamepedia.com/Sniper_Scope).
 
-    * **Melee**: Yharim's Insignia, Bloody Worm Scarf.
+    * **Melee**: [Yharim's Insignia](https://calamitymod.gamepedia.com/Yharim%27s_Insignia), [Bloody Worm Scarf](https://calamitymod.gamepedia.com/Bloody_Worm_Scarf), [Mechanical Glove](https://terraria.gamepedia.com/Mechanical_Glove), [Fire Gauntlet](https://terraria.gamepedia.com/Fire_Gauntlet).
 
-    * **Mage**: Sigil of Calamitas, Eldritch Soul Artifact.
-
-    * **Summoner**: Statis' Blessing, Statis’ Curse.
-
-    * **Throwing**: Statis' Ninja Belt.
+    * **Mage**: [Sigil of Calamitas](https://calamitymod.gamepedia.com/Sigil_of_Calamitas), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
+      
+    * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing), [Statis’ Curse](https://calamitymod.gamepedia.com/Statis%27_Curse), [Profaned Soul Artifact](https://calamitymod.gamepedia.com/Profaned_Soul_Artifact).
+      
+    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
 * **Strategy:**
 
