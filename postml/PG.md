@@ -10,7 +10,7 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Onyx Chain Blaster*](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [Shredder](https://calamitymod.gamepedia.com/Shredder), [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet), [Elemental Blaster](https://calamitymod.gamepedia.com/Elemental_Blaster), [Astreal Defeat](https://calamitymod.gamepedia.com/Astreal_Defeat). [Terra Ammo](https://calamitymod.gamepedia.com/Terra_Arrow).
+    * **Ranged**: [*Onyx Chain Blaster*](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [Shredder](https://calamitymod.gamepedia.com/Shredder), [Elemental Blaster](https://calamitymod.gamepedia.com/Elemental_Blaster), [Astreal Defeat](https://calamitymod.gamepedia.com/Astreal_Defeat). [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet) / [Terra Ammo](https://calamitymod.gamepedia.com/Terra_Arrow).
 
     * **Melee**: [*Omega Biome Blade*](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [*Plague Keeper*](https://calamitymod.gamepedia.com/Plague_Keeper) (If using [Plague Hive](https://calamitymod.gamepedia.com/Plague_Hive)), [Ark of the Elements](https://calamitymod.gamepedia.com/Ark_of_the_Elements), [*Galactus Blade*](https://calamitymod.gamepedia.com/Galactus_Blade).
 
