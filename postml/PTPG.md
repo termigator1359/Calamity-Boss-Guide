@@ -1,4 +1,4 @@
-## Providence, the Profaned Goddess
+## [Providence, the Profaned Goddess](https://calamitymod.gamepedia.com/Providence,_the_Profaned_Goddess)
 
 *"The air is burning…"*
 
@@ -6,43 +6,41 @@
 
 * **Armor Sets:**
 
-    * **Any class**: Lunar.
+    * **Any class**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor), [Nebula](https://terraria.gamepedia.com/Nebula_armor), [Stardust](https://terraria.gamepedia.com/Stardust_armor), [Vortex](https://terraria.gamepedia.com/Vortex_armor), [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor).
 
-    * **Throwing**: Xeroc.
+    * **Melee**: [Reaver](https://calamitymod.gamepedia.com/Reaver_armor)
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: *Onyx Chain Blaster*, Clockwork Bow, Shredder, Elemental Blaster, Starfleet. Holy Fire Ammo.
+    * **Ranged**: [*Onyx Chain Blaster*](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [Monsoon](https://calamitymod.gamepedia.com/Monsoon), [Clockwork Bow](https://calamitymod.gamepedia.com/Clockwork_Bow), [Shredder](https://calamitymod.gamepedia.com/Shredder), [Elemental Blaster](https://calamitymod.gamepedia.com/Elemental_Blaster), [Starfleet](https://calamitymod.gamepedia.com/Starfleet). [Holy Fire](https://calamitymod.gamepedia.com/Holy_Fire_Bullet) / [Hyperius Ammo](https://calamitymod.gamepedia.com/Hyperius_Bullet).
 
-    * **Melee**: *Omega Biome Blade*, Elemental Shiv, Ark of the Elements, *Galactus Blade*.
+    * **Melee**: [*Omega Biome Blade*](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Elemental Shiv](https://calamitymod.gamepedia.com/Elemental_Shiv), [*Plague Keeper*](https://calamitymod.gamepedia.com/Plague_Keeper) (If using [Plague Hive](https://calamitymod.gamepedia.com/Plague_Hive)), [Ark of the Elements](https://calamitymod.gamepedia.com/Ark_of_the_Elements), [*Galactus Blade*](https://calamitymod.gamepedia.com/Galactus_Blade).
 
-    * **Mage**: Elemental Ray, Nano Purge, *Genisis*, Last Prism.
+    * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Nano Purge](https://calamitymod.gamepedia.com/Nano_Purge), [*Genisis*](https://calamitymod.gamepedia.com/Genisis), [Effervescence](https://calamitymod.gamepedia.com/Effervescence), [Last Prism](https://terraria.gamepedia.com/Last_Prism).
 
-    * **Summoner**: Elemental Axe, Energy Staff, Stardust Dragon.
+    * **Summoner**: [Elemental Axe](https://calamitymod.gamepedia.com/Elemental_Axe), [Energy Staff](https://calamitymod.gamepedia.com/Energy_Staff).
 
-    * **Throwing**: Elemental Disk, Xeroc Pitchforks.
+    * **Rogue**: [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk), [Xeroc Pitchforks](https://calamitymod.gamepedia.com/Xeroc_Pitchfork).
 
 * **General Accessories:**
 
-    * Seraph Tracers, Asgard's Valor, The Community, Absorber, Ambrosial Ampoule, Deific Amulet, Void of Extinction.
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers), [Lunar Wings](https://terraria.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Asgard's Valor](https://calamitymod.gamepedia.com/Asgard%27s_Valor), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [The Absorber](https://calamitymod.gamepedia.com/The_Absorber).
 
 * **Class Specific Accessories:**
 
-    * **Ranged**: Daedalus Emblem.
+    * **Ranged**: [Daedalus Emblem](https://calamitymod.gamepedia.com/Daedalus_Emblem), [Sniper Scope](https://terraria.gamepedia.com/Sniper_Scope).
 
-    * **Melee**: Bloody Worm Scarf, Mechanical Glove.
+    * **Melee**: [Bloody Worm Scarf](https://calamitymod.gamepedia.com/Bloody_Worm_Scarf), [Mechanical Glove](https://terraria.gamepedia.com/Mechanical_Glove), [Fire Gauntlet](https://terraria.gamepedia.com/Fire_Gauntlet).
 
-    * **Mage**: Sigil of Calamitas, Eldritch Soul Artifact.
-
-    * **Summoner**: Statis' Blessing, Statis’ Curse.
-
-    * **Throwing**: Statis' Ninja Belt.
+    * **Mage**: [Sigil of Calamitas](https://calamitymod.gamepedia.com/Sigil_of_Calamitas), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
+      
+    * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing), [Statis’ Curse](https://calamitymod.gamepedia.com/Statis%27_Curse).
+      
+    * **Rogue**: [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt), [Eldritch Soul Artifact](https://calamitymod.gamepedia.com/Eldritch_Soul_Artifact).
 
 * **Strategy:**
 
     * Try to always run in a single direction. When she enters her shell, circle around her, then keep running when she exits. You also want to mostly fly because lava blobs stick to literally any tile. Use ML strats for laser attack.
-
-    * Taking down the extra guardians should be your **main** priority.
     
     * When the crystal is active if you need to go up - better do it slowly, because otherwise you're risking hitting crystal shards.
     
