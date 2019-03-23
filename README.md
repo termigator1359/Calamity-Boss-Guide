@@ -1,6 +1,6 @@
 # *Basic Calamity Boss Guide*
 
-_**Version: 1.4.0.002**_
+_**Version: 1.4.1.003**_
 
 Bosses are listed in old progression order, we're not taking non-linearity into account.
 
@@ -120,7 +120,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 * **All classes**
 
     * ![Yes.](/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
-    * At this point having Warding prefix on anything is equivalent to giving yourself -4% damage/crit chance.
+    * At this point having Warding prefix on anything is equivalent to giving yourself -4% damage/-2%crit chance.
     * Remember the Blood Pact tip from above? Draedon's Heart joins it.
     * After Polter everyone except ranged and melee should go into the abyss and farm their respective weapons.
     * Before you kill Provi go back to Ravager and farm him for some bags (open them after Provi), that would net you a shitton of bloodstone without you having to suffer through the fattest HM boss.
@@ -173,13 +173,13 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     <td>Kinda Viable</td>
     <td>Suffers</td>
     <td>Subpar to other classes</td>
-    <td>OP</td>
+    <td>Viable</td>
     <td>OP</td>
     <td>Mini ranged</td>
     <td>Viable</td>
     <td>Kinda Viable</td>
     <td>Viable</td>
-    <td>Subpar to other classes</td>
+    <td>Viable</td>
   </tr>
   <tr>
     <td>Ranged</td>
@@ -198,14 +198,14 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     <td>Mage</td>
     <td>Viable</td>
     <td>Viable</td>
+    <td>Kinda Viable</td>
     <td>Viable</td>
     <td>Viable</td>
     <td>Viable</td>
     <td>Viable</td>
     <td>Viable</td>
     <td>Viable</td>
-    <td>Viable</td>
-    <td>It works, yea</td>
+    <td>Surprise surprise, still viable</td>
   </tr>
   <tr>
     <td>Summoner</td>
@@ -215,23 +215,23 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     <td>Viable</td>
     <td>Viable</td>
     <td>Viable</td>
-    <td>Kinda viable</td>
+    <td>Kinda Viable</td>
     <td>Viable</td>
-    <td>Kinda suffers</td>
-    <td>Subpar to other classes</td>
+    <td>Viable</td>
+    <td>Viable</td>
   </tr>
   <tr>
-    <td>Throwing</td>
+    <td>Rogue</td>
     <td>Viable</td>
     <td>OP</td>
-    <td>Viable?</td>
+    <td>Viable</td>
     <td>Suffers</td>
     <td>Decent?</td>
     <td>GLHF</td>
     <td>Kinda Viable</td>
     <td>OP</td>
     <td>OP</td>
-    <td>How did this become so good?</td>
+    <td>Viable</td>
   </tr>
 </table>
 
@@ -379,7 +379,7 @@ Laifu
 
 RetroSweep
 
-Lilac, being a throwing mastermind and great mom.
+Lilac, being a rogue mastermind and great mom.
 
 Nickoli_dudyo
 
@@ -389,7 +389,7 @@ Justynz
 
 Duck It Now/Diglett
 
-p0rtal, throwing suggestions.
+p0rtal, rogue suggestions.
 
 Moosegay, for platinum quotes on old guide.
 

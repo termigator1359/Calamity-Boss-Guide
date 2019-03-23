@@ -20,7 +20,7 @@
 
     * **Summoner**: Ancient Ice Chunk.
 
-    * **Throwing**: Spear of Paleolith, Ice Star.
+    * **Throwing**: Spear of Paleolith, *Ice Star*.
 
 * **General Accessories:**
 

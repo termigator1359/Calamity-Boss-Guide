@@ -2,7 +2,7 @@
 
 *"Take care not to disturb the deep waters of this world."*
 
-![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_46.png)
+![image alt text](../public/Siren_and_Leviathan_Mirrored.png)
 
 * **Armor Sets:**
 
@@ -14,7 +14,7 @@
 
     * **Ranged**: Conclave Crossfire, Megalodon, Flak Kraken, *The Ballista*. Chlorophyte/Ichor/Terra Ammo.
 
-    * **Melee**: *Terra Blade*, True Forbidden Oathblade, Vampire Knives.
+    * **Melee**: *Terra Blade*, True Forbidden Oathblade, Vampire Knives, Typhon's Greed (For Siren).
 
     * **Mage**: Blizzard Staff, Undine's Retribution, Tears of Heaven, Primordial Earth, Gleaming Magnolia?
 

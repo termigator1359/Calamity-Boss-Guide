@@ -16,7 +16,7 @@
 
     * **Ranged**: Wulfrum Bow, *Seabow*, Firestorm Cannon, Jester/Frostburn Arrows.
 
-    * **Melee**: Seashell Boomerang, Mandible Claws, Starfury.
+    * **Melee**: Seashell Boomerang, Mandible Claws, Starfury, [Bladecrest Oathsword](https://calamitymod.gamepedia.com/Bladecrest_Oathsword).
 
     * **Mage**:  Wulfrum Staff, Water/Frost Bolt, Space Gun, *Mana Rose*.
 

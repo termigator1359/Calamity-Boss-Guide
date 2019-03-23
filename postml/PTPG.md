@@ -8,8 +8,6 @@
 
     * **Any class**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor), [Nebula](https://terraria.gamepedia.com/Nebula_armor), [Stardust](https://terraria.gamepedia.com/Stardust_armor), [Vortex](https://terraria.gamepedia.com/Vortex_armor), [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor).
 
-    * **Melee**: [Reaver](https://calamitymod.gamepedia.com/Reaver_armor)
-
 * **Weapon Loadouts:**
 
     * **Ranged**: [*Onyx Chain Blaster*](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [Monsoon](https://calamitymod.gamepedia.com/Monsoon), [Clockwork Bow](https://calamitymod.gamepedia.com/Clockwork_Bow), [Shredder](https://calamitymod.gamepedia.com/Shredder), [Elemental Blaster](https://calamitymod.gamepedia.com/Elemental_Blaster), [Starfleet](https://calamitymod.gamepedia.com/Starfleet). [Holy Fire](https://calamitymod.gamepedia.com/Holy_Fire_Bullet) / [Hyperius Ammo](https://calamitymod.gamepedia.com/Hyperius_Bullet).
@@ -45,27 +43,37 @@
     * When the crystal is active if you need to go up - better do it slowly, because otherwise you're risking hitting crystal shards.
     
     * Keep RoD close when she's below 50%, laser can be a bitch to deal with.
-
-**Dooglett's Nohit**
+    
+**Amber's Revengeance Summoner Rodless Nohit**
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/gVTo_it1O7A" frameborder="0" allowfullscreen>
+        src="https://www.youtube.com/embed/K4080UHDcyA" frameborder="0" allowfullscreen>
+    </iframe>
+</div>
+    
+**Amber's Death Melee Rodless Nohit**
+
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/eWb1GyZ_DIc" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 
-**Arkhine's Nohit**
+**Amber's Death-Defiled Summoner Rodless Nohit**
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/5MKuk1SMsiA" frameborder="0" allowfullscreen>
+        src="https://www.youtube.com/embed/YIUTvvQBc14" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 
-**Shucks' Nohit**
+**Amber's Death-Defiled Summoner Rodless Nohit V.2 Shroom Boogaloo**
+
+Note: *Do not watch this if you are sensitive to significant amounts of projectiles/flashing colours.*
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/iG55Cun5--8" frameborder="0" allowfullscreen>
+        src="https://www.youtube.com/embed/nzUs9HQPFww" frameborder="0" allowfullscreen>
     </iframe>
 </div>
