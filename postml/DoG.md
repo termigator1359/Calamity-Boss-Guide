@@ -12,7 +12,7 @@
 
     * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Daemon's Flame](https://calamitymod.gamepedia.com/Daemon%27s_Flame), [Aether’s Whisper](https://calamitymod.gamepedia.com/Aether%27s_Whisper). [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet), [Elysian](https://calamitymod.gamepedia.com/Elysian_Arrow) / [Bloodfire](https://calamitymod.gamepedia.com/Bloodfire_Arrow) Arrows.
 
-    * **Melee**: [*Soul Edge*](https://calamitymod.gamepedia.com/Soul_Edge), [*Banshee Hook*](https://calamitymod.gamepedia.com/Banshee_Hook), [Terror Blade](https://calamitymod.gamepedia.com/Terror_Blade), [Holy Collider](https://calamitymod.gamepedia.com/Holy_Collider) / [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker) (for [Devourers of Thots](https://calamitymod.gamepedia.com/Devourer_of_Thots)).
+    * **Melee**: [*Soul Edge*](https://calamitymod.gamepedia.com/Soul_Edge), [*Banshee Hook*](https://calamitymod.gamepedia.com/Banshee_Hook), [Terror Blade](https://calamitymod.gamepedia.com/Terror_Blade), [Holy Collider](https://calamitymod.gamepedia.com/Holy_Collider) / [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker) (for [Cosmic Guardians](https://calamitymod.gamepedia.com/Cosmic_Guardian)).
 
     * **Mage**: [*Dark Spark*](https://calamitymod.gamepedia.com/Dark_Spark), [*Aether's Whisper*](https://calamitymod.gamepedia.com/Aether%27s_Whisper), [Phantasmol Fury](https://calamitymod.gamepedia.com/Phantasmol_Fury), [Venusian Trident](https://calamitymod.gamepedia.com/Venusian_Trident), [Shadowbolt Staff](https://calamitymod.gamepedia.com/Shadowbolt_Staff), [Eidolic Wail](https://calamitymod.gamepedia.com/Eidolic_Wail), [Divine Retribution](https://calamitymod.gamepedia.com/Divine_Retribution)
 
@@ -46,7 +46,7 @@
 
 * **Strategy:**
    * Make two skybridges.  
-   * On Rev+, prioritize the Thots when they spawn; try to spawn them while the Devourer of Gods is in his grounded phase, as long as he is on-screen and below you he is harmless, meaning you can fly and dash diagonally to keep the Thots at a distance while you dispatch them, when the 2nd wave comes try to stack them together, this will make dealing with them easier. It's not a bad idea to use Adrenaline or Rage on the Thots.  
+   * On Rev+, prioritize the Cosmic Guardians when they spawn; try to spawn them while the Devourer of Gods is in his grounded phase, as long as he is on-screen and below you he is harmless, meaning you can fly and dash diagonally to keep the Cosmic Guardians at a distance while you dispatch them, when the 2nd wave comes try to stack them together, this will make dealing with them easier. It's not a bad idea to use Adrenaline or Rage on the Cosmic Guardians.  
    * Phases can be differentiated either by background color (Blue for flying phase, Purple for grounded), or by the debuffs you get (Warped for passive phase, Extreme Gravity for active).
    * Prioritise attacking the head and tail due to the massive DR DoG's body has, attacking the head does slightly more damage than attacking the tail.
    * When you defeat the Devourer of Gods, the Sentinels will spawn one at a time in the following order: Ceaseless Void, Storm Weaver, and lastly Signus. If you take longer than 2 minutes to kill a sentinel, the next one in order will spawn regardless of whether the first has died. Ten seconds after the final sentinel dies, the Final Form of the Devourer will spawn.
