@@ -12,19 +12,19 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier). [Hyperius](https://calamitymod.gamepedia.com/Hyperius_Bullet) / [Holy Fire Ammo](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
+    * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier). [Holy Fire Ammo](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
     * **Melee**: [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker), [Omega Biome Blade](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Solar Flare](https://calamitymod.gamepedia.com/Solar_Flare), [Galactus Blade](https://calamitymod.gamepedia.com/Galactus_Blade), [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk).
 
-    * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Mistlestorm](https://calamitymod.gamepedia.com/Mistlestorm), [Nuclear Fury](https://calamitymod.gamepedia.com/Nuclear_Fury), [Genisis](https://calamitymod.gamepedia.com/Genisis).
+    * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Mistlestorm](https://calamitymod.gamepedia.com/Mistlestorm), [Sanguine Flare](https://calamitymod.gamepedia.com/Sanguine_Flare), [Viscera](https://calamitymod.gamepedia.com/Viscera).
 
-    * **Summoner**: [Cosmilamp](https://calamitymod.gamepedia.com/Cosmilamp), [Elemental Axes](https://calamitymod.gamepedia.com/Elemental_Axe).
+    * **Summoner**: [*Cosmilamps*](https://calamitymod.gamepedia.com/Cosmilamp), [Elemental Axes](https://calamitymod.gamepedia.com/Elemental_Axe), [Energy Staff](https://calamitymod.gamepedia.com/Energy_Staff).
 
-    * **Rogue**: [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk), [Molten Amputator](https://calamitymod.gamepedia.com/Molten_Amputator), [Cosmic Kunai](https://calamitymod.gamepedia.com/Cosmic_Kunai).
+    * **Rogue**: [*Cosmic Kunai*](https://calamitymod.gamepedia.com/Cosmic_Kunai), [Shattered Sun](https://calamitymod.gamepedia.com/Shattered_Sun), [Molten Amputator](https://calamitymod.gamepedia.com/Molten_Amputator).
 
 * **General Accessories:**
 
-    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers), [Tarragon Wings](https://calamitymod.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Elysian Aegis](https://calamitymod.gamepedia.com/Elysian_Aegis), [Bloodflare Core](https://calamitymod.gamepedia.com/Bloodflare_Core), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [Absorber](https://calamitymod.gamepedia.com/The_Absorber).
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers) / [Tarragon Wings](https://calamitymod.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Elysian Aegis](https://calamitymod.gamepedia.com/Elysian_Aegis), [Bloodflare Core](https://calamitymod.gamepedia.com/Bloodflare_Core), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [Absorber](https://calamitymod.gamepedia.com/The_Absorber).
 
 * **Class Specific Accessories:**
 
