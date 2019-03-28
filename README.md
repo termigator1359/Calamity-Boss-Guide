@@ -94,6 +94,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 * **Ranged**
 
     * If you want to have a much easier time with half the bosses - use Daedalus Stormbow. It's not on any boss because it’s stupid and works until Golem.
+    * The Stars from Holy Arrows are affected by Flasks. Feel free to use this to your advantage.
     * Verium Bullets are the first bullets that are going to home, feel free to make a bunch of them.
     * Terra and Hyperius Bullets are also really good.
     
