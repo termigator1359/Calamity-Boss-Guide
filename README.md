@@ -42,10 +42,10 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * Boots are mandatory for 90% of the fights.
     * __GET A HOOK ASAP.__
     * Warding isn't too bad at this stage, although more damage would be preferred.
-    * If in Revengeance or above consider farming King Slime/Desert Scourge for Laudanum/Stress Pills (Laud's much better), gives too many stats packed into one accessory.
+    * If in Revengeance or above consider farming King Slime/Desert Scourge for Laudanum/Stress Pills, gives too many stats packed into one accessory.
     * Goblins are pre-boss, so go ahead and knock yourself out with all those upgraded accessories.
     * Abyss weapons are kings of pre-HM, get them as soon as you kill Skele.
-    * Money farms: Crabulon and Queen Bee.
+    * Money farms: Desert Scourge and Queen Bee.
 
 * **Ranged**
 
@@ -68,6 +68,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * AI tends to be extremely stupid, so don't neglect cancelling the buff and resummoning them on enemy’s face.
     * Hive Mind/Perfs summons are somewhat bad due to the fact that they pierce.
     * Hornets and Imps can also go :gun: themselves.
+    * For many projectile-firing minions, such as Imps and Ballistas, resummoning them constantly can increase their rate of fire.
 
 * **Rogue**
 
@@ -94,7 +95,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
     * If you want to have a much easier time with half the bosses - use Daedalus Stormbow. It's not on any boss because it’s stupid and works until Golem.
     * Verium Bullets are the first bullets that are going to home, feel free to make a bunch of them.
-    * Terra Bullets are also really good.
+    * Terra and Hyperius Bullets are also really good.
     
 * **Melee**
 
@@ -112,8 +113,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 * **Rogue**
 
-    * Rogue sucks.
-    * No, seriously, your options are going to be HM ore consumables before Cryogen, Ice Stars/Frosty Flares after Cryogen, Brimblade if you go according to this progression, Ballistic Poison Bomb after Clone, Bracklish Flask after Levi. That's about as much upgrades as you can get.
+    * Options are quite limited and straightforward. Your options are going to be Prismalline before Cryogen, Ice Stars/Frosty Flares after Cryogen, Brimblade if you go according to this progression, Ballistic Poison Bomb after Clone, Bracklish Flask after Levi, Heavenfallen Stardisk/Stellar Knives after Astrum Deus, and Chaotic Boomerang after Golem. That's about as much upgrades as you can get.
 
 ### Post-ML
 
@@ -121,8 +121,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
     * ![Yes.](/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
     * At this point having Warding prefix on anything is equivalent to giving yourself -4% damage/-2%crit chance.
-    * Remember the Blood Pact tip from above? Draedon's Heart joins it.
-    * After Polter everyone except ranged and melee should go into the abyss and farm their respective weapons.
+    * After Polter everyone except ranged should go into the abyss and farm their respective weapons.
     * Before you kill Provi go back to Ravager and farm him for some bags (open them after Provi), that would net you a shitton of bloodstone without you having to suffer through the fattest HM boss.
     * Money farms: Profaned Guardians, Ravager, DoG.
     * Keep Everglade Spray, it's hard to overestimate 20 seconds of Ichor.
@@ -131,7 +130,6 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
     * Clockwork Bow is an early "stupid" choice, because it has immense damage output, but doesn't often hit things. It’s the equivalent of random(360). On Providence it should do quite nicely however.
     * Terra Bullets are now bad, don't use them, grab Holy Fire.
-    * Post-DoG guns are shit, use bows.
 
 * **Melee**
 
@@ -150,7 +148,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 * **Rogue**
 
-    * Honestly, there isn't that much to say about rogue, you’re gonna go from Pitchforks to Amputator to Valediction to Executioner’s Blade to Celestus and Scourge of the Cosmos.
+    * Honestly, there isn't that much to say about rogue, you’re gonna go from Pitchforks to Amputator to Valediction to Executioner’s Blade to Infernal Spear/Scourge of the Cosmos to Celestus.
 
 **Class viability**:
 
@@ -226,9 +224,9 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     <td>OP</td>
     <td>Viable</td>
     <td>Suffers</td>
-    <td>Decent?</td>
+    <td>Decent</td>
+    <td>Viable</td>
     <td>GLHF</td>
-    <td>Kinda Viable</td>
     <td>OP</td>
     <td>OP</td>
     <td>Viable</td>
@@ -331,7 +329,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 ### Unrelated things
 
-#### [True Melee Interactions by Stardust Dragon/termigator1359](https://docs.google.com/document/d/17PhvJ2flem5ATjd85nKrqjxc7g_VGuGFgHhsFD_JZe8/edit?usp=sharing)
+#### [True Melee Interactions by termigator1359](https://docs.google.com/document/d/17PhvJ2flem5ATjd85nKrqjxc7g_VGuGFgHhsFD_JZe8/edit?usp=sharing)
 
 #### [DPS Optimization by 6000j](https://docs.google.com/document/d/1RC2MDeyJNMush-vfKjAjN4QB4CRVrcbUXEVI42OyNws/edit?usp=sharing)
 
