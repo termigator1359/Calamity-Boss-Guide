@@ -10,19 +10,19 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Seadragon*](https://calamitymod.gamepedia.com/Seadragon), [Claret Cannon](https://calamitymod.gamepedia.com/Claret_Cannon), [Daemon's Flame](https://calamitymod.gamepedia.com/Daemon%27s_Flame), [Aether’s Whisper](https://calamitymod.gamepedia.com/Aether%27s_Whisper), [Shredder](https://calamitymod.gamepedia.com/Shredder). [*Holy Fire Bullets*](https://calamitymod.gamepedia.com/Holy_Fire_Bullet), [Elysian](https://calamitymod.gamepedia.com/Elysian_Arrow) / [Bloodfire](https://calamitymod.gamepedia.com/Bloodfire_Arrow) Arrows.
+    * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Daemon's Flame](https://calamitymod.gamepedia.com/Daemon%27s_Flame), [Aether’s Whisper](https://calamitymod.gamepedia.com/Aether%27s_Whisper). [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet), [Elysian](https://calamitymod.gamepedia.com/Elysian_Arrow) / [Bloodfire](https://calamitymod.gamepedia.com/Bloodfire_Arrow) Arrows.
 
-    * **Melee**: [*Soul Edge*](https://calamitymod.gamepedia.com/Soul_Edge), [*Banshee Hook*](https://calamitymod.gamepedia.com/Banshee_Hook), [Holy Collider](https://calamitymod.gamepedia.com/Holy_Collider), [Solar Flare](https://calamitymod.gamepedia.com/Solar_Flare), [Lacerator](https://calamitymod.gamepedia.com/Lacerator) / [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker) (for [Devourers of Thots](https://calamitymod.gamepedia.com/Devourer_of_Thots)).
+    * **Melee**: [*Soul Edge*](https://calamitymod.gamepedia.com/Soul_Edge), [*Banshee Hook*](https://calamitymod.gamepedia.com/Banshee_Hook), [Terror Blade](https://calamitymod.gamepedia.com/Terror_Blade), [Holy Collider](https://calamitymod.gamepedia.com/Holy_Collider) / [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker) (for [Devourers of Thots](https://calamitymod.gamepedia.com/Devourer_of_Thots)).
 
-    * **Mage**: [*Mistlestorm*](https://calamitymod.gamepedia.com/Mistlestorm), [*Aether's Whisper*](https://calamitymod.gamepedia.com/Aether%27s_Whisper), [Eidolic Wail](https://calamitymod.gamepedia.com/Eidolic_Wail), [Divine Retribution](https://calamitymod.gamepedia.com/Divine_Retribution), [*Dark Spark*](https://calamitymod.gamepedia.com/Dark_Spark), [Genisis](https://calamitymod.gamepedia.com/Genisis).
+    * **Mage**: [*Dark Spark*](https://calamitymod.gamepedia.com/Dark_Spark), [*Aether's Whisper*](https://calamitymod.gamepedia.com/Aether%27s_Whisper), [Phantasmol Fury](https://calamitymod.gamepedia.com/Phantasmol_Fury), [Venusian Trident](https://calamitymod.gamepedia.com/Venusian_Trident), [Shadowbolt Staff](https://calamitymod.gamepedia.com/Shadowbolt_Staff), [Eidolic Wail](https://calamitymod.gamepedia.com/Eidolic_Wail), [Divine Retribution](https://calamitymod.gamepedia.com/Divine_Retribution)
 
-    * **Summoner**: [Stardust Dragon Staff](https://terraria.gamepedia.com/Stardust_Dragon_Staff), [Cosmilamp](https://calamitymod.gamepedia.com/Cosmilamp), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
+    * **Summoner**: [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator), [Stardust Dragon Staff](https://terraria.gamepedia.com/Stardust_Dragon_Staff), [Cosmilamp](https://calamitymod.gamepedia.com/Cosmilamp).
 
-    * **Rogue**: [*Valediction*](https://calamitymod.gamepedia.com/Valediction), [Cosmic Kunai](https://calamitymod.gamepedia.com/Cosmic_Kunai), [Ghoulish Gouger](https://calamitymod.gamepedia.com/Ghoulish_Gouger) (Bad for phase 2).
+    * **Rogue**: [*Valediction*](https://calamitymod.gamepedia.com/Valediction), [Ghoulish Gouger](https://calamitymod.gamepedia.com/Ghoulish_Gouger) (Bad for phase 2).
 
 * **General Accessories:**
 
-    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers), [Tarragon Wings](https://calamitymod.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Elysian Aegis](https://calamitymod.gamepedia.com/Elysian_Aegis), [Bloodflare Core](https://calamitymod.gamepedia.com/Bloodflare_Core), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [Astral Arcanum](https://calamitymod.gamepedia.com/Astral_Arcanum), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [Affliction](https://calamitymod.gamepedia.com/Affliction).
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers) / [Tarragon Wings](https://calamitymod.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Elysian Aegis](https://calamitymod.gamepedia.com/Elysian_Aegis), [Bloodflare Core](https://calamitymod.gamepedia.com/Bloodflare_Core), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [Astral Arcanum](https://calamitymod.gamepedia.com/Astral_Arcanum), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [Affliction](https://calamitymod.gamepedia.com/Affliction).
 
 * **Class Specific Accessories:**
 
@@ -38,9 +38,9 @@
 
 * **Weapon explanations (if required):**
 
-    * **Ranged**: Claret Cannon requires Bloodflare armor, Aether's Whisper is best used with a lower platform made out of solid blocks (since it acts like a Plasma Rod).
+    * **Ranged**: Aether's Whisper is best used with a lower platform made out of solid blocks (since it acts like a Plasma Rod).
 
-    * **Melee**: Collider requires Melee speed overclocking and is extremely risky, Solar Flare is subpar to other weapons, if using Banshee Hook aim ahead of DoG to maximize dps.
+    * **Melee**: If using Banshee Hook aim ahead of DoG to maximize dps.
     
     * **Rogue**: Ghoulish Gouger while short range, can deal significant damage to part 1 DoG, Void, Weaver and Signus, in some cases more then Valediction.
 
