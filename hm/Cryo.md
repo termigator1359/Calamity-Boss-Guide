@@ -1,4 +1,4 @@
-## Cryogen
+## [Cryogen](https://calamitymod.gamepedia.com/Cryogen)
 
 *"Magic of an ancient ice castle…"*
 
