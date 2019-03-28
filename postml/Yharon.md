@@ -10,11 +10,11 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Phangasm*](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion), [Minigun](https://calamitymod.gamepedia.com/Minigun). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow), [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
+    * **Ranged**: [*Phangasm*](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion) (requires [Wooden Arrows](https://terraria.gamepedia.com/Wooden_Arrow)), [Minigun](https://calamitymod.gamepedia.com/Minigun), [Anti-materiel Rifle](https://calamitymod.gamepedia.com/Anti-materiel_Rifle), [The Pack](https://calamitymod.gamepedia.com/The_Pack). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow), [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
     * **Melee**: [*Galaxia*](https://calamitymod.gamepedia.com/Galaxia), [Devil's Devastation](https://calamitymod.gamepedia.com/Devil%27s_Devastation).
 
-    * **Mage**: [*Magnetic Meltdown*](https://calamitymod.gamepedia.com/Magnetic_Meltdown), [*Light God's Brilliance*](https://calamitymod.gamepedia.com/Light_God%27s_Brilliance).
+    * **Mage**: [*Magnetic Meltdown*](https://calamitymod.gamepedia.com/Magnetic_Meltdown), [*Light God's Brilliance*](https://calamitymod.gamepedia.com/Light_God%27s_Brilliance), [Face Melter](https://calamitymod.gamepedia.com/Face_Melter).
 
     * **Summoner**: [*Staff of the Mechworm*](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm), [Calamari's Lament](https://calamitymod.gamepedia.com/Calamari%27s_Lament), [Ethereal Subjugator](https://calamitymod.gamepedia.com/Ethereal_Subjugator).
 
@@ -22,7 +22,7 @@
 
 * **General Accessories:**
 
-    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)+, [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [The Sponge](https://calamitymod.gamepedia.com/The_Sponge), [Rampart of Deities](https://calamitymod.gamepedia.com/Rampart_of_Deities), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact).
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)+, [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Draedon's Heart](https://calamitymod.gamepedia.com/Draedon%27s_Heart), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [The Sponge](https://calamitymod.gamepedia.com/The_Sponge), [Rampart of Deities](https://calamitymod.gamepedia.com/Rampart_of_Deities), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact).
 
 * **Class Specific Accessories:**
 
@@ -40,7 +40,7 @@
 
     * Build your arena on surface, going to space/underground enrages him. The better you get at knowing what he does in each phase, the more likely you are to survive. The general movement pattern consists of a large oval, try to put a platform kinda high up in your arena for refreshing your flight time. Try to spawn his infernadoes in opposite corners of the arena, something like top right, then bottom left. Don't be afraid of his true second phase, it’s not there yet. Also move in an oval shape to try and space out the infernadoes.
 
-* **Note:** If you are a summoner, fight this phase until you get the kindle staff, you'll have a way better time with p2 if you do.
+* **Note:** If you are a summoner, fight this phase until you get the Yharon's Kindle Staff, you'll have a way better time with p2 if you do.
 
 __Namess tH*E* Fat's Phase 1 Nohit__
 
@@ -64,9 +64,9 @@ __Namess tH*E* Fat's Phase 1 Nohit__
     
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Chicken Cannon*](https://calamitymod.gamepedia.com/Chicken_Cannon), [Phangasm](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion), [Chicken Cannon](https://calamitymod.gamepedia.com/Chicken_Cannon). [*Vanquisher Arrows*](https://calamitymod.gamepedia.com/Vanquisher_Arrow).
+    * **Ranged**: [*Chicken Cannon*](https://calamitymod.gamepedia.com/Chicken_Cannon), [*Onyxia*](https://calamitymod.gamepedia.com/Onyxia), [Phangasm](https://calamitymod.gamepedia.com/Phangasm), [Alluvion](https://calamitymod.gamepedia.com/Alluvion) (requires [Wooden Arrows](https://terraria.gamepedia.com/Wooden_Arrow)), [Chicken Cannon](https://calamitymod.gamepedia.com/Chicken_Cannon). [Vanquisher Arrows](https://calamitymod.gamepedia.com/Vanquisher_Arrow), [*Holy Fire Bullets*](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
-    * **Melee**: [Empyrean Knives](https://calamitymod.gamepedia.com/Empyrean_Knives), [*Scourge of the Cosmos*](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [*Greatsword of Blah*](https://calamitymod.gamepedia.com/Greatsword_of_Blah).
+    * **Melee**: [Empyrean Knives](https://calamitymod.gamepedia.com/Empyrean_Knives), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [*Greatsword of Blah*](https://calamitymod.gamepedia.com/Greatsword_of_Blah).
 
     * **Mage**: [*Voltaic Climax*](https://calamitymod.gamepedia.com/Voltaic_Climax), [*Alpha Ray*](https://calamitymod.gamepedia.com/Alpha_Ray), [*Light God's Brilliance*](https://calamitymod.gamepedia.com/Light_God%27s_Brilliance).
 
@@ -76,7 +76,7 @@ __Namess tH*E* Fat's Phase 1 Nohit__
 
 * **General Accessories:**
 
-    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)+, [Drew's Wings](https://calamitymod.gamepedia.com/Drew%27s_Wings), [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [The Sponge](https://calamitymod.gamepedia.com/The_Sponge), [Rampart of Deities](https://calamitymod.gamepedia.com/Rampart_of_Deities), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact), [Dark Sun Ring](https://calamitymod.gamepedia.com/Dark_Sun_Ring).
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)/[Drew's Wings](https://calamitymod.gamepedia.com/Drew%27s_Wings), [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Draedon's Heart](https://calamitymod.gamepedia.com/Draedon%27s_Heart), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [The Sponge](https://calamitymod.gamepedia.com/The_Sponge), [Rampart of Deities](https://calamitymod.gamepedia.com/Rampart_of_Deities), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact), [Dark Sun Ring](https://calamitymod.gamepedia.com/Dark_Sun_Ring).
 
 * **Class Specific Accessories:**
 
