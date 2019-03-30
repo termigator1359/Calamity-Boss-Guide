@@ -22,7 +22,7 @@
 
 * **General Accessories:**
 
-    * [Frostspark Boots](https://terraria.gamepedia.com/Frostspark_Boots), [Ankh Shield](https://terraria.gamepedia.com/Ankh_Shield), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [Ambrosial Ampoule](https://calamitymod.gamepedia.com/Ambrosial_Ampoule), [Counter Scarf](https://calamitymod.gamepedia.com/Counter_Scarf)/[Shield of Cthulhu](https://terraria.gamepedia.com/Shield_of_Cthulhu), [Siren's Heart](https://calamitymod.gamepedia.com/Siren's_Heart), [Laudanum](https://calamitymod.gamepedia.com/Laudanum)/[Stress Pills](https://calamitymod.gamepedia.com/Stress_Pills). [Soul of Cryogen+](https://calamitymod.gamepedia.com/Wings)/[MOAB](https://calamitymod.gamepedia.com/MOAB).
+    * [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads), [Ankh Shield](https://terraria.gamepedia.com/Ankh_Shield), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [Ambrosial Ampoule](https://calamitymod.gamepedia.com/Ambrosial_Ampoule), [Counter Scarf](https://calamitymod.gamepedia.com/Counter_Scarf)/[Shield of Cthulhu](https://terraria.gamepedia.com/Shield_of_Cthulhu), [Siren's Heart](https://calamitymod.gamepedia.com/Siren's_Heart), [Laudanum](https://calamitymod.gamepedia.com/Laudanum)/[Stress Pills](https://calamitymod.gamepedia.com/Stress_Pills). [Soul of Cryogen+](https://calamitymod.gamepedia.com/Wings)/[MOAB](https://calamitymod.gamepedia.com/MOAB).
 
 * **Class Specific Accessories:**
 
