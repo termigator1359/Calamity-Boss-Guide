@@ -6,15 +6,23 @@
 
 * **Armor Sets:**
 
-    * **Any class**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor), [Nebula](https://terraria.gamepedia.com/Nebula_armor), [Stardust](https://terraria.gamepedia.com/Stardust_armor), [Vortex](https://terraria.gamepedia.com/Vortex_armor), [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor).
+    * **Ranged**: [Vortex](https://terraria.gamepedia.com/Vortex_armor).
+
+    * **Melee**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor).
+
+    * **Mage**: [Nebula](https://terraria.gamepedia.com/Nebula_armor).
+
+    * **Summoner**: [Stardust](https://terraria.gamepedia.com/Stardust_armor).
+
+    * **Rogue**: [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Onyx Chain Blaster*](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [Monsoon](https://calamitymod.gamepedia.com/Monsoon), [Clockwork Bow](https://calamitymod.gamepedia.com/Clockwork_Bow), [Shredder](https://calamitymod.gamepedia.com/Shredder), [Elemental Blaster](https://calamitymod.gamepedia.com/Elemental_Blaster), [Starfleet](https://calamitymod.gamepedia.com/Starfleet). [Holy Fire](https://calamitymod.gamepedia.com/Holy_Fire_Bullet) / [Hyperius Ammo](https://calamitymod.gamepedia.com/Hyperius_Bullet).
+    * **Ranged**: [*Onyx Chain Blaster*](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [*Golden Eagle*](https://calamitymod.gamepedia.com/Golden_Eagle), [Monsoon](https://calamitymod.gamepedia.com/Monsoon) (with [Wooden Arrows](https://terraria.gamepedia.com/Wooden_Arrow)), [Clockwork Bow](https://calamitymod.gamepedia.com/Clockwork_Bow), [Shredder](https://calamitymod.gamepedia.com/Shredder), [Elemental Blaster](https://calamitymod.gamepedia.com/Elemental_Blaster), [Starfleet](https://calamitymod.gamepedia.com/Starfleet). [Holy Fire](https://calamitymod.gamepedia.com/Holy_Fire_Bullet), [Luminite Arrows](https://terraria.gamepedia.com/Luminite_Arrow).
 
     * **Melee**: [*Omega Biome Blade*](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Elemental Shiv](https://calamitymod.gamepedia.com/Elemental_Shiv), [*Plague Keeper*](https://calamitymod.gamepedia.com/Plague_Keeper) (If using [Plague Hive](https://calamitymod.gamepedia.com/Plague_Hive)), [Ark of the Elements](https://calamitymod.gamepedia.com/Ark_of_the_Elements), [*Galactus Blade*](https://calamitymod.gamepedia.com/Galactus_Blade).
 
-    * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Nano Purge](https://calamitymod.gamepedia.com/Nano_Purge), [*Genisis*](https://calamitymod.gamepedia.com/Genisis), [Effervescence](https://calamitymod.gamepedia.com/Effervescence), [Last Prism](https://terraria.gamepedia.com/Last_Prism).
+    * **Mage**: [*Rouge Slash*](https://calamitymod.gamepedia.com/Rouge_Slash), [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Nano Purge](https://calamitymod.gamepedia.com/Nano_Purge), [*Genisis*](https://calamitymod.gamepedia.com/Genisis), [Effervescence](https://calamitymod.gamepedia.com/Effervescence), [Last Prism](https://terraria.gamepedia.com/Last_Prism).
 
     * **Summoner**: [Elemental Axe](https://calamitymod.gamepedia.com/Elemental_Axe), [Energy Staff](https://calamitymod.gamepedia.com/Energy_Staff).
 
@@ -42,7 +50,7 @@
     
     * When the crystal is active if you need to go up - better do it slowly, because otherwise you're risking hitting crystal shards.
     
-    * Keep RoD close when she's below 50%, laser can be a bitch to deal with.
+    * Keep RoD close when she's below 50%, laser can be a pain to deal with.
     
 **Amber's Revengeance Summoner Rodless Nohit**
 
@@ -65,15 +73,5 @@
 <div align="center">
     <iframe width="620" height="315"
         src="https://www.youtube.com/embed/YIUTvvQBc14" frameborder="0" allowfullscreen>
-    </iframe>
-</div>
-
-**Amber's Death-Defiled Summoner Rodless Nohit V.2 Shroom Boogaloo**
-
-Note: *Do not watch this if you are sensitive to significant amounts of projectiles/flashing colours.*
-
-<div align="center">
-    <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/nzUs9HQPFww" frameborder="0" allowfullscreen>
     </iframe>
 </div>
