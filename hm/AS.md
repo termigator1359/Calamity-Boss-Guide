@@ -8,9 +8,11 @@
 
     * **Any class**: [Titanium](https://terraria.gamepedia.com/Titanium_armor), [Mollusk](https://calamitymod.gamepedia.com/Mollusk_armor), [Daedalus](https://calamitymod.gamepedia.com/Daedalus_armor).
 
+    * **Summoner**: [Spider](https://terraria.gamepedia.com/Spider_armor)
+    
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Daedalus Stormbow*](https://terraria.gamepedia.com/Daedalus_Stormbow), [*Eternal Blizzard*](https://calamitymod.gamepedia.com/Eternal_Blizzard), [Chlorophyte Shotbow](https://terraria.gamepedia.com/Chlorophyte_Shotbow), [Flarewing Bow](https://calamitymod.gamepedia.com/Flarewing_Bow), [Uzi](https://terraria.gamepedia.com/Uzi), [Megashark](https://calamitymod.gamepedia.com/Megashark), [Archerfish](https://terraria.gamepedia.com/Archerfish), [*Jester's*](https://terraria.gamepedia.com/Jester%27s_Arrow)/[Holy Arrows](https://terraria.gamepedia.com/Holy_Arrow), [Chlorophyte](https://terraria.gamepedia.com/Chlorophyte_Bullet)/[Crystal Bullets](https://terraria.gamepedia.com/Crystal_Bullet).
+    * **Ranged**: [*Daedalus Stormbow*](https://terraria.gamepedia.com/Daedalus_Stormbow), [*Eternal Blizzard*](https://calamitymod.gamepedia.com/Eternal_Blizzard), [Chlorophyte Shotbow](https://terraria.gamepedia.com/Chlorophyte_Shotbow), [Flarewing Bow](https://calamitymod.gamepedia.com/Flarewing_Bow), [Uzi](https://terraria.gamepedia.com/Uzi), [Megashark](https://terraria.gamepedia.com/Megashark), [Archerfish](https://calamitymod.gamepedia.com/Archerfish), [*Jester's*](https://terraria.gamepedia.com/Jester%27s_Arrow)/[Holy Arrows](https://terraria.gamepedia.com/Holy_Arrow), [Chlorophyte](https://terraria.gamepedia.com/Chlorophyte_Bullet)/[Crystal Bullets](https://terraria.gamepedia.com/Crystal_Bullet).
 
     * **Melee**: [*Icebreaker*](https://calamitymod.gamepedia.com/Icebreaker), [Trinity](https://calamitymod.gamepedia.com/Trinity), [Forbidden Oathblade](https://calamitymod.gamepedia.com/Forbidden_Oathblade), [Dao of Pow](https://terraria.gamepedia.com/Dao_of_Pow).
 
@@ -18,7 +20,7 @@
 
     * **Summoner**: [Ancient Ice Chunk](https://calamitymod.gamepedia.com/Ancient_Ice_Chunk), [Optic Staff](https://terraria.gamepedia.com/Optic_Staff).
 
-    * **Rogue**: [*Crystal Piercer*](https://calamitymod.gamepedia.com/Crystal_Piercer), [Frosty Flare](https://calamitymod.gamepedia.com/Frosty_Flare), [Ice Star](https://calamitymod.gamepedia.com/Ice_Star), [Brimblade](https://calamitymod.gamepedia.com/Brimblade), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith).
+    * **Rogue**: [*Crystal Piercers*](https://calamitymod.gamepedia.com/Crystal_Piercer), [Frosty Flares](https://calamitymod.gamepedia.com/Frosty_Flare), [Ice Stars](https://calamitymod.gamepedia.com/Ice_Star), [Brimblade](https://calamitymod.gamepedia.com/Brimblade), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith).
 
 * **General Accessories:**
 
