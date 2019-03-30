@@ -1,4 +1,4 @@
-## Aquatic Scourge
+## [Aquatic Scourge](https://calamitymod.gamepedia.com/Aquatic_Scourge)
 
 *"The sulphuric sand stirs…"*
 
@@ -6,35 +6,35 @@
 
 * **Armor Sets:**
 
-    * **Any class**: Titanium, Daedalus, Frost.
+    * **Any class**: [Titanium](https://terraria.gamepedia.com/Titanium_armor), [Mollusk](https://calamitymod.gamepedia.com/Mollusk_armor), [Daedalus](https://calamitymod.gamepedia.com/Daedalus_armor).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Archerfish, Megashark, Flarewing Bow. Ichor/Verium Ammo.
+    * **Ranged**: [*Daedalus Stormbow*](https://terraria.gamepedia.com/Daedalus_Stormbow), [*Eternal Blizzard*](https://calamitymod.gamepedia.com/Eternal_Blizzard), [Chlorophyte Shotbow](https://terraria.gamepedia.com/Chlorophyte_Shotbow), [Flarewing Bow](https://calamitymod.gamepedia.com/Flarewing_Bow), [Uzi](https://terraria.gamepedia.com/Uzi), [Megashark](https://calamitymod.gamepedia.com/Megashark), [Archerfish](https://terraria.gamepedia.com/Archerfish), [*Jester's*](https://terraria.gamepedia.com/Jester%27s_Arrow)/[Holy Arrows](https://terraria.gamepedia.com/Holy_Arrow), [Chlorophyte](https://terraria.gamepedia.com/Chlorophyte_Bullet)/[Crystal Bullets](https://terraria.gamepedia.com/Crystal_Bullet).
 
-    * **Melee**: Trinity, *Icebreaker*, Forbidden Oathblade, Dao of Pow.
+    * **Melee**: [*Icebreaker*](https://calamitymod.gamepedia.com/Icebreaker), [Trinity](https://calamitymod.gamepedia.com/Trinity), [Forbidden Oathblade](https://calamitymod.gamepedia.com/Forbidden_Oathblade), [Dao of Pow](https://terraria.gamepedia.com/Dao_of_Pow).
 
-    * **Mage**: Golden Shower, Meteor Staff, *Death Valley Duster*, Gleaming Magnolia, SHPC, Magical Harp, Relic of Ruin.
+    * **Mage**: [*Serpentine*](https://calamitymod.gamepedia.com/Serpentine), [Poseidon](https://calamitymod.gamepedia.com/Poseidon), [Meteor Staff](https://terraria.gamepedia.com/Meteor_Staff), [*Death Valley Duster*](https://calamitymod.gamepedia.com/Death_Valley_Duster), [*SHPC*](https://calamitymod.gamepedia.com/SHPC), [Infernal Rift](https://calamitymod.gamepedia.com/Infernal_Rift), [Magical Harp](https://terraria.gamepedia.com/Magical_Harp).
 
-    * **Summoner**: Ancient Ice Chunk, Optic Staff.
+    * **Summoner**: [Ancient Ice Chunk](https://calamitymod.gamepedia.com/Ancient_Ice_Chunk), [Optic Staff](https://terraria.gamepedia.com/Optic_Staff).
 
-    * **Throwing**: Brimblade, Ice Star.
+    * **Rogue**: [*Crystal Piercer*](https://calamitymod.gamepedia.com/Crystal_Piercer), [Frosty Flare](https://calamitymod.gamepedia.com/Frosty_Flare), [Ice Star](https://calamitymod.gamepedia.com/Ice_Star), [Brimblade](https://calamitymod.gamepedia.com/Brimblade), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith).
 
 * **General Accessories:**
 
-    * Frostspark Boots, Ankh Shield, Honey Dew, Deific Amulet, MOAB, Counter Scarf, Laudanum, Siren's Heart
+    * [Frostspark Boots](https://terraria.gamepedia.com/Frostspark_Boots), [Ankh Shield](https://terraria.gamepedia.com/Ankh_Shield), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [Ambrosial Ampoule](https://calamitymod.gamepedia.com/Ambrosial_Ampoule), [Counter Scarf](https://calamitymod.gamepedia.com/Counter_Scarf)/[Shield of Cthulhu](https://terraria.gamepedia.com/Shield_of_Cthulhu), [Siren's Heart](https://calamitymod.gamepedia.com/Siren's_Heart), [Laudanum](https://calamitymod.gamepedia.com/Laudanum)/[Stress Pills](https://calamitymod.gamepedia.com/Stress_Pills). [Soul of Cryogen+](https://calamitymod.gamepedia.com/Wings)/[MOAB](https://calamitymod.gamepedia.com/MOAB).
 
 * **Class Specific Accessories:**
 
-    * **Ranger**: Ranger Emblem, Magic Quiver.
+    * **Ranged**: [Ranger Emblem](https://terraria.gamepedia.com/Ranger_Emblem), [Magic Quiver](https://terraria.gamepedia.com/Magic_Quiver).
 
-    * **Melee**: Warrior Emblem, Bloody Worm Scarf.
+    * **Melee**: [Mechanical Glove](https://terraria.gamepedia.com/Mechanical_Glove), [Bloody Worm Scarf](https://calamitymod.gamepedia.com/Bloody_Worm_Scarf).
 
-    * **Mage**: Sorcerer Emblem, Mana Flower (optional)
+    * **Mage**: [Celestial Emblem](https://terraria.gamepedia.com/Celestial_Emblem), [Mana Flower](https://terraria.gamepedia.com/Mana_Flower) (optional).
 
-    * **Summoner**: Summoner Emblem,Spirit Generator (optional), Papyrus Scarab.
+    * **Summoner**: [Summoner Emblem](https://terraria.gamepedia.com/Summoner_Emblem), [Papyrus Scarab](https://terraria.gamepedia.com/Papyrus_Scarab), [Spirit Glyph](https://calamitymod.gamepedia.com/Spirit_Glyph) (optional).
 
-    * **Throwing**: Raider's Talisman.
+    * **Rogue**: [Rogue Emblem](https://calamitymod.gamepedia.com/Rogue_Emblem), [Raider's Talisman](https://calamitymod.gamepedia.com/Raider%27s_Talisman).
 
 * **Strategy:**
 
