@@ -1,4 +1,4 @@
-## Brimstone Elemental
+## [Brimstone Elemental](https://calamitymod.gamepedia.com/Brimstone_Elemental)
 
 *"A fallen deity resides in the depths of hell..."*
 
