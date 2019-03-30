@@ -1,4 +1,4 @@
-## Ceaseless Void
+## [Ceaseless Void](https://calamitymod.gamepedia.com/Ceaseless_Void)
 
 * "A deadly rift formed, in which the concept of reality itself faltered…"*
 
@@ -6,23 +6,33 @@
 
 * **Armor Sets**:
 
-    * **Any class**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor), [Nebula](https://terraria.gamepedia.com/Nebula_armor), [Stardust](https://terraria.gamepedia.com/Stardust_armor), [Vortex](https://terraria.gamepedia.com/Vortex_armor), [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor), [Tarragon](https://calamitymod.gamepedia.com/Tarragon_armor).
+    * **Any class**: [Tarragon](https://calamitymod.gamepedia.com/Tarragon_armor).
+
+    * **Ranged**: [Vortex](https://terraria.gamepedia.com/Vortex_armor).
+
+    * **Melee**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor).
+
+    * **Mage**: [Nebula](https://terraria.gamepedia.com/Nebula_armor).
+
+    * **Summoner**: [Stardust](https://terraria.gamepedia.com/Stardust_armor).
+
+    * **Rogue**: [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier), [Telluric Glare](https://calamitymod.gamepedia.com/Telluric_Glare), [Shredder](https://calamitymod.gamepedia.com/Shredder). [Hyperius Bullets](https://calamitymod.gamepedia.com/Hyperius_Bullet), [Holy Fire Ammo](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
+    * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier), [Telluric Glare](https://calamitymod.gamepedia.com/Telluric_Glare), [Storm Dragoon](https://calamitymod.gamepedia.com/Storm_Dragoon), [The Storm](https://calamitymod.gamepedia.com/The_Storm), [Arterial Assault](https://calamitymod.gamepedia.com/Arterial_Assault). [Luminite Arrows](https://terraria.gamepedia.com/Luminite_Arrow), [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
-    * **Melee**: [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker), [Holy Collider](https://calamitymod.gamepedia.com/Holy_Collider), [Elemental Shiv](https://calamitymod.gamepedia.com/Elemental_Shiv), [The Mutilator](https://calamitymod.gamepedia.com/The_Mutilator), [Elemental Lance](https://calamitymod.gamepedia.com/Elemental_Lance), [Lacerator](https://calamitymod.gamepedia.com/Lacerator).
+    * **Melee**: [Galactus Blade](https://calamitymod.gamepedia.com/Galactus_Blade), [Holy Collider](https://calamitymod.gamepedia.com/Holy_Collider), [Elemental Shiv](https://calamitymod.gamepedia.com/Elemental_Shiv), [The Mutilator](https://calamitymod.gamepedia.com/The_Mutilator), [Elemental Lance](https://calamitymod.gamepedia.com/Elemental_Lance), [Lacerator](https://calamitymod.gamepedia.com/Lacerator).
 
-    * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Nuclear Fury](https://calamitymod.gamepedia.com/Nuclear_Fury), [Purge Guzzler](https://calamitymod.gamepedia.com/Purge_Guzzler), [Genisis](https://calamitymod.gamepedia.com/Genisis).
+    * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Nuclear Fury](https://calamitymod.gamepedia.com/Nuclear_Fury), [Purge Guzzler](https://calamitymod.gamepedia.com/Purge_Guzzler), [Genisis](https://calamitymod.gamepedia.com/Genisis), [Last Prism](https://terraria.gamepedia.com/Last_Prism).
 
-    * **Summoner**: [Elemental Axe](https://calamitymod.gamepedia.com/Elemental_Axe), [Energy Staff](https://calamitymod.gamepedia.com/Energy_Staff).
+    * **Summoner**: [*Elemental Axe*](https://calamitymod.gamepedia.com/Elemental_Axe), [Energy Staff](https://calamitymod.gamepedia.com/Energy_Staff).
 
-    * **Rogue**: [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk), [Molten Amputator](https://calamitymod.gamepedia.com/Molten_Amputator).
+    * **Rogue**: [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk), [Molten Amputator](https://calamitymod.gamepedia.com/Molten_Amputator), [Shattered Sun](https://calamitymod.gamepedia.com/Shattered_Sun).
 
 * **General Accessories:**
 
-    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers), [Tarragon Wings](https://calamitymod.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Elysian Aegis](https://calamitymod.gamepedia.com/Elysian_Aegis), [Bloodflare Core](https://calamitymod.gamepedia.com/Bloodflare_Core), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [The Absorber](https://calamitymod.gamepedia.com/The_Absorber).
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers) / [Tarragon Wings](https://calamitymod.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Elysian Aegis](https://calamitymod.gamepedia.com/Elysian_Aegis), [Bloodflare Core](https://calamitymod.gamepedia.com/Bloodflare_Core), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [The Absorber](https://calamitymod.gamepedia.com/The_Absorber).
 
 * **Class Specific Accessories:**
 
