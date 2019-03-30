@@ -20,7 +20,7 @@
 
     * **Summoner**: [Ancient Ice Chunk](https://calamitymod.gamepedia.com/Ancient_Ice_Chunk), [Optic Staff](https://terraria.gamepedia.com/Optic_Staff).
 
-    * **Rogue**: [*Prismalline*](https://calamitymod.gamepedia.com/Prismalline), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith).
+    * **Rogue**: [*Prismalline*](https://calamitymod.gamepedia.com/Prismalline), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith), [Frosty Flare](https://calamitymod.gamepedia.com/Frosty_Flare).
 
 * **General Accessories:**
 
