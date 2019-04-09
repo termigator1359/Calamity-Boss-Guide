@@ -14,13 +14,13 @@
 
     * **Ranged**: [Megashark](https://terraria.gamepedia.com/Megashark), [*Flarewing Bow*](https://calamitymod.gamepedia.com/Flarewing_Bow), [Butcher](https://calamitymod.gamepedia.com/Butcher_(Weapon)), [Effluvium Bow](https://calamitymod.gamepedia.com/Effluvium_Bow), [Eternal Blizzard](https://calamitymod.gamepedia.com/Eternal_Blizzard), [Slag Magnum](https://calamitymod.gamepedia.com/Slag_Magnum), [Ichor](https://terraria.gamepedia.com/Ichor_Arrow)/[Holy](https://terraria.gamepedia.com/Holy_Arrow)/[Icicle Arrows](https://calamitymod.gamepedia.com/Icicle_Arrow), [Ichor](https://terraria.gamepedia.com/Ichor_Bullet)/[Crystal Bullets](https://terraria.gamepedia.com/Crystal_Bullet).
 
-    * **Melee**: [Darklight Greatsword](https://calamitymod.gamepedia.com/Darklight_Greatsword), [Trinity](https://calamitymod.gamepedia.com/Trinity), [Absolute Zero](https://calamitymod.gamepedia.com/Absolute_Zero), [Glacial Crusher](https://calamitymod.gamepedia.com/Glacial Crusher), [Yelets](https://terraria.gamepedia.com/Yelets), [Icebreaker](https://calamitymod.gamepedia.com/Icebreaker).
+    * **Melee**: [Darklight Greatsword](https://calamitymod.gamepedia.com/Darklight_Greatsword), [Trinity](https://calamitymod.gamepedia.com/Trinity), [Absolute Zero](https://calamitymod.gamepedia.com/Absolute_Zero), [Glacial Crusher](https://calamitymod.gamepedia.com/Glacial Crusher), [Yelets](https://terraria.gamepedia.com/Yelets).
 
     * **Mage**: [Serpentine](https://calamitymod.gamepedia.com/Serpentine), [Poseidon](https://calamitymod.gamepedia.com/Poseidon), [Golden Shower](https://terraria.gamepedia.com/Golden_Shower), [Shadecrystal Barrage](https://calamtiymod.gamepedia.com/Crystal_Storm), [Crystal Serpent](https://terraria.gamepedia.com/Crystal_Serpent), [Sky Fracture](https://terraria.gamepedia.com/Sky_Fracture), [Gleaming Magnolia](https://calamitymod.gamepedia.com/Gleaming Magnolia), [SHPC](https://calamitymod.gamepedia.com/SHPC), [Winter's Fury](https://calamitymod.gamepedia.com/Winter%27s_Fury).
 
     * **Summoner**: [Ancient Ice Chunk](https://calamitymod.gamepedia.com/Ancient_Ice_Chunk), [Cryogenic Staff](https://calamitymod.gamepedia.com/Cryogenic_Staff).
 
-    * **Rogue**: [Prismalline](https://calamitymod.gamepedia.com/Prismalline), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith), [*Frosty Flare*](https://calamitymod.gamepedia.com/Frosty_Flare).
+    * **Rogue**: [Prismalline](https://calamitymod.gamepedia.com/Prismalline), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith), [*Frosty Flare*](https://calamitymod.gamepedia.com/Frosty_Flare), [Icebreaker](https://calamitymod.gamepedia.com/Icebreaker).
 
 * **General Accessories:**
 
