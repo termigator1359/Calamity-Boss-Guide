@@ -12,17 +12,6 @@
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: Megashark, *Clockwork Assault Rifle*, Flarewing Bow, Effluvium Bow, Butcher. Ichor Ammo.
-
-    * **Melee**: Darklight Greatsword, Icebreaker, Forbidden Oathblade.
-
-    * **Mage**: Golden Shower, Shadecrystal Barrage, Gleaming Magnolia, Relic of Ruin, SHPC.
-
-    * **Summoner**: Ancient Ice Chunk.
-
-    * **Throwing**: Ice Star, Spear of Paleolith, Ichor Spear.
-
-    * **Support Weapons**: Slag Magnum, Golden Shower.
     * **Ranged**: [Megashark](https://terraria.gamepedia.com/Megashark), [*Flarewing Bow*](https://calamitymod.gamepedia.com/Flarewing_Bow), [Butcher](https://calamitymod.gamepedia.com/Butcher_(Weapon)), [Effluvium Bow](https://calamitymod.gamepedia.com/Effluvium_Bow), [Eternal Blizzard](https://calamitymod.gamepedia.com/Eternal_Blizzard), [Slag Magnum](https://calamitymod.gamepedia.com/Slag_Magnum), [Ichor](https://terraria.gamepedia.com/Ichor_Arrow)/[Holy](https://terraria.gamepedia.com/Holy_Arrow)/[Icicle Arrows](https://calamitymod.gamepedia.com/Icicle_Arrow), [Ichor](https://terraria.gamepedia.com/Ichor_Bullet)/[Crystal Bullets](https://terraria.gamepedia.com/Crystal_Bullet).
 
     * **Melee**: [Darklight Greatsword](https://calamitymod.gamepedia.com/Darklight_Greatsword), [Trinity](https://calamitymod.gamepedia.com/Trinity), [Absolute Zero](https://calamitymod.gamepedia.com/Absolute_Zero), [Glacial Crusher](https://calamitymod.gamepedia.com/Glacial Crusher), [Yelets](https://terraria.gamepedia.com/Yelets), [Icebreaker](https://calamitymod.gamepedia.com/Icebreaker).
