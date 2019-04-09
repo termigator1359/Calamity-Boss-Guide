@@ -20,7 +20,7 @@
 
     * **Summoner**: [Ancient Ice Chunk](https://calamitymod.gamepedia.com/Ancient_Ice_Chunk), [Optic Staff](https://terraria.gamepedia.com/Optic_Staff), [Deepsea Staff](https://calamitymod.gamepedia.com/Deepsea_Staff), [Cryogenic Staff](https://calamitymod.gamepedia.com/Cryogenic_Staff), [Ballista Cane](https://terraria.gamepedia.com/Ballista_sentry_summons).
 
-    * **Rogue**: [Prismalline](https://calamitymod.gamepedia.com/Prismalline), [Frosty Flares](https://calamitymod.gamepedia.com/Frosty_Flare), [Pwnagehammer](https://calamitymod.gamepedia.com/Pwnagehammer), [*Brimblade*](https://calamitymod.gamepedia.com/Brimblade), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith).
+    * **Rogue**: [Prismalline](https://calamitymod.gamepedia.com/Prismalline), [Frosty Flares](https://calamitymod.gamepedia.com/Frosty_Flare), [Pwnagehammer](https://calamitymod.gamepedia.com/Pwnagehammer), [*Brimblade*](https://calamitymod.gamepedia.com/Brimblade), [Spear of Paleolith](https://calamitymod.gamepedia.com/Spear_of_Paleolith), [Icebreaker](https://calamitymod.gamepedia.com/Icebreaker).
 
 * **General Accessories:**
 
