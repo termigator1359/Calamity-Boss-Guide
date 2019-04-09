@@ -12,17 +12,17 @@
 
     * **Ranged**: [Heavenly Gale](https://calamitymod.gamepedia.com/Heavenly_Gale), [Drataliornus](https://calamitymod.gamepedia.com/Drataliornus), [*Photoviscerator*](https://calamitymod.gamepedia.com/Photoviscerator), [Bloodfire Arrows](https://calamitymod.gamepedia.com/Bloodfire_Arrow).
 
-    * **Melee**: [Ark of the Cosmos](https://calamitymod.gamepedia.com/Ark_of_the_Cosmos), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos), [*Exoblade*](https://calamitymod.gamepedia.com/Exoblade).
+    * **Melee**: [Ark of the Cosmos](https://calamitymod.gamepedia.com/Ark_of_the_Cosmos), [Ataraxia](https://calamitymod.gamepedia.com/Ataraxia), [*Exoblade*](https://calamitymod.gamepedia.com/Exoblade), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos).
 
-    * **Mage**: [*Subsuming Vortex*](https://calamitymod.gamepedia.com/Subsuming_Vortex), [*Vivid Clarity*](https://calamitymod.gamepedia.com/Vivid_Clarity), [Voltaic Climax](https://calamitymod.gamepedia.com/Voltaic_Climax), [Yharim's Crystal](https://calamitymod.gamepedia.com/Yharim%27s_Crystal).
+    * **Mage**: [*Subsuming Vortex*](https://calamitymod.gamepedia.com/Subsuming_Vortex), [*Vivid Clarity*](https://calamitymod.gamepedia.com/Vivid_Clarity), [Yharim's Crystal](https://calamitymod.gamepedia.com/Yharim%27s_Crystal).
 
     * **Summoner**: [Yharon's Kindle Staff](https://calamitymod.gamepedia.com/Yharon%27s_Kindle_Staff), [*Cosmic Immaterializer*](https://calamitymod.gamepedia.com/Cosmic_Immaterializer), [*Staff of the Mechworm*](https://calamitymod.gamepedia.com/Staff_of_the_Mechworm).
     
-    * **Rogue**: [Celestus](https://calamitymod.gamepedia.com/Celestus), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos)
+    * **Rogue**: [Celestus](https://calamitymod.gamepedia.com/Celestus), [Scourge of the Cosmos](https://calamitymod.gamepedia.com/Scourge_of_the_Cosmos).
 
 * **General Accessories:**
 
-    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)+, [Drew's Wings](https://calamitymod.gamepedia.com/Wings), [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Affliction](https://calamitymod.gamepedia.com/Affliction) (?), [Dark Sun Ring](https://calamitymod.gamepedia.com/Dark_Sun_Ring), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact), [Astral Arcanum](https://calamitymod.gamepedia.com/Astral_Arcanum).
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers)+ / [Drew's Wings](https://calamitymod.gamepedia.com/Wings), [Asgardian Aegis](https://calamitymod.gamepedia.com/Asgardian_Aegis), [Core of the Blood God](https://calamitymod.gamepedia.com/Core_of_the_Blood_God), [The Community](https://calamitymod.gamepedia.com/The_Community), [Affliction](https://calamitymod.gamepedia.com/Affliction), [Dark Sun Ring](https://calamitymod.gamepedia.com/Dark_Sun_Ring), [Dimensional Soul Artifact](https://calamitymod.gamepedia.com/Dimensional_Soul_Artifact), [Reaper Tooth Necklace](https://calamitymod.gamepedia.com/Reaper_Tooth_Necklace), [Astral Arcanum](https://calamitymod.gamepedia.com/Astral_Arcanum).
 
 * **Class Specific Accessories:**
 
@@ -77,7 +77,7 @@ Optimal setups are the following:
   
        * Celestus will be your main damage weapon.
 
-       * Scourge of the Cosmos (Rogue): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the Brimstone Hearts and make the 1st Sepulcher phase go by very quickly. Do this on every bullet hell.
+       * Scourge of the Cosmos (Rogue): like Melee, use this one during the first bullet hell, then switch to Celestus when Sepulcher spawns. The eaters from this weapon will help kill the Brimstone Hearts and make the 1st Sepulcher phase go by very quickly. Do this on every bullet hell except the final bullet hell.
 
     
 
