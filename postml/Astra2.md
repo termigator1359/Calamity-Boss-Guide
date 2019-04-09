@@ -6,15 +6,23 @@
 
 * **Armor Sets:**
 
-    * **Any class**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor), [Nebula](https://terraria.gamepedia.com/Nebula_armor), [Stardust](https://terraria.gamepedia.com/Stardust_armor), [Vortex](https://terraria.gamepedia.com/Vortex_armor), [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor).
+    * **Ranged**: [Vortex](https://terraria.gamepedia.com/Vortex_armor).
+
+    * **Melee**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor).
+
+    * **Mage**: [Nebula](https://terraria.gamepedia.com/Nebula_armor).
+
+    * **Summoner**: [Stardust](https://terraria.gamepedia.com/Stardust_armor).
+
+    * **Rogue**: [Xeroc](https://calamitymod.gamepedia.com/Xeroc_armor).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [*Onyx Chain Blaster*](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [Astreal Defeat](https://calamitymod.gamepedia.com/Astreal_Defeat), [Shredder](https://calamitymod.gamepedia.com/Shredder). [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet) / [Terra Ammo](https://calamitymod.gamepedia.com/Terra_Arrow).
+    * **Ranged**: [*Onyx Chain Blaster*](https://calamitymod.gamepedia.com/Onyx_Chain_Blaster), [Astreal Defeat](https://calamitymod.gamepedia.com/Astreal_Defeat), [Shredder](https://calamitymod.gamepedia.com/Shredder). [Holy Fire Bullets](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
     * **Melee**: [*Omega Biome Blade*](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Elemental Shiv](https://calamitymod.gamepedia.com/Elemental_Shiv), [*Plague Keeper*](https://calamitymod.gamepedia.com/Plague_Keeper) (If using [Plague Hive](https://calamitymod.gamepedia.com/Plague_Hive)), [Ark of the Elements](https://calamitymod.gamepedia.com/Ark_of_the_Elements), [*Galactus Blade*](https://calamitymod.gamepedia.com/Galactus_Blade).
 
-    * **Mage**: [Genisis](https://calamitymod.gamepedia.com/Genisis), [Nuclear Fury](https://calamitymod.gamepedia.com/Nuclear_Fury), [Arch Amaryllis](https://calamitymod.gamepedia.com/Arch_Amaryllis).
+    * **Mage**: [Genisis](https://calamitymod.gamepedia.com/Genisis), [Nuclear Fury](https://calamitymod.gamepedia.com/Nuclear_Fury).
 
     * **Summoner**: [Elemental Axe](https://calamitymod.gamepedia.com/Elemental_Axe), [Energy Staff](https://calamitymod.gamepedia.com/Energy_Staff).
 
@@ -22,7 +30,7 @@
 
 * **General Accessories:**
 
-    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers), [Lunar Wings](https://terraria.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Asgard's Valor](https://calamitymod.gamepedia.com/Asgard%27s_Valor), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [The Absorber](https://calamitymod.gamepedia.com/The_Absorber).
+    * [Seraph Tracers](https://calamitymod.gamepedia.com/Seraph_Tracers) / [Lunar Wings](https://terraria.gamepedia.com/Wings) (with [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads)), [Tabi](https://terraria.gamepedia.com/Tabi)+ / [Asgard's Valor](https://calamitymod.gamepedia.com/Asgard%27s_Valor), [The Community](https://calamitymod.gamepedia.com/The_Community), [Void of Extinction](https://calamitymod.gamepedia.com/Void_of_Extinction), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [The Absorber](https://calamitymod.gamepedia.com/The_Absorber).
 
 * **Class Specific Accessories:**
 
@@ -38,6 +46,4 @@
 
 * **Strategy:**
 
-    * The same shit you did when he wasn't buffed, except a fireball will now demolish your face completely.
-    
-    * Use armageddon, if you're going to die in one hit regardless, you might as well get the extra treasure bags for your efforts.
+    * The same strategy you did when he wasn't buffed, except a fireball will now punish you on hit far more.
