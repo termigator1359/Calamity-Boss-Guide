@@ -54,7 +54,7 @@ __Namess tH*E* Fat's Phase 1 Nohit__
 
 ## Jungle Dragon, Yharon (Rematch)
 
-*"The dark sun awaits."*
+*"The air is getting warmer around you."*
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_80.png)
 
