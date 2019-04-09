@@ -8,13 +8,17 @@
 
 * **Armor Sets**:
 
-    * **Any class**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor), [Nebula](https://terraria.gamepedia.com/Nebula_armor), [Tarragon](https://calamitymod.gamepedia.com/Tarragon_armor).
+    * **Any class**: [Tarragon](https://calamitymod.gamepedia.com/Tarragon_armor).
+
+    * **Melee**: [Solar Flare](https://terraria.gamepedia.com/Solar_Flare_armor).
+
+    * **Mage**: [Nebula](https://terraria.gamepedia.com/Nebula_armor).
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier). [Holy Fire Ammo](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
+    * **Ranged**: [Seadragon](https://calamitymod.gamepedia.com/Seadragon), [Storm_Dragoon](https://calamitymod.gamepedia.com/Storm_Dragoon), [Blissful Bombardier](https://calamitymod.gamepedia.com/Blissful_Bombardier). [Holy Fire Ammo](https://calamitymod.gamepedia.com/Holy_Fire_Bullet).
 
-    * **Melee**: [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker), [Omega Biome Blade](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Solar Flare](https://calamitymod.gamepedia.com/Solar_Flare), [Galactus Blade](https://calamitymod.gamepedia.com/Galactus_Blade), [Elemental Disk](https://calamitymod.gamepedia.com/Elemental_Disk).
+    * **Melee**: [Stellar Striker](https://calamitymod.gamepedia.com/Stellar_Striker), [Omega Biome Blade](https://calamitymod.gamepedia.com/Omega_Biome_Blade), [Solar Flare](https://calamitymod.gamepedia.com/Solar_Flare), [Lacerator](https://calamitymod.gamepedia.com/Lacerator), [Galactus Blade](https://calamitymod.gamepedia.com/Galactus_Blade).
 
     * **Mage**: [Elemental Ray](https://calamitymod.gamepedia.com/Elemental_Ray), [Mistlestorm](https://calamitymod.gamepedia.com/Mistlestorm), [Sanguine Flare](https://calamitymod.gamepedia.com/Sanguine_Flare), [Viscera](https://calamitymod.gamepedia.com/Viscera).
 
