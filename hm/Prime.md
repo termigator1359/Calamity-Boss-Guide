@@ -16,7 +16,7 @@
 
     * **Melee**: [*Darklight Greatsword*](https://calamitymod.gamepedia.com/Darklight_Greatsword), [Trinity](https://calamitymod.gamepedia.com/Trinity), [Absolute Zero](https://calamitymod.gamepedia.com/Absolute_Zero), [Pwnagehammer](https://calamitymod.gamepedia.com/Pwnagehammer).
 
-    * **Mage**: [Golden Shower] (https://terraria.gamepedia.com/Golden_Shower), [Seething Discharge](https://calamitymod.gamepedia.com/Seething_Discharge), [Shadecrystal Barrage](https://calamitymod.gamepedia.com/Shadecrystal_Barrage), [Gleaming Magnolia](https://calamitymod.gamepedia.com/Gleaming_Magnolia), [*SHPC*](https://calamitymod.gamepedia.com/SHPC), [Infernal Rift](https://calamitymod.gamepedia.com/Infernal_Rift), [Brimrose Staff](https://calamitymod.gamepedia.com/Brimrose_Staff).
+    * **Mage**: [Golden Shower](https://terraria.gamepedia.com/Golden_Shower), [Seething Discharge](https://calamitymod.gamepedia.com/Seething_Discharge), [Shadecrystal Barrage](https://calamitymod.gamepedia.com/Shadecrystal_Barrage), [Gleaming Magnolia](https://calamitymod.gamepedia.com/Gleaming_Magnolia), [*SHPC*](https://calamitymod.gamepedia.com/SHPC), [Infernal Rift](https://calamitymod.gamepedia.com/Infernal_Rift), [Brimrose Staff](https://calamitymod.gamepedia.com/Brimrose_Staff).
 
     * **Summoner**: [Ancient Ice Chunk](https://calamitymod.gamepedia.com/Ancient_Ice_Chunk), [Optic Staff](https://terraria.gamepedia.com/Optic_Staff), [Deepsea Staff](https://calamitymod.gamepedia.com/Deepsea_Staff), [Cryogenic Staff](https://calamitymod.gamepedia.com/Cryogenic_Staff), [Ballista Cane](https://terraria.gamepedia.com/Ballista_sentry_summons).
 
@@ -41,7 +41,7 @@
 * **Strategy:**
 
     * On Rev or below, spin in wide circles around him until he falls over. Regardless of difficulty - keep your distance. Using the [Unicorn](https://terraria.gamepedia.com/Blessed_Apple) is a great way to keep your distance during head spins.
-    *DO NOT USE GRAVITATION POTIONS!!!
+    * DO NOT USE GRAVITATION POTIONS!!!
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_38.png)
 
