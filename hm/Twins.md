@@ -14,9 +14,9 @@
 
     * **Ranged**: [Megashark](https://terraria.gamepedia.com/Megashark), [*Flarewing Bow*](https://calamitymod.gamepedia.com/Flarewing_Bow), [Butcher](https://calamitymod.gamepedia.com/Butcher_(Weapon)), [Effluvium Bow](https://calamitymod.gamepedia.com/Effluvium_Bow), [Eternal Blizzard](https://calamitymod.gamepedia.com/Eternal_Blizzard), [Slag Magnum](https://calamitymod.gamepedia.com/Slag_Magnum), [Ichor](https://terraria.gamepedia.com/Ichor_Arrow)/[Holy](https://terraria.gamepedia.com/Holy_Arrow)/[Icicle Arrows](https://calamitymod.gamepedia.com/Icicle_Arrow), [Ichor](https://terraria.gamepedia.com/Ichor_Bullet)/[Crystal Bullets](https://terraria.gamepedia.com/Crystal_Bullet).
 
-    * **Melee**: [Darklight Greatsword](https://calamitymod.gamepedia.com/Darklight_Greatsword), [Trinity](https://calamitymod.gamepedia.com/Trinity), [Absolute Zero](https://calamitymod.gamepedia.com/Absolute_Zero), [Glacial Crusher](https://calamitymod.gamepedia.com/Glacial Crusher), [Yelets](https://terraria.gamepedia.com/Yelets).
+    * **Melee**: [Darklight Greatsword](https://calamitymod.gamepedia.com/Darklight_Greatsword), [Trinity](https://calamitymod.gamepedia.com/Trinity), [Absolute Zero](https://calamitymod.gamepedia.com/Absolute_Zero), [Glacial Crusher](https://calamitymod.gamepedia.com/Glacial_Crusher), [Yelets](https://terraria.gamepedia.com/Yelets).
 
-    * **Mage**: [Serpentine](https://calamitymod.gamepedia.com/Serpentine), [Poseidon](https://calamitymod.gamepedia.com/Poseidon), [Golden Shower](https://terraria.gamepedia.com/Golden_Shower), [Shadecrystal Barrage](https://calamtiymod.gamepedia.com/Crystal_Storm), [Crystal Serpent](https://terraria.gamepedia.com/Crystal_Serpent), [Sky Fracture](https://terraria.gamepedia.com/Sky_Fracture), [Gleaming Magnolia](https://calamitymod.gamepedia.com/Gleaming Magnolia), [SHPC](https://calamitymod.gamepedia.com/SHPC), [Winter's Fury](https://calamitymod.gamepedia.com/Winter%27s_Fury).
+    * **Mage**: [Serpentine](https://calamitymod.gamepedia.com/Serpentine), [Poseidon](https://calamitymod.gamepedia.com/Poseidon), [Golden Shower](https://terraria.gamepedia.com/Golden_Shower), [Shadecrystal Barrage](https://calamtiymod.gamepedia.com/Crystal_Storm), [Crystal Serpent](https://terraria.gamepedia.com/Crystal_Serpent), [Sky Fracture](https://terraria.gamepedia.com/Sky_Fracture), [Gleaming Magnolia](https://calamitymod.gamepedia.com/Gleaming_Magnolia), [SHPC](https://calamitymod.gamepedia.com/SHPC), [Winter's Fury](https://calamitymod.gamepedia.com/Winter%27s_Fury).
 
     * **Summoner**: [Ancient Ice Chunk](https://calamitymod.gamepedia.com/Ancient_Ice_Chunk), [Cryogenic Staff](https://calamitymod.gamepedia.com/Cryogenic_Staff).
 
@@ -41,7 +41,7 @@
 * **Strategy:**
 
     * Kill either of the eyes first, both of them are annoying to dodge in second phase although both eyes must enter phase 2 to continue in Rev+. Retinazer's lasers can be dodged by gently tapping your jump button with wings (you're gonna reuse that on SCal or Clone eventually).
-    *DO NOT USE GRAVITATION POTIONS!!!
+    * DO NOT USE GRAVITATION POTIONS!!!
 
 ![image alt text](../public/Twins.png)
 
