@@ -44,7 +44,7 @@
 
     * ~~**Strategy 2 - "Melee 2: Electric Boogaloo"**: grab ALL the melee speed accessories, reforge them to Violent, grab Fetid Baghnakhs, summon the worm, jump into him while he's still coiled, proceed to shred him at the speed of 60 attacks per second.~~ It's dead.
     
-    *DO NOT USE GRAVITATION POTION!!!
+    * DO NOT USE GRAVITATION POTION!!!
 
 ![image alt text](../public/Destroyer.png)
 
