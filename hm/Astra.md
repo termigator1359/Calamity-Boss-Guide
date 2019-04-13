@@ -1,42 +1,44 @@
-## Astrum Aureus
+## [Astrum Aureus](https://calamitymod.gamepedia.com/Astrum_Aureus)
 
-*"A titanic slime infected by a star-borne disease..."* 
+*"A titanic cyborg infected by a star-borne disease..."* 
 
 ![image alt text](../public/Aureus.png)
-
+    
 * **Armor Sets:**
 
-    * **Any class**: Reaver, Chlorophyte.
+    * **Any class**: [Titanium](https://terraria.gamepedia.com/Titanium_armor), [Reaver](https://calamitymod.gamepedia.com/Reaver_armor), [Chlorophyte](https://terraria.gamepedia.com/Chlorophyte_armor).
+    
+    * **Mage**: [Spectre](https://terraria.gamepedia.com/Spectre_armor).
 
-    * **Mage**: Spectre.
+    * **Summoner**: [Spooky](https://terraria.gamepedia.com/Spooky_armor)
 
 * **Weapon Loadouts:**
 
-    * **Ranged**: *Conclave Crossfire*, Megalodon. Ichor/Terra Ammo.
+    * **Ranged**: [*The Ballista*](https://calamitymod.gamepedia.com/The_Ballista), [Megalodon](https://calamitymod.gamepedia.com/Megalodon), [Conclave Crossfire](https://calamitymod.gamepedia.com/Conclave_Crossfire).[Icicle](https://calamitymod.gamepedia.com/Icicle_Arrow)/[Ichor](https://terraria.gamepedia.com/Ichor_Arrow)/[Holy Arrows](https://terraria.gamepedia.com/Holy_Arrow), [Chlorophyte](https://terraria.gamepedia.com/Chlorophyte_Bullet)/[Ichor](https://terraria.gamepedia.com/Ichor_Bullet)/[Terra Bullets](https://calamitymod.gamepedia.com/Terra_Bullet).
 
-    * **Melee**: Tyrant Yharim's Ultisword, *Terra Blade*, True Forbidden Oathblade.
+    * **Melee**: [Terra Shiv](https://calamitymod.gamepedia.com/Terra_Shiv)/[Edge](https://calamitymod.gamepedia.com/Terra_Edge)/[Blade](https://terraria.gamepedia.com/Terra_Blade), [Terra Lance](https://calamitymod.gamepedia.com/Terra_Lance), [*True Ark of the Ancients*](https://calamitymod.gamepedia.com/True_Ark_of_the_Ancients), [True Forbidden Oathblade](https://calamitymod.gamepedia.com/True_Forbidden_Oathblade), [Tyrant Yharim's Ultisword](https://calamitymod.gamepedia.com/Tyrant_Yharim%27s_Ultisword).
 
-    * **Mage**: Primordial Earth, Everglade Spray, Tears of Heaven, Undine's Retribution.
+    * **Mage**: [Blizzard Staff](https://terraria.gamepedia.com/Blizzard_Staff), [Undine's Retribution](https://terraria.gamepedia.com/Undine%27s_Retribution), [Tears of Heaven](https://calamitymod.gamepedia.com/Tears_of_Heaven), [Primordial Earth](https://calamitymod.gamepedia.com/Primordial_Ancient), [Everglade Spray](https://calamitymod.gamepedia.com/Everglade_Spray).
 
-    * **Summoner**: Entropy's Vigil, Raven Staff, Dreadmine Staff, Sun God Staff.
+    * **Summoner**: [Entropy's Vigil](https://calamitymod.gamepedia.com/Entropy%27s_Vigil), [Sun God Staff](https://calamitymod.gamepedia.com/Sun_God_Staff), [Dreadmine Staff](https://calamitymod.gamepedia.com/Dreadmine_Staff), [Cryogenic Staff](https://calamitymod.gamepedia.com/Cryogenic_Staff).
 
-    * **Throwing**: Ballistic Poison Bomb, Brackish Flask.
-
+    * **Rogue**: [Ballistic Poison Bomb](https://calamitymod.gamepedia.com/Ballistic_Poison_Bomb), [Duststorm in a Bottle](https://calamitymod.gamepedia.com/Duststorm_in_a_Bottle), [Brackish Flask](https://calamitymod.gamepedia.com/Brackish_Flask).
+    
 * **General Accessories:**
 
-    * Angel Treads, Deific Amulet, Asgard's Valor, MOAB, The Community, Siren’s Heart.
+    * [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [Asgard's Valor](https://calamitymod.gamepedia.com/Asgard%27s_Valor)/[Tabi+](https://terraria.gamepedia.com/Tabi), [Siren's Heart](https://calamitymod.gamepedia.com/Siren's_Heart), [Frog Leg](https://calamitymod.gamepedia.com/Frog_Leg)/[Aero Stone](https://calamitymod.gamepedia.com/Aero_Stone). [Aureate Booster+](https://calamitymod.gamepedia.com/Wings)/[MOAB](https://calamitymod.gamepedia.com/MOAB).
 
 * **Class Specific Accessories:**
 
-    * **Ranged**: Ranger Emblem, Magic Quiver.
+    * **Ranged**: [Daedalus Emblem](https://calamitymod.gamepedia.com/Daedalus_Emblem), [Magic Quiver](https://terraria.gamepedia.com/Magic_Quiver).
 
-    * **Melee**: Warrior Emblem, Mechanical Glove, Bloody Worm Scarf.
+    * **Melee**: [Mechanical Glove](https://terraria.gamepedia.com/Mechanical_Glove), [Bloody Worm Scarf](https://calamitymod.gamepedia.com/Bloody_Worm_Scarf), [Celestial Shell](https://terraria.gamepedia.com/Celestial_Shell).
 
-    * **Mage**: Sorcerer Emblem, Mana Flower (optional).
+    * **Mage**: [Celestial Emblem](https://terraria.gamepedia.com/Celestial_Emblem), [Mana Flower](https://terraria.gamepedia.com/Mana_Flower) (optional).
 
-    * **Summoner**: Statis' Blessing.
+    * **Summoner**: [Statis' Blessing](https://calamitymod.gamepedia.com/Statis%27_Blessing).
 
-    * **Throwing**: Statis' Ninja Belt.
+    * **Rogue**: [Rogue Emblem](https://calamitymod.gamepedia.com/Rogue_Emblem), [Raider's Talisman](https://calamitymod.gamepedia.com/Raider%27s_Talisman), [Statis' Ninja Belt](https://calamitymod.gamepedia.com/Statis%27_Ninja_Belt).
 
 * **Strategies:**
 
