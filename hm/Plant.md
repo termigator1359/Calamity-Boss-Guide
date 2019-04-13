@@ -19,7 +19,7 @@
 
     * **Mage**: [Brimrose Staff](https://calamitymod.gamepedia.com/Brimrose_Staff), [Golden Shower](https://terraria.gamepedia.com/Golden_Shower), [Gleaming Magnolia](https://calamitymod.gamepedia.com/Gleaming_Magnolia), [*SHPC*](https://calamitymod.gamepedia.com/SHPC), [Infernal Rift](https://calamitymod.gamepedia.com/Infernal_Rift), [Downpour](https://calamitymod.gamepedia.com/Downpour), [Undine's Retribution](https://calamitymod.gamepedia.com/Undine%27s_Retribution).
 
-    * **Summoner**: [Entropy's Vigil](https://calamitymod.gamepedia.com/Entropy%27s_Vigil), [Deepsea Staff](https://calamitymod.gamepedia.com/Deepsea_Staff), [Sun God Staff](https://calamitymod.gamepedia.com/Sun_God_Staff), [Cryogenic Staff](https://calamitymod.gamepedia.com/Cryogenic_Staff).
+    * **Summoner**: [Entropy's Vigil](https://calamitymod.gamepedia.com/Entropy%27s_Vigil), [Deepsea Staff](https://calamitymod.gamepedia.com/Deepsea_Staff), [Sun God Staff](https://calamitymod.gamepedia.com/Sun_God_Staff), [Cryogenic Staff](https://calamitymod.gamepedia.com/Cryogenic_Staff), [Dreadmine Staff](https://calamitymod.gamepedia.com/Dreadmine_Staff).
 
     * **Rogue**: [Frosty Flares](https://calamitymod.gamepedia.com/Frosty_Flare), [Pwnagehammer](https://calamitymod.gamepedia.com/Pwnagehammer), [*Brimblade*](https://calamitymod.gamepedia.com/Brimblade), [*Ballistic Poison Bomb*](https://calamitymod.gamepedia.com/Ballistic_Poison_Bomb).
 
