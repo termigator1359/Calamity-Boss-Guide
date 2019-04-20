@@ -16,7 +16,7 @@
 
     * **Melee**: [Trinity](https://calamitymod.gamepedia.com/Trinity), [Forbidden Oathblade](https://calamitymod.gamepedia.com/Forbidden_Oathblade), [Dao of Pow](https://terraria.gamepedia.com/Dao_of_Pow).
 
-    * **Mage**: [*Serpentine*](https://calamitymod.gamepedia.com/Serpentine), [Poseidon](https://calamitymod.gamepedia.com/Poseidon), [Meteor Staff](https://terraria.gamepedia.com/Meteor_Staff), [*Death Valley Duster*](https://calamitymod.gamepedia.com/Death_Valley_Duster), [*SHPC*](https://calamitymod.gamepedia.com/SHPC), [Infernal Rift](https://calamitymod.gamepedia.com/Infernal_Rift), [Magical Harp](https://terraria.gamepedia.com/Magical_Harp).
+    * **Mage**: [*Serpentine*](https://calamitymod.gamepedia.com/Serpentine), [Poseidon](https://calamitymod.gamepedia.com/Poseidon), [Meteor Staff](https://terraria.gamepedia.com/Meteor_Staff), [*Death Valley Duster*](https://calamitymod.gamepedia.com/Death_Valley_Duster), [*SHPC*](https://calamitymod.gamepedia.com/SHPC), [Infernal Rift](https://calamitymod.gamepedia.com/Infernal_Rift), [Magical Harp](https://terraria.gamepedia.com/Magical_Harp), [Hell Burst](https://calamitymod.gamepedia.com/Hell_Burst), [Icicle Trident](https://calamitymod.gamepedia.com/Icicle_Trident), [Venom Staff](https://terraria.gamepedia.com/Venom_Staff).
 
     * **Summoner**: [Ancient Ice Chunk](https://calamitymod.gamepedia.com/Ancient_Ice_Chunk), [Optic Staff](https://terraria.gamepedia.com/Optic_Staff).
 
