@@ -18,7 +18,7 @@
 
     * **Melee**: [Terra Shiv](https://calamitymod.gamepedia.com/Terra_Shiv)/[Edge](https://calamitymod.gamepedia.com/Terra_Edge)/[Blade](https://terraria.gamepedia.com/Terra_Blade), [Terra Lance](https://calamitymod.gamepedia.com/Terra_Lance), [*True Ark of the Ancients*](https://calamitymod.gamepedia.com/True_Ark_of_the_Ancients), [True Forbidden Oathblade](https://calamitymod.gamepedia.com/True_Forbidden_Oathblade), [Tyrant Yharim's Ultisword](https://calamitymod.gamepedia.com/Tyrant_Yharim%27s_Ultisword).
 
-    * **Mage**: [Blizzard Staff](https://terraria.gamepedia.com/Blizzard_Staff), [Undine's Retribution](https://terraria.gamepedia.com/Undine%27s_Retribution), [Tears of Heaven](https://calamitymod.gamepedia.com/Tears_of_Heaven), [Primordial Earth](https://calamitymod.gamepedia.com/Primordial_Ancient), [Everglade Spray](https://calamitymod.gamepedia.com/Everglade_Spray).
+    * **Mage**: [Blizzard Staff](https://terraria.gamepedia.com/Blizzard_Staff), [Undine's Retribution](https://terraria.gamepedia.com/Undine%27s_Retribution), [Tears of Heaven](https://calamitymod.gamepedia.com/Tears_of_Heaven), [Primordial Earth](https://calamitymod.gamepedia.com/Primordial_Earth), [Everglade Spray](https://calamitymod.gamepedia.com/Everglade_Spray).
 
     * **Summoner**: [Entropy's Vigil](https://calamitymod.gamepedia.com/Entropy%27s_Vigil), [Sun God Staff](https://calamitymod.gamepedia.com/Sun_God_Staff), [Dreadmine Staff](https://calamitymod.gamepedia.com/Dreadmine_Staff), [Cryogenic Staff](https://calamitymod.gamepedia.com/Cryogenic_Staff).
 
@@ -26,7 +26,7 @@
     
 * **General Accessories:**
 
-    * [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [Asgard's Valor](https://calamitymod.gamepedia.com/Asgard%27s_Valor)/[Tabi+](https://terraria.gamepedia.com/Tabi), [Siren's Heart](https://calamitymod.gamepedia.com/Siren's_Heart), [Frog Leg](https://calamitymod.gamepedia.com/Frog_Leg)/[Aero Stone](https://calamitymod.gamepedia.com/Aero_Stone). [Aureate Booster+](https://calamitymod.gamepedia.com/Wings)/[MOAB](https://calamitymod.gamepedia.com/MOAB).
+    * [Angel Treads](https://calamitymod.gamepedia.com/Angel_Treads), [Deific Amulet](https://calamitymod.gamepedia.com/Deific_Amulet), [Asgard's Valor](https://calamitymod.gamepedia.com/Asgard%27s_Valor)/[Tabi+](https://terraria.gamepedia.com/Tabi), [The Community](https://calamitymod.gamepedia.com/The_Community), [Siren's Heart](https://calamitymod.gamepedia.com/Siren's_Heart), [Frog Leg](https://calamitymod.gamepedia.com/Frog_Leg)/[Aero Stone](https://calamitymod.gamepedia.com/Aero_Stone). [Aureate Booster+](https://calamitymod.gamepedia.com/Wings)/[MOAB](https://calamitymod.gamepedia.com/MOAB).
 
 * **Class Specific Accessories:**
 
